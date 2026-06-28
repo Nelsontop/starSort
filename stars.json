@@ -2,403 +2,172 @@
   "last_updated": "2026-06-28T10:20:43.048200+00:00",
   "categories": [
     {
-      "id": "agent-framework",
-      "name": "AI Agent 开发框架",
-      "description": "面向自主 Agent 的工程框架与平台，提供长周期任务编排、多步骤推理与执行能力",
-      "count": 2,
+      "id": "ai-agent-frameworks",
+      "name": "AI Agent 框架与系统",
+      "description": "AI Agent 开发框架、基础设施与系统级工具",
+      "count": 16,
       "tint": "olive"
     },
     {
-      "id": "agent-infra",
-      "name": "AI Agent 基础设施",
-      "description": "AI Agent 运行时的底层能力支撑，包括多代理编排、持久记忆、协作框架等平台级组件",
-      "count": 2,
+      "id": "ai-content-creation",
+      "name": "AI 内容创作与发布",
+      "description": "AI 驱动的文本内容生成、编辑与自动化发布",
+      "count": 9,
       "tint": "sage"
     },
     {
-      "id": "agent-infrastructure",
-      "name": "Agent 基础设施与工具",
-      "description": "构建 AI Agent 原生基础设施的工具，让软件具备 Agent 能力，或增强现有 Agent 开发平台",
-      "count": 3,
+      "id": "ai-coding-platforms",
+      "name": "AI 编码平台与编排框架",
+      "description": "AI 编程代理平台、编码方法论与编排",
+      "count": 8,
       "tint": "salmon"
     },
     {
-      "id": "agent-research",
-      "name": "AI Agent 源码深度研究",
-      "description": "对 AI Agent 源码的深度分析与研究报告，侧重原理理解与实现细节",
-      "count": 1,
+      "id": "ai-coding-skills",
+      "name": "AI 编程技能与 CC 增强",
+      "description": "AI 编程技能、Claude Code 技能与记忆工具",
+      "count": 7,
       "tint": "peach"
     },
     {
-      "id": "agent-skills",
-      "name": "AI Agent 技能工具",
-      "description": "面向 AI Agent（Claude Code / Codex 等）的技能、插件、提示词集合，用于扩展代理能力或构建可复用的技能库",
-      "count": 4,
+      "id": "education",
+      "name": "教育与学习资源",
+      "description": "算法学习、面试准备、技术周刊与教育资源",
+      "count": 7,
       "tint": "lime"
     },
     {
-      "id": "ai-agent-capability",
-      "name": "AI 智能体能力扩展",
-      "description": "为 AI 智能体（如 Claude Code）提供技能市场、网络搜索、多平台数据获取等能力扩展的工具与插件",
-      "count": 2,
+      "id": "ai-agent-skills",
+      "name": "AI Agent 技能与能力扩展",
+      "description": "Agent 技能工具、能力扩展与插件生态",
+      "count": 6,
       "tint": "sky"
     },
     {
-      "id": "ai-agent-framework",
-      "name": "AI 智能体框架",
-      "description": "用于构建、部署和管理 AI 智能体的前端与后端框架，覆盖 React/Angular/Mobile 等多端",
+      "id": "ai-coding-tools",
+      "name": "AI 编码工具与桌面客户端",
+      "description": "AI 编码生态工具、桌面客户端与代理网关",
       "count": 6,
       "tint": "steel"
     },
     {
-      "id": "ai-agent-frameworks",
-      "name": "AI Agent 框架与系统",
-      "description": "AI Agent 的工程化框架、运行时、治理与评估系统，关注 Agent 本身的构建质量和可移植性",
-      "count": 2,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "ai-assistant-agents",
-      "name": "AI 智能助手与代理",
-      "description": "面向 AI Agent 的通用基础设施、个人助手或代理平台，涵盖记忆层、多代理协作、全能助手等构建与运行 AI 代理的核心能力。",
-      "count": 3,
-      "tint": "olive"
-    },
-    {
-      "id": "ai-coding-agent",
-      "name": "AI 编程代理",
-      "description": "面向代码仓库的 AI 编程代理，能理解复杂项目上下文并自主完成编码任务",
-      "count": 2,
-      "tint": "sage"
-    },
-    {
-      "id": "ai-coding-agent-platforms",
-      "name": "AI 编码智能体平台与方法论",
-      "description": "面向 AI 编码智能体的开发工作流、方法论和平台框架，包括规约驱动开发、敏捷 AI 开发方法、智能体编排等",
-      "count": 4,
-      "tint": "salmon"
-    },
-    {
-      "id": "ai-coding-desktop",
-      "name": "AI 编程桌面客户端",
-      "description": "面向开发者的 AI 编程助手桌面应用，集成多模型、MCP 与技能扩展，提供统一的 AI 编码交互界面",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "ai-coding-ecosystem",
-      "name": "AI 编码生态工具",
-      "description": "围绕 AI 编码助手（Claude Code、Codex 等）的开发流水线自动化、账号注册管理、验证码处理等周边生态工具",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
       "id": "ai-coding-engineering",
-      "name": "AI 编码工程与工具",
-      "description": "AI 辅助编码的方法论、规范、终端工具与多 Agent 编排平台，服务于开发者日常编码工作流",
-      "count": 4,
-      "tint": "sky"
-    },
-    {
-      "id": "ai-coding-orchestration",
-      "name": "AI 编码编排框架",
-      "description": "面向 AI 编码的多智能体协作编排与工作流自动化框架，支持确定性、可重复的编码流程",
-      "count": 2,
-      "tint": "steel"
-    },
-    {
-      "id": "ai-coding-proxy",
-      "name": "AI 编码工具代理",
-      "description": "将各类 AI 编码助手（Claude Code、Codex、Grok Build 等）封装为兼容 OpenAI/Gemini/Claude 等标准 API 的代理层，统一接口调用。",
-      "count": 1,
+      "name": "AI 编码工程与代码审查",
+      "description": "编码最佳实践、工程方法论与代码审查",
+      "count": 6,
       "tint": "periwinkle"
     },
     {
-      "id": "ai-coding-skills",
-      "name": "AI 编程技能增强",
-      "description": "为 AI 编程助手（Claude Code、Codex 等）提供记忆、知识图谱、RAG、学术研究等能力扩展的 Skill/插件",
-      "count": 3,
+      "id": "ai-prompt-engineering",
+      "name": "AI 提示词与技能工程",
+      "description": "提示词工程、技能资源库与知识管理",
+      "count": 6,
       "tint": "olive"
     },
     {
-      "id": "ai-content",
-      "name": "AI 内容创作",
-      "description": "利用 AI 生成短视频、短剧等创意内容的工具或平台",
-      "count": 1,
+      "id": "iptv-streaming",
+      "name": "IPTV 与流媒体资源",
+      "description": "IPTV 源管理、直播源与 TV 应用资源",
+      "count": 5,
       "tint": "sage"
     },
     {
-      "id": "ai-content-creation",
-      "name": "AI 内容创作",
-      "description": "利用 AI 生成设计原型、办公文档、网站内容等创意产出，覆盖设计→生产→分发的完整内容链路",
-      "count": 5,
+      "id": "ai-assistant",
+      "name": "AI 智能助手与个人代理",
+      "description": "个人 AI 助手平台、智能代理与记忆系统",
+      "count": 4,
       "tint": "salmon"
     },
     {
-      "id": "ai-data-monitoring",
-      "name": "AI 数据监控与分析",
-      "description": "基于 AI 的实时/定时数据采集、监控与智能分析系统，面向特定平台（如闲鱼）进行商品或信息追踪，常配备管理后台。",
-      "count": 1,
+      "id": "ai-automation",
+      "name": "AI 自动化与客服系统",
+      "description": "AI 研究自动化、客服机器人与效率工具",
+      "count": 4,
       "tint": "peach"
     },
     {
-      "id": "ai-diagram-tool",
-      "name": "AI 图表工具",
-      "description": "结合 AI 能力与图表绘制的前端应用，通过自然语言交互生成和编辑可视化图表",
-      "count": 1,
+      "id": "domain-toolkits",
+      "name": "领域专用技能与工具集",
+      "description": "特定领域 AI 技能与个人效率工具",
+      "count": 3,
       "tint": "lime"
     },
     {
-      "id": "ai-llm-runtime",
-      "name": "AI 大模型运行时",
-      "description": "本地运行大语言模型（DeepSeek、Qwen、Gemma 等）的推理运行时，提供简洁的 CLI 与 API",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "ai-media-synthesis",
-      "name": "AI 媒体合成",
-      "description": "基于深度学习的图像/视频合成与换脸工具，实现实时面部替换与深度伪造视频生成",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "ai-prompt-skills-collections",
-      "name": "AI 提示词与技能资源库",
-      "description": "收集、整理和分享 AI 提示词（Prompts）和技能（Skills）的资源合集，供用户查找和复用",
+      "id": "ai-presentation",
+      "name": "AI 图表与演示生成",
+      "description": "自然语言驱动的图表绘制、幻灯片生成",
       "count": 3,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "ai-research-automation",
-      "name": "AI 研究自动化",
-      "description": "基于 AI 的自主研究工具，利用 Markdown 驱动的技能体系自动执行机器学习等领域的探索与分析任务。",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "ai-slide-generation",
-      "name": "AI 幻灯片生成技能",
-      "description": "利用 AI 智能体技能自动生成 HTML 演示文稿/幻灯片，含版式设计和图片生成能力",
-      "count": 1,
-      "tint": "sage"
+      "tint": "sky"
     },
     {
       "id": "ai-vertical-apps",
-      "name": "AI 垂直应用",
-      "description": "面向特定行业场景的 AI 终端应用，直接服务最终用户的具体需求",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "ai-video-generation",
-      "name": "AI 视频生成",
-      "description": "利用 AI 大模型一键生成短视频的工具，通常集成 moviepy、LLM 等能力实现自动化内容生产",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "algorithm-learning",
-      "name": "算法学习/LeetCode",
-      "description": "LeetCode 刷题指南与算法教程，涵盖数据结构、动态规划等计算机科学基础",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "browser-agent",
-      "name": "AI 浏览器智能代理",
-      "description": "利用 AI Agent 驱动浏览器自动化——将网页操作转化为 CLI 命令，实现登录态下的智能交互",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "china-holiday",
-      "name": "中国节假日日历",
-      "description": "中国节假日、调休、补班日历数据，提供 ICS 格式订阅与 API 接口",
-      "count": 1,
+      "name": "AI 垂直应用与运行时",
+      "description": "AI 垂直领域应用、浏览器代理与 LLM 运行时",
+      "count": 3,
       "tint": "steel"
     },
     {
-      "id": "claude-code-skills",
-      "name": "Claude Code 技能与增强工具",
-      "description": "为 Claude Code 提供技能文件、CLAUDE.md 配置、会话记忆持久化及技能资源集合的项目",
-      "count": 4,
+      "id": "network-proxy",
+      "name": "网络代理与资源搜索",
+      "description": "代理工具、网盘资源搜索服务",
+      "count": 3,
       "tint": "periwinkle"
     },
     {
-      "id": "cloud-storage-search",
-      "name": "网盘资源搜索服务",
-      "description": "高性能网盘资源搜索 API 服务，支持多频道多插件并发搜索、结果排序和分类",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "code-analysis",
-      "name": "代码理解与审查",
-      "description": "利用 AI 或混合架构进行代码审查、代码知识图谱构建与代码库深度分析的开发者工具",
-      "count": 2,
-      "tint": "sage"
-    },
-    {
-      "id": "content-automation",
-      "name": "AI 内容创作与自动化",
-      "description": "利用 AI 自动化内容生产全流程——从选题、写作、排版到发布与变现",
-      "count": 2,
-      "tint": "salmon"
-    },
-    {
-      "id": "content-tools",
-      "name": "内容编辑与发布工具",
-      "description": "面向内容创作、编辑与发布的工具，如 Markdown 编辑器、文档生成器等",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "customer-service-automation",
-      "name": "客服自动化",
-      "description": "提供在线客服、自动回复、多渠道客户支持的开源解决方案，替代 Intercom/Zendesk 等商业产品",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "design-system-ref",
-      "name": "设计系统参考资源",
-      "description": "汇集知名品牌设计系统的 DESIGN.md 规范文件分析与参考集合",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "dev-tools",
-      "name": "AI 开发效率工具",
-      "description": "面向 AI 辅助开发的监控、可视化与效率提升工具，如 IDE 插件、CLI 扩展等",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "diagram-generation",
-      "name": "自然语言图表生成",
-      "description": "通过自然语言描述生成生产级 SVG/PNG 技术图表，支持多种样式与 UML 的开发者工具",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "domain-ai-skills",
-      "name": "领域专用 AI 技能",
-      "description": "面向特定领域场景的 AI Skill，如深度教学、法律文档生成等垂直用途",
+      "id": "ai-media-generation",
+      "name": "AI 视频与媒体合成",
+      "description": "AI 视频生成、深度伪造与媒体合成",
       "count": 2,
       "tint": "olive"
     },
     {
-      "id": "edu-resources",
-      "name": "教育资源合集",
-      "description": "收集整理从幼儿园到中学各阶段教育学习资料，涵盖学而思、万维、猿辅导等多个机构",
-      "count": 1,
+      "id": "ai-monitoring",
+      "name": "AI 数据监控与信息平台",
+      "description": "AI 驱动的数据监控、信息采集与分析",
+      "count": 2,
       "tint": "sage"
-    },
-    {
-      "id": "financial-tools",
-      "name": "金融工具",
-      "description": "面向个人投资者的金融数据工具，提供基金实时估值查看等轻量级查询功能。",
-      "count": 1,
-      "tint": "salmon"
     },
     {
       "id": "fintech",
-      "name": "金融投资工具",
-      "description": "面向股票/证券市场投资者的量化分析、看盘辅助或投资决策工具",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "info-monitor",
-      "name": "信息监控平台",
-      "description": "实时聚合、监控全球新闻、地缘政治或舆情信息的仪表盘类项目",
-      "count": 1,
-      "tint": "lime"
-    },
-    {
-      "id": "iptv-sources",
-      "name": "IPTV 源管理",
-      "description": "IPTV 直播源自动采集、筛选、测速、生成平台，含 EPG 与台标支持，通常支持 IPv4/IPv6 双栈",
-      "count": 4,
-      "tint": "sky"
-    },
-    {
-      "id": "java-learning",
-      "name": "Java 学习与面试",
-      "description": "Java 技术深度内容，包括设计模式实践、分布式系统知识及后端面试指南",
-      "count": 3,
-      "tint": "steel"
-    },
-    {
-      "id": "music",
-      "name": "音乐娱乐工具",
-      "description": "面向终端用户的音乐播放、搜索或免费听歌工具",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "nas-docker",
-      "name": "NAS 与 Docker 部署",
-      "description": "面向 NAS 和 Docker 环境的开源项目合集与部署指南，覆盖 AI、多媒体、数据管理、运维等场景",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "personal-ai",
-      "name": "个人 AI 助手平台",
-      "description": "面向个人的私有化 AI 超级智能助手，强调隐私、简单和强大",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "personal-toolkit",
-      "name": "个人技能与工具集",
-      "description": "个人开发者维护的技能、配置或工具集合，通常为单一用户场景设计，不具有通用产品或平台属性。",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "prompt-skill",
-      "name": "提示词与技能工程",
-      "description": "提示词收集、Agent 技能包、思维蒸馏——将人的思维方式或对话模式封装为可复用的 AI 能力单元",
-      "count": 3,
-      "tint": "peach"
-    },
-    {
-      "id": "proxy-tools",
-      "name": "代理工具",
-      "description": "基于 Clash、Sing-box、Xray 等内核的代理订阅转换与自动化部署工具，覆盖 Cloudflare Workers、VPS、Docker 等多环境",
+      "name": "金融科技与投资工具",
+      "description": "金融数据分析、投资决策辅助工具",
       "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "python-tools",
-      "name": "Python 自动化工具",
-      "description": "基于 Python 的自动化注册与通用工具类项目",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "tech-weekly",
-      "name": "技术周刊",
-      "description": "定期发布的技术类周刊或博客，内容涵盖科技动态、工具推荐、行业观点等",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "tv-app-resources",
-      "name": "TV 应用资源",
-      "description": "收集整理 Android TV / 电视盒子 APK 应用资源，覆盖影视、直播、工具、游戏等类型",
-      "count": 1,
-      "tint": "periwinkle"
+      "tint": "salmon"
     },
     {
       "id": "uncategorized",
       "name": "未分类",
-      "description": "暂无足够描述信息以确定分类的项目",
+      "description": "尚未归类或难以归类的项目",
       "count": 2,
-      "tint": "olive"
+      "tint": "peach"
+    },
+    {
+      "id": "music-entertainment",
+      "name": "音乐与娱乐工具",
+      "description": "音乐资源搜索与娱乐相关工具",
+      "count": 1,
+      "tint": "lime"
+    },
+    {
+      "id": "nas-infrastructure",
+      "name": "NAS 与容器化部署",
+      "description": "NAS 系统、Docker 容器化部署与自托管方案",
+      "count": 1,
+      "tint": "sky"
+    },
+    {
+      "id": "design-resources",
+      "name": "设计系统与参考资源",
+      "description": "设计系统规范、UI 参考资源",
+      "count": 1,
+      "tint": "steel"
+    },
+    {
+      "id": "china-holiday",
+      "name": "中国节假日日历",
+      "description": "中国节假日数据与日历工具",
+      "count": 1,
+      "tint": "periwinkle"
     }
   ],
   "stars": [
@@ -431,7 +200,7 @@
       "created_at": "2025-05-07T02:50:19Z",
       "updated_at": "2026-06-28T10:06:01Z",
       "categories": [
-        "agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047599+00:00",
       "override": false
@@ -446,7 +215,7 @@
       "created_at": "2026-04-02T20:44:58Z",
       "updated_at": "2026-06-27T19:45:25Z",
       "categories": [
-        "agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047567+00:00",
       "override": false
@@ -481,7 +250,7 @@
       "created_at": "2023-08-16T16:16:33Z",
       "updated_at": "2026-06-28T10:10:58Z",
       "categories": [
-        "agent-infra"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047214+00:00",
       "override": false
@@ -517,7 +286,7 @@
       "created_at": "2026-03-21T18:32:02Z",
       "updated_at": "2026-06-28T09:01:25Z",
       "categories": [
-        "agent-infra"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047198+00:00",
       "override": false
@@ -532,7 +301,7 @@
       "created_at": "2026-01-18T21:45:37Z",
       "updated_at": "2026-06-28T10:10:07Z",
       "categories": [
-        "agent-infrastructure"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047371+00:00",
       "override": false
@@ -547,7 +316,7 @@
       "created_at": "2026-03-08T13:52:57Z",
       "updated_at": "2026-06-28T10:02:59Z",
       "categories": [
-        "agent-infrastructure"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047342+00:00",
       "override": false
@@ -562,7 +331,7 @@
       "created_at": "2026-05-06T09:32:49Z",
       "updated_at": "2026-06-28T10:03:02Z",
       "categories": [
-        "agent-infrastructure"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047413+00:00",
       "override": false
@@ -577,7 +346,7 @@
       "created_at": "2026-03-31T11:27:01Z",
       "updated_at": "2026-06-27T18:28:34Z",
       "categories": [
-        "agent-research"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047590+00:00",
       "override": false
@@ -606,7 +375,7 @@
       "created_at": "2026-02-19T21:44:05Z",
       "updated_at": "2026-06-28T10:11:04Z",
       "categories": [
-        "agent-skills"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047240+00:00",
       "override": false
@@ -642,7 +411,7 @@
       "created_at": "2025-10-19T04:04:05Z",
       "updated_at": "2026-06-28T09:11:29Z",
       "categories": [
-        "agent-skills"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047189+00:00",
       "override": false
@@ -664,7 +433,7 @@
       "created_at": "2026-05-14T09:22:35Z",
       "updated_at": "2026-06-28T10:10:01Z",
       "categories": [
-        "agent-skills"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047206+00:00",
       "override": false
@@ -688,7 +457,7 @@
       "created_at": "2026-06-01T15:19:46Z",
       "updated_at": "2026-06-28T09:23:48Z",
       "categories": [
-        "agent-skills"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047171+00:00",
       "override": false
@@ -721,7 +490,7 @@
       "created_at": "2026-02-24T02:10:24Z",
       "updated_at": "2026-06-28T10:10:39Z",
       "categories": [
-        "ai-agent-capability"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047279+00:00",
       "override": false
@@ -744,7 +513,7 @@
       "created_at": "2026-03-01T23:33:44Z",
       "updated_at": "2026-06-28T10:09:29Z",
       "categories": [
-        "ai-agent-capability"
+        "ai-agent-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047271+00:00",
       "override": false
@@ -768,7 +537,7 @@
       "created_at": "2025-10-09T19:45:18Z",
       "updated_at": "2026-06-28T10:07:24Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047686+00:00",
       "override": false
@@ -785,7 +554,7 @@
       "created_at": "2025-09-22T15:53:31Z",
       "updated_at": "2026-06-28T10:08:46Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047703+00:00",
       "override": false
@@ -821,7 +590,7 @@
       "created_at": "2023-06-19T04:08:31Z",
       "updated_at": "2026-06-28T09:38:08Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047288+00:00",
       "override": false
@@ -855,7 +624,7 @@
       "created_at": "2025-01-05T22:47:49Z",
       "updated_at": "2026-06-28T09:15:52Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047700+00:00",
       "override": false
@@ -878,7 +647,7 @@
       "created_at": "2022-06-13T08:06:19Z",
       "updated_at": "2026-06-28T05:36:32Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047727+00:00",
       "override": false
@@ -905,7 +674,7 @@
       "created_at": "2026-05-06T17:43:05Z",
       "updated_at": "2026-06-28T09:15:22Z",
       "categories": [
-        "ai-agent-framework"
+        "ai-agent-frameworks"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047296+00:00",
       "override": false
@@ -984,7 +753,7 @@
       "created_at": "2025-11-24T10:16:47Z",
       "updated_at": "2026-06-28T10:08:15Z",
       "categories": [
-        "ai-assistant-agents"
+        "ai-assistant"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047658+00:00",
       "override": false
@@ -999,7 +768,7 @@
       "created_at": "2025-10-13T12:12:29Z",
       "updated_at": "2026-06-28T10:10:33Z",
       "categories": [
-        "ai-assistant-agents"
+        "ai-assistant"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047661+00:00",
       "override": false
@@ -1029,7 +798,7 @@
       "created_at": "2023-06-20T08:58:36Z",
       "updated_at": "2026-06-28T10:08:15Z",
       "categories": [
-        "ai-assistant-agents"
+        "ai-assistant"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047648+00:00",
       "override": false
@@ -1044,7 +813,7 @@
       "created_at": "2025-04-30T20:08:00Z",
       "updated_at": "2026-06-28T10:09:47Z",
       "categories": [
-        "ai-coding-agent"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047697+00:00",
       "override": false
@@ -1075,7 +844,7 @@
       "created_at": "2025-12-03T01:40:05Z",
       "updated_at": "2026-06-28T09:59:11Z",
       "categories": [
-        "ai-coding-agent"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047682+00:00",
       "override": false
@@ -1090,7 +859,7 @@
       "created_at": "2025-04-13T14:54:25Z",
       "updated_at": "2026-06-28T10:06:56Z",
       "categories": [
-        "ai-coding-agent-platforms"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047451+00:00",
       "override": false
@@ -1105,7 +874,7 @@
       "created_at": "2026-01-13T17:59:46Z",
       "updated_at": "2026-06-28T10:10:22Z",
       "categories": [
-        "ai-coding-agent-platforms"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047463+00:00",
       "override": false
@@ -1126,7 +895,7 @@
       "created_at": "2026-01-26T11:49:10Z",
       "updated_at": "2026-06-28T10:07:32Z",
       "categories": [
-        "ai-coding-agent-platforms"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047455+00:00",
       "override": false
@@ -1162,7 +931,7 @@
       "created_at": "2026-03-21T09:37:20Z",
       "updated_at": "2026-06-27T14:10:50Z",
       "categories": [
-        "ai-coding-agent-platforms"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047442+00:00",
       "override": false
@@ -1198,7 +967,7 @@
       "created_at": "2025-08-04T14:16:16Z",
       "updated_at": "2026-06-28T10:02:48Z",
       "categories": [
-        "ai-coding-desktop"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047672+00:00",
       "override": false
@@ -1222,7 +991,7 @@
       "created_at": "2026-02-06T12:38:55Z",
       "updated_at": "2026-06-28T09:46:58Z",
       "categories": [
-        "ai-coding-desktop"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047667+00:00",
       "override": false
@@ -1237,7 +1006,7 @@
       "created_at": "2026-04-09T03:23:02Z",
       "updated_at": "2026-06-28T06:40:30Z",
       "categories": [
-        "ai-coding-ecosystem"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047256+00:00",
       "override": false
@@ -1252,7 +1021,7 @@
       "created_at": "2025-12-12T03:57:21Z",
       "updated_at": "2026-06-28T09:03:37Z",
       "categories": [
-        "ai-coding-ecosystem"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047326+00:00",
       "override": false
@@ -1391,7 +1160,7 @@
       "created_at": "2026-01-09T03:36:29Z",
       "updated_at": "2026-06-28T10:09:32Z",
       "categories": [
-        "ai-coding-orchestration"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047529+00:00",
       "override": false
@@ -1417,7 +1186,7 @@
       "created_at": "2025-02-07T21:04:12Z",
       "updated_at": "2026-06-28T08:46:04Z",
       "categories": [
-        "ai-coding-orchestration"
+        "ai-coding-platforms"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047537+00:00",
       "override": false
@@ -1439,7 +1208,7 @@
       "created_at": "2025-07-01T19:43:27Z",
       "updated_at": "2026-06-28T09:59:24Z",
       "categories": [
-        "ai-coding-proxy"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047640+00:00",
       "override": false
@@ -1534,7 +1303,7 @@
       "created_at": "2026-04-02T11:05:20Z",
       "updated_at": "2026-06-28T09:07:26Z",
       "categories": [
-        "ai-content"
+        "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047181+00:00",
       "override": false
@@ -1690,7 +1459,7 @@
       "created_at": "2025-07-16T08:13:41Z",
       "updated_at": "2026-06-28T09:33:12Z",
       "categories": [
-        "ai-data-monitoring"
+        "ai-monitoring"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047628+00:00",
       "override": false
@@ -1709,7 +1478,7 @@
       "created_at": "2025-03-23T15:03:48Z",
       "updated_at": "2026-06-28T09:34:07Z",
       "categories": [
-        "ai-diagram-tool"
+        "ai-presentation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047706+00:00",
       "override": false
@@ -1740,7 +1509,7 @@
       "created_at": "2023-06-26T19:39:32Z",
       "updated_at": "2026-06-28T09:58:19Z",
       "categories": [
-        "ai-llm-runtime"
+        "ai-vertical-apps"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047742+00:00",
       "override": false
@@ -1774,7 +1543,7 @@
       "created_at": "2023-09-24T13:19:31Z",
       "updated_at": "2026-06-28T09:52:01Z",
       "categories": [
-        "ai-media-synthesis"
+        "ai-media-generation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047678+00:00",
       "override": false
@@ -1802,7 +1571,7 @@
       "created_at": "2026-01-12T11:58:21Z",
       "updated_at": "2026-06-28T09:52:58Z",
       "categories": [
-        "ai-prompt-skills-collections"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047433+00:00",
       "override": false
@@ -1823,7 +1592,7 @@
       "created_at": "2026-05-06T13:04:20Z",
       "updated_at": "2026-06-28T09:13:37Z",
       "categories": [
-        "ai-prompt-skills-collections"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047421+00:00",
       "override": false
@@ -1838,7 +1607,7 @@
       "created_at": "2026-04-06T02:19:10Z",
       "updated_at": "2026-06-28T05:34:05Z",
       "categories": [
-        "ai-prompt-skills-collections"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047426+00:00",
       "override": false
@@ -1874,7 +1643,7 @@
       "created_at": "2026-03-10T07:31:45Z",
       "updated_at": "2026-06-28T09:53:19Z",
       "categories": [
-        "ai-research-automation"
+        "ai-automation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047645+00:00",
       "override": false
@@ -1901,7 +1670,7 @@
       "created_at": "2026-04-23T13:23:07Z",
       "updated_at": "2026-06-28T10:00:59Z",
       "categories": [
-        "ai-slide-generation"
+        "ai-presentation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047438+00:00",
       "override": false
@@ -1939,7 +1708,7 @@
       "created_at": "2024-03-11T02:57:34Z",
       "updated_at": "2026-06-28T10:09:49Z",
       "categories": [
-        "ai-video-generation"
+        "ai-media-generation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047746+00:00",
       "override": false
@@ -1963,7 +1732,7 @@
       "created_at": "2020-02-19T09:01:23Z",
       "updated_at": "2026-06-28T08:04:27Z",
       "categories": [
-        "algorithm-learning"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047764+00:00",
       "override": false
@@ -1984,7 +1753,7 @@
       "created_at": "2018-12-06T08:01:22Z",
       "updated_at": "2026-06-28T06:40:35Z",
       "categories": [
-        "algorithm-learning"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047776+00:00",
       "override": false
@@ -2007,7 +1776,7 @@
       "created_at": "2026-03-14T22:10:23Z",
       "updated_at": "2026-06-28T09:49:08Z",
       "categories": [
-        "browser-agent"
+        "ai-vertical-apps"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047620+00:00",
       "override": false
@@ -2037,7 +1806,7 @@
       "created_at": "2026-01-27T03:53:13Z",
       "updated_at": "2026-06-28T10:10:51Z",
       "categories": [
-        "claude-code-skills"
+        "ai-coding-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047515+00:00",
       "override": false
@@ -2052,7 +1821,7 @@
       "created_at": "2026-02-03T11:15:53Z",
       "updated_at": "2026-06-28T10:10:26Z",
       "categories": [
-        "claude-code-skills"
+        "ai-coding-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047524+00:00",
       "override": false
@@ -2088,7 +1857,7 @@
       "created_at": "2025-08-31T20:50:03Z",
       "updated_at": "2026-06-28T10:02:53Z",
       "categories": [
-        "claude-code-skills"
+        "ai-coding-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047511+00:00",
       "override": false
@@ -2108,7 +1877,7 @@
       "created_at": "2026-04-06T20:02:21Z",
       "updated_at": "2026-06-28T09:30:02Z",
       "categories": [
-        "claude-code-skills"
+        "ai-coding-skills"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047555+00:00",
       "override": false
@@ -2123,7 +1892,7 @@
       "created_at": "2025-07-10T07:17:46Z",
       "updated_at": "2026-06-28T09:52:01Z",
       "categories": [
-        "cloud-storage-search"
+        "network-proxy"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047446+00:00",
       "override": false
@@ -2156,7 +1925,7 @@
       "created_at": "2026-03-15T02:30:51Z",
       "updated_at": "2026-06-28T10:10:27Z",
       "categories": [
-        "code-analysis"
+        "ai-coding-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047334+00:00",
       "override": false
@@ -2178,7 +1947,7 @@
       "created_at": "2026-05-18T02:16:36Z",
       "updated_at": "2026-06-28T08:59:03Z",
       "categories": [
-        "code-analysis"
+        "ai-coding-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047304+00:00",
       "override": false
@@ -2202,7 +1971,7 @@
       "created_at": "2024-02-12T11:20:42Z",
       "updated_at": "2026-06-28T09:59:45Z",
       "categories": [
-        "content-automation"
+        "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047604+00:00",
       "override": false
@@ -2217,7 +1986,7 @@
       "created_at": "2026-03-26T14:18:54Z",
       "updated_at": "2026-06-28T09:52:42Z",
       "categories": [
-        "content-automation"
+        "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047612+00:00",
       "override": false
@@ -2245,7 +2014,7 @@
       "created_at": "2019-11-01T09:14:36Z",
       "updated_at": "2026-06-28T10:03:22Z",
       "categories": [
-        "content-tools"
+        "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047417+00:00",
       "override": false
@@ -2280,7 +2049,7 @@
       "created_at": "2019-08-14T06:50:51Z",
       "updated_at": "2026-06-28T09:55:19Z",
       "categories": [
-        "customer-service-automation"
+        "ai-automation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047247+00:00",
       "override": false
@@ -2295,7 +2064,7 @@
       "created_at": "2025-07-24T04:04:11Z",
       "updated_at": "2026-06-28T07:42:27Z",
       "categories": [
-        "customer-service-automation"
+        "ai-automation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047312+00:00",
       "override": false
@@ -2321,7 +2090,7 @@
       "created_at": "2026-03-31T16:37:01Z",
       "updated_at": "2026-06-28T10:09:05Z",
       "categories": [
-        "design-system-ref"
+        "design-resources"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047551+00:00",
       "override": false
@@ -2344,7 +2113,7 @@
       "created_at": "2026-01-02T01:35:07Z",
       "updated_at": "2026-06-28T10:09:41Z",
       "categories": [
-        "dev-tools"
+        "ai-coding-tools"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047607+00:00",
       "override": false
@@ -2366,7 +2135,7 @@
       "created_at": "2026-04-10T15:07:10Z",
       "updated_at": "2026-06-28T10:02:20Z",
       "categories": [
-        "diagram-generation"
+        "ai-presentation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047546+00:00",
       "override": false
@@ -2381,7 +2150,7 @@
       "created_at": "2026-04-29T10:07:08Z",
       "updated_at": "2026-06-28T07:10:34Z",
       "categories": [
-        "domain-ai-skills"
+        "domain-toolkits"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047395+00:00",
       "override": false
@@ -2396,7 +2165,7 @@
       "created_at": "2026-05-12T13:21:35Z",
       "updated_at": "2026-06-25T03:26:39Z",
       "categories": [
-        "domain-ai-skills"
+        "domain-toolkits"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047387+00:00",
       "override": false
@@ -2411,7 +2180,7 @@
       "created_at": "2025-05-13T06:22:39Z",
       "updated_at": "2026-06-28T09:25:18Z",
       "categories": [
-        "edu-resources"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047533+00:00",
       "override": false
@@ -2426,7 +2195,7 @@
       "created_at": "2026-01-31T12:55:02Z",
       "updated_at": "2026-06-28T08:26:36Z",
       "categories": [
-        "financial-tools"
+        "fintech"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047665+00:00",
       "override": false
@@ -2466,7 +2235,7 @@
       "created_at": "2026-01-08T17:26:06Z",
       "updated_at": "2026-06-28T10:10:07Z",
       "categories": [
-        "info-monitor"
+        "ai-monitoring"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047223+00:00",
       "override": false
@@ -2487,7 +2256,7 @@
       "created_at": "2018-11-14T22:00:57Z",
       "updated_at": "2026-06-28T10:10:52Z",
       "categories": [
-        "iptv-sources"
+        "iptv-streaming"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047749+00:00",
       "override": false
@@ -2517,7 +2286,7 @@
       "created_at": "2022-11-16T18:03:31Z",
       "updated_at": "2026-06-28T09:24:49Z",
       "categories": [
-        "iptv-sources"
+        "iptv-streaming"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047738+00:00",
       "override": false
@@ -2553,7 +2322,7 @@
       "created_at": "2024-02-04T11:22:59Z",
       "updated_at": "2026-06-28T08:16:48Z",
       "categories": [
-        "iptv-sources"
+        "iptv-streaming"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047730+00:00",
       "override": false
@@ -2568,7 +2337,7 @@
       "created_at": "2022-10-03T22:33:40Z",
       "updated_at": "2026-06-28T06:18:43Z",
       "categories": [
-        "iptv-sources"
+        "iptv-streaming"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047752+00:00",
       "override": false
@@ -2597,7 +2366,7 @@
       "created_at": "2018-05-07T13:27:00Z",
       "updated_at": "2026-06-28T10:07:12Z",
       "categories": [
-        "java-learning"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047780+00:00",
       "override": false
@@ -2621,7 +2390,7 @@
       "created_at": "2014-08-09T16:45:18Z",
       "updated_at": "2026-06-28T05:58:14Z",
       "categories": [
-        "java-learning"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047768+00:00",
       "override": false
@@ -2657,7 +2426,7 @@
       "created_at": "2018-10-06T11:38:30Z",
       "updated_at": "2026-06-27T20:40:04Z",
       "categories": [
-        "java-learning"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047773+00:00",
       "override": false
@@ -2672,7 +2441,7 @@
       "created_at": "2026-04-24T03:45:20Z",
       "updated_at": "2026-06-24T07:38:02Z",
       "categories": [
-        "music"
+        "music-entertainment"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047231+00:00",
       "override": false
@@ -2687,7 +2456,7 @@
       "created_at": "2025-03-19T03:52:16Z",
       "updated_at": "2026-06-28T02:27:24Z",
       "categories": [
-        "nas-docker"
+        "nas-infrastructure"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047724+00:00",
       "override": false
@@ -2702,7 +2471,7 @@
       "created_at": "2026-02-18T20:01:27Z",
       "updated_at": "2026-06-28T10:11:18Z",
       "categories": [
-        "personal-ai"
+        "ai-assistant"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047363+00:00",
       "override": false
@@ -2717,7 +2486,7 @@
       "created_at": "2026-03-08T03:08:33Z",
       "updated_at": "2026-06-28T10:07:25Z",
       "categories": [
-        "personal-toolkit"
+        "domain-toolkits"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047624+00:00",
       "override": false
@@ -2751,7 +2520,7 @@
       "created_at": "2022-12-05T13:54:13Z",
       "updated_at": "2026-06-28T10:02:51Z",
       "categories": [
-        "prompt-skill"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047594+00:00",
       "override": false
@@ -2766,7 +2535,7 @@
       "created_at": "2026-04-05T04:33:04Z",
       "updated_at": "2026-06-28T10:03:02Z",
       "categories": [
-        "prompt-skill"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047562+00:00",
       "override": false
@@ -2786,7 +2555,7 @@
       "created_at": "2026-01-13T03:04:56Z",
       "updated_at": "2026-06-28T09:48:13Z",
       "categories": [
-        "prompt-skill"
+        "ai-prompt-engineering"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047616+00:00",
       "override": false
@@ -2822,7 +2591,7 @@
       "created_at": "2025-04-22T01:46:41Z",
       "updated_at": "2026-06-28T07:29:07Z",
       "categories": [
-        "proxy-tools"
+        "network-proxy"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047713+00:00",
       "override": false
@@ -2846,7 +2615,7 @@
       "created_at": "2024-07-27T08:09:07Z",
       "updated_at": "2026-06-28T07:22:01Z",
       "categories": [
-        "proxy-tools"
+        "network-proxy"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047710+00:00",
       "override": false
@@ -2861,7 +2630,7 @@
       "created_at": "2026-03-22T13:00:59Z",
       "updated_at": "2026-06-27T16:39:07Z",
       "categories": [
-        "python-tools"
+        "ai-automation"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047542+00:00",
       "override": false
@@ -2876,7 +2645,7 @@
       "created_at": "2018-10-13T12:36:07Z",
       "updated_at": "2026-06-28T10:04:17Z",
       "categories": [
-        "tech-weekly"
+        "education"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047735+00:00",
       "override": false
@@ -2898,7 +2667,7 @@
       "created_at": "2025-03-11T01:59:36Z",
       "updated_at": "2026-06-28T09:52:56Z",
       "categories": [
-        "tv-app-resources"
+        "iptv-streaming"
       ],
       "analyzed_at": "2026-06-28T10:20:43.047719+00:00",
       "override": false
