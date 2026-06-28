@@ -1,620 +1,147 @@
 {
-  "last_updated": "2026-06-28T11:05:53.599047+00:00",
+  "last_updated": "2026-06-28T11:18:49.076158+00:00",
   "categories": [
     {
       "id": "ai-agent",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 31,
+      "name": "AI Agent",
+      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
+      "count": 34,
       "tint": "olive"
-    },
-    {
-      "id": "ai-agent-frameworks",
-      "name": "AI Agent 框架与系统",
-      "description": "AI Agent 开发框架、基础设施与系统级工具",
-      "count": 6,
-      "tint": "sage"
     },
     {
       "id": "ai-agent-skills",
-      "name": "AI Agent 技能与能力扩展",
-      "description": "Agent 技能工具、能力扩展与插件生态",
-      "count": 5,
-      "tint": "salmon"
-    },
-    {
-      "id": "ai-application",
-      "name": "AI 应用 / 图像视频处理",
-      "description": "基于 AI 的实时换脸与深度伪造工具",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "ai-applications",
-      "name": "面试/求职",
-      "description": "技术面试题、面经与求职指南",
-      "count": 1,
-      "tint": "lime"
-    },
-    {
-      "id": "ai-assistant",
-      "name": "AI Agent 框架与系统",
-      "description": "AI Agent 开发框架、基础设施与系统级工具",
-      "count": 5,
-      "tint": "sky"
-    },
-    {
-      "id": "ai-automation",
-      "name": "AI 自动化与客服系统",
-      "description": "通用自动注册工具",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "ai-coding-engineering",
-      "name": "AI 编程技能与 CC 增强",
-      "description": "基于 Andrej Karpathy 观察提炼的 Claude Code 行为改进技能",
-      "count": 2,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "ai-coding-platforms",
-      "name": "AI Agent 框架与系统",
-      "description": "AI Agent 开发框架、基础设施与系统级工具",
-      "count": 5,
-      "tint": "olive"
-    },
-    {
-      "id": "ai-coding-skills",
-      "name": "AI 编程技能与 CC 增强",
-      "description": "AI 编程技能、Claude Code 技能与记忆工具",
-      "count": 10,
+      "name": "Skills",
+      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
+      "count": 14,
       "tint": "sage"
-    },
-    {
-      "id": "ai-coding-tools",
-      "name": "AI 编码工具与桌面客户端",
-      "description": "AI 编码生态工具、桌面客户端与代理网关",
-      "count": 3,
-      "tint": "salmon"
     },
     {
       "id": "ai-content-creation",
       "name": "AI 内容创作与发布",
       "description": "AI 驱动的文本内容生成、编辑与自动化发布",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "ai-content-generation",
-      "name": "AI内容生成",
-      "description": "利用 AI 大模型一键生成高清短视频的工具，支持自动化文案、配音、画面合成",
-      "count": 1,
-      "tint": "lime"
-    },
-    {
-      "id": "ai-dev-tools",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "ai-models",
-      "name": "AI Agent",
-      "description": "AI 智能体框架、智能体基础设施与工具",
-      "count": 1,
-      "tint": "steel"
+      "count": 13,
+      "tint": "salmon"
     },
     {
       "id": "ai-monitoring",
       "name": "AI 数据监控与信息平台",
       "description": "AI 驱动的数据监控、信息采集与分析",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "ai-platform",
-      "name": "AI 智能体 / AI 平台",
-      "description": "AI 智能体的构建、部署与编排平台",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "ai-presentation",
-      "name": "AI 图表与演示生成",
-      "description": "自然语言驱动的技术图表生成工具",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "ai-prompt-engineering",
-      "name": "AI 编程技能与 CC 增强",
-      "description": "AI 编程技能、Claude Code 技能与记忆工具",
       "count": 2,
-      "tint": "salmon"
-    },
-    {
-      "id": "ai-research",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 1,
       "tint": "peach"
-    },
-    {
-      "id": "ai-tools",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等可复用 AI 资产",
-      "count": 1,
-      "tint": "lime"
-    },
-    {
-      "id": "ai-vertical-apps",
-      "name": "AI 图表与演示生成",
-      "description": "自然语言驱动的技术图表生成工具",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "ai-writing",
-      "name": "AI 写作",
-      "description": "AI 内容创作、写作辅助与自动化发布工具",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "algorithms",
-      "name": "算法与数据结构",
-      "description": "算法、数据结构与编程题解",
-      "count": 2,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "android-apps",
-      "name": "媒体娱乐",
-      "description": "收集全网 Android TV 电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "api-service",
-      "name": "搜索服务",
-      "description": "搜索引擎、资源检索、信息查询类服务",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "api-services",
-      "name": "媒体娱乐",
-      "description": "IPTV 直播源全自动更新平台，支持采集、筛选、测速、生成，多端部署",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "api-tools",
-      "name": "API 工具",
-      "description": "API 代理、网关与兼容层工具",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "automation",
-      "name": "浏览器扩展",
-      "description": "浏览器扩展与插件开发",
-      "count": 5,
-      "tint": "lime"
-    },
-    {
-      "id": "backend",
-      "name": "设计模式",
-      "description": "软件设计模式的理论与实践",
-      "count": 3,
-      "tint": "sky"
-    },
-    {
-      "id": "best-practice",
-      "name": "最佳实践",
-      "description": "AI 编码方法论、使用指南、工程化实践总结",
-      "count": 1,
-      "tint": "steel"
     },
     {
       "id": "browser-automation",
-      "name": "浏览器自动化",
-      "description": "浏览器操控与 Web Agent",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "browser-extension",
-      "name": "浏览器扩展",
-      "description": "浏览器扩展与插件开发",
-      "count": 2,
-      "tint": "olive"
-    },
-    {
-      "id": "calendar",
-      "name": "工具",
-      "description": "实用工具、效率软件与开发者工具",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "code-analysis",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "code-review",
-      "name": "代码审查",
-      "description": "代码审查、静态分析、代码质量检测工具",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "content-creation",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill",
-      "count": 1,
+      "name": "浏览器与自动化工具",
+      "description": "浏览器扩展、自动化脚本与验证码处理工具",
+      "count": 3,
       "tint": "lime"
-    },
-    {
-      "id": "content-engineering",
-      "name": "内容工程",
-      "description": "内容生成、SEO/GEO 优化、多站点分发与内容自动化",
-      "count": 1,
-      "tint": "sky"
     },
     {
       "id": "customer-support",
-      "name": "客服系统",
-      "description": "在线客服、工单系统、帮助台等客户服务工具",
+      "name": "客服与通讯工具",
+      "description": "在线客服、自动回复与多渠道通讯平台",
       "count": 2,
-      "tint": "steel"
-    },
-    {
-      "id": "data-collections",
-      "name": "流媒体",
-      "description": "直播、点播、音视频流媒体相关项目",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "design",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "design-patterns",
-      "name": "设计模式",
-      "description": "软件设计模式的理论与实践",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "design-resources",
-      "name": "设计系统与参考资源",
-      "description": "DESIGN.md 设计系统文件精选合集",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "desktop-app",
-      "name": "AI 智能体 / 桌面应用 / Skills",
-      "description": "多模型 AI 智能体桌面客户端，兼具 Skills 扩展能力",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "dev-methodology",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等可复用 AI 资产",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "dev-tools",
-      "name": "AI Agent",
-      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
-      "count": 6,
       "tint": "sky"
     },
     {
       "id": "developer-tools",
-      "name": "AI 智能体 / 桌面应用 / 开发者工具",
-      "description": "聚合多个 AI 编程工具的跨平台桌面一体化助手",
-      "count": 4,
+      "name": "开发者工具",
+      "description": "面向开发者的终端、编辑器与效率工具",
+      "count": 14,
       "tint": "steel"
-    },
-    {
-      "id": "diagram-visualization",
-      "name": "AI 应用 / 效率工具 / 图表可视化",
-      "description": "集成 AI 的 draw.io 图表生成 Web 应用",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "digital-human",
-      "name": "AI Agent",
-      "description": "帮助数字人或大语言模型连通业务系统的 Agent 框架，支持 OpenAI 兼容接口和 DeepSeek",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "distributed-systems",
-      "name": "面试/求职",
-      "description": "技术面试题、面经与求职指南",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "docker-containers",
-      "name": "代理工具",
-      "description": "一键部署代理服务的小钢炮脚本，自动搭配 Sing-box、Xray、Argo 三种内核",
-      "count": 2,
-      "tint": "salmon"
     },
     {
       "id": "domain-toolkits",
-      "name": "金融科技与投资工具",
-      "description": "金融数据分析、投资决策辅助工具",
-      "count": 3,
-      "tint": "peach"
-    },
-    {
-      "id": "education",
-      "name": "AI Agent 技能与能力扩展",
-      "description": "Agent 技能工具、能力扩展与插件生态",
-      "count": 4,
-      "tint": "lime"
-    },
-    {
-      "id": "evaluation",
       "name": "Skills",
       "description": "AI 编程技能、提示词工程、工作流 Skill 等",
       "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "finance",
-      "name": "金融理财",
-      "description": "金融投资、理财与行情查看工具",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "fintech",
-      "name": "金融科技与投资工具",
-      "description": "金融数据分析、投资决策辅助工具",
-      "count": 1,
       "tint": "periwinkle"
     },
     {
-      "id": "framework",
-      "name": "AI Agent",
-      "description": "AI 智能体与多 Agent 系统",
-      "count": 2,
+      "id": "education-resources",
+      "name": "教育学习资源",
+      "description": "教育资料、课程资源与学习材料集合",
+      "count": 9,
       "tint": "olive"
     },
     {
-      "id": "frontend",
-      "name": "前端框架",
-      "description": "前端开发框架、UI 组件库与工具",
-      "count": 2,
+      "id": "finance-tools",
+      "name": "金融工具",
+      "description": "基金、股票等金融数据实时查看与信息工具",
+      "count": 1,
       "tint": "sage"
     },
     {
-      "id": "generative-ui",
-      "name": "前端框架",
-      "description": "前端开发框架、UI 组件库与工具",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "image-video-processing",
-      "name": "AI 应用 / 图像视频处理",
-      "description": "基于 AI 的实时换脸与深度伪造工具",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "interview",
-      "name": "算法与数据结构",
-      "description": "算法、数据结构与编程题解",
-      "count": 4,
-      "tint": "lime"
-    },
-    {
-      "id": "large-language-models",
-      "name": "AI大模型",
-      "description": "本地运行大语言模型的工具，支持 DeepSeek、Qwen、GLM 等主流开源模型的一键部署",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "media-entertainment",
-      "name": "媒体娱乐",
-      "description": "收集全网 Android TV 电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型",
-      "count": 3,
-      "tint": "steel"
-    },
-    {
-      "id": "monitoring",
-      "name": "自动化",
-      "description": "自动化脚本、定时任务与流程编排工具",
-      "count": 1,
-      "tint": "periwinkle"
-    },
-    {
       "id": "multi-agent",
-      "name": "多 Agent 编排",
-      "description": "多 AI Agent 协同、编排、调度与管理的平台与框架",
-      "count": 1,
-      "tint": "olive"
+      "name": "AI Agent",
+      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
+      "count": 2,
+      "tint": "salmon"
     },
     {
       "id": "music-entertainment",
       "name": "音乐与娱乐工具",
       "description": "音乐资源搜索与娱乐相关工具",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "nas-selfhosted",
-      "name": "NAS/自托管",
-      "description": "专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "office",
-      "name": "办公自动化",
-      "description": "文档、演示文稿、表格等办公场景的 AI 自动化工具",
-      "count": 1,
+      "count": 7,
       "tint": "peach"
     },
     {
-      "id": "open-source-platform",
-      "name": "AI Agent",
-      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
-      "count": 1,
+      "id": "network-tools",
+      "name": "网络与代理工具",
+      "description": "网络代理、VPN 订阅转换与隧道部署工具",
+      "count": 2,
       "tint": "lime"
     },
     {
-      "id": "open-source-resources",
-      "name": "NAS/自托管",
-      "description": "专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景",
-      "count": 2,
+      "id": "resource-search",
+      "name": "资源搜索工具",
+      "description": "网盘、文件与在线资源搜索、聚合与下载工具",
+      "count": 3,
       "tint": "sky"
-    },
-    {
-      "id": "productivity-tools",
-      "name": "AI 应用 / 效率工具 / 图表可视化",
-      "description": "集成 AI 的 draw.io 图表生成 Web 应用",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "proxy-tools",
-      "name": "代理工具",
-      "description": "基于 Cloudflare Workers 的订阅转换工具，统一处理 Clash/Sing-box 等代理订阅",
-      "count": 2,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "scripting-tools",
-      "name": "代理工具",
-      "description": "一键部署代理服务的小钢炮脚本，自动搭配 Sing-box、Xray、Argo 三种内核",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "search-service",
-      "name": "搜索服务",
-      "description": "搜索引擎、资源检索、信息查询类服务",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "search-tools",
-      "name": "AI Agent",
-      "description": "AI 智能体框架、智能体基础设施与工具",
-      "count": 1,
-      "tint": "salmon"
-    },
-    {
-      "id": "serverless",
-      "name": "代理工具",
-      "description": "基于 Cloudflare Workers 的订阅转换工具，统一处理 Clash/Sing-box 等代理订阅",
-      "count": 1,
-      "tint": "peach"
     },
     {
       "id": "skills",
       "name": "Skills",
       "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 22,
-      "tint": "lime"
-    },
-    {
-      "id": "software-engineering",
-      "name": "Skills / AI 智能体 / 软件工程",
-      "description": "智能体技能框架与软件开发方法论",
-      "count": 1,
-      "tint": "sky"
+      "count": 30,
+      "tint": "steel"
     },
     {
       "id": "spec-driven-dev",
-      "name": "规范驱动开发",
-      "description": "Spec-Driven Development，以规范文档驱动 AI 编码的开发方法论与工具",
-      "count": 1,
-      "tint": "steel"
-    },
-    {
-      "id": "streaming",
-      "name": "流媒体",
-      "description": "直播、点播、音视频流媒体相关项目",
-      "count": 2,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "tech-newsletter",
-      "name": "技术周刊",
-      "description": "阮一峰的网络科技爱好者周刊，每周五发布，分享科技资讯与开源项目",
-      "count": 1,
-      "tint": "olive"
-    },
-    {
-      "id": "terminal",
-      "name": "终端工具",
-      "description": "终端模拟器、Shell 增强、命令行效率工具",
-      "count": 1,
-      "tint": "sage"
-    },
-    {
-      "id": "tools",
-      "name": "自动化",
-      "description": "流程自动化工具",
-      "count": 4,
-      "tint": "salmon"
-    },
-    {
-      "id": "travel",
-      "name": "旅游出行",
-      "description": "旅游规划、攻略生成、出行助手等文旅场景应用",
-      "count": 1,
-      "tint": "peach"
-    },
-    {
-      "id": "tutorial-resources",
-      "name": "AI Agent",
-      "description": "AI 智能体与多 Agent 系统",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "video-multimedia",
-      "name": "视频/多媒体",
-      "description": "推测为视频或直播相关项目（无描述与 Topic）",
-      "count": 1,
-      "tint": "sky"
-    },
-    {
-      "id": "visualization",
       "name": "Skills",
       "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 2,
-      "tint": "steel"
+      "count": 3,
+      "tint": "periwinkle"
     }
   ],
   "stars": [
     {
+      "full_name": "openclaw/openclaw",
+      "description": "你的个人 AI 助手，支持任何操作系统和平台。The lobster way. 🦞",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal"
+      ],
+      "html_url": "https://github.com/openclaw/openclaw",
+      "stargazers_count": 380795,
+      "created_at": "2025-11-24T10:16:47Z",
+      "updated_at": "2026-06-28T10:52:38Z",
+      "categories": [
+        "ai-agent",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075903+00:00",
+      "override": false
+    },
+    {
       "full_name": "NousResearch/hermes-agent",
-      "description": "Hermes Agent —— 一个伴随用户成长的 AI Agent，支持 Anthropic、ChatGPT 等多种后端。",
+      "description": "与你共同成长的 AI Agent 框架，支持 Anthropic、ChatGPT 等后端",
       "language": "Python",
       "topics": [
         "ai",
@@ -635,402 +162,49 @@
         "openclaw"
       ],
       "html_url": "https://github.com/NousResearch/hermes-agent",
-      "stargazers_count": 204611,
+      "stargazers_count": 204613,
       "created_at": "2025-07-22T22:22:28Z",
-      "updated_at": "2026-06-28T10:54:58Z",
+      "updated_at": "2026-06-28T11:03:24Z",
       "categories": [
         "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598319+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075790+00:00",
       "override": false
     },
     {
       "full_name": "anomalyco/opencode",
-      "description": "开源编程智能体（Coding Agent）",
+      "description": "开源编程智能体",
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/anomalyco/opencode",
-      "stargazers_count": 180038,
+      "stargazers_count": 180041,
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-06-28T10:55:06Z",
+      "updated_at": "2026-06-28T11:02:20Z",
       "categories": [
         "ai-agent",
         "developer-tools"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598466+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075936+00:00",
       "override": false
     },
     {
       "full_name": "msitarzewski/agency-agents",
-      "description": "触手可及的完整 AI Agency —— 从前端开发向导到 Reddit 社区运营专家，从白帽安全到多角色 Agent 协作，一站式 AI Agent 团队。",
+      "description": "触手可及的完整 AI 代理机构 — 涵盖前端开发、Reddit 社区运营等多种 AI Agent。",
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/msitarzewski/agency-agents",
-      "stargazers_count": 116792,
+      "stargazers_count": 116800,
       "created_at": "2025-10-13T12:12:29Z",
-      "updated_at": "2026-06-28T10:54:23Z",
+      "updated_at": "2026-06-28T11:04:27Z",
       "categories": [
         "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598434+00:00",
-      "override": false
-    },
-    {
-      "full_name": "farion1231/cc-switch",
-      "description": "跨平台桌面一体化助手，统一管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 等多个 AI 编程工具",
-      "language": "Rust",
-      "topics": [
-        "ai-tools",
-        "claude-code",
-        "codex",
-        "desktop-app",
-        "hermes",
-        "hermes-agent",
-        "mcp",
-        "minimax",
-        "omo",
-        "open-source",
-        "openclaw",
-        "openclaw-ui",
-        "opencode",
-        "provider-management",
-        "rust",
-        "skills",
-        "skills-management",
-        "tauri",
-        "typescript",
-        "wsl-support"
-      ],
-      "html_url": "https://github.com/farion1231/cc-switch",
-      "stargazers_count": 109746,
-      "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-06-28T10:48:21Z",
-      "categories": [
-        "ai-agent",
-        "desktop-app",
-        "developer-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598446+00:00",
-      "override": false
-    },
-    {
-      "full_name": "bytedance/deer-flow",
-      "description": "开源长周期 SuperAgent 工作流框架，可进行研究、编码与创作",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "ai-agents",
-        "deep-research",
-        "harness",
-        "langchain",
-        "langgraph",
-        "langmanus",
-        "llm",
-        "multi-agent",
-        "nodejs",
-        "podcast",
-        "python",
-        "superagent",
-        "typescript"
-      ],
-      "html_url": "https://github.com/bytedance/deer-flow",
-      "stargazers_count": 75125,
-      "created_at": "2025-05-07T02:50:19Z",
-      "updated_at": "2026-06-28T10:32:03Z",
-      "categories": [
-        "ai-agent",
-        "framework"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598382+00:00",
-      "override": false
-    },
-    {
-      "full_name": "code-yeongyu/oh-my-openagent",
-      "description": "omo/lazycodex：面向 token 最大化者的编程智能体；复杂代码库的专属智能体运行框架",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "gemini",
-        "ide",
-        "openai",
-        "opencode",
-        "orchestration",
-        "tui",
-        "typescript"
-      ],
-      "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "stargazers_count": 63840,
-      "created_at": "2025-12-03T01:40:05Z",
-      "updated_at": "2026-06-28T10:40:36Z",
-      "categories": [
-        "ai-agent",
-        "developer-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598453+00:00",
-      "override": false
-    },
-    {
-      "full_name": "mem0ai/mem0",
-      "description": "面向 AI Agent 的通用记忆层，为对话机器人等应用提供持久化上下文记忆能力。",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "application",
-        "chatbots",
-        "chatgpt",
-        "genai",
-        "llm",
-        "long-term-memory",
-        "memory",
-        "memory-management",
-        "python",
-        "rag",
-        "state-management"
-      ],
-      "html_url": "https://github.com/mem0ai/mem0",
-      "stargazers_count": 59614,
-      "created_at": "2023-06-20T08:58:36Z",
-      "updated_at": "2026-06-28T10:29:14Z",
-      "categories": [
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598423+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Panniantong/Agent-Reach",
-      "description": "为 AI 智能体赋予浏览全网的能力，支持阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 等平台。",
-      "language": "Python",
-      "topics": [
-        "agent-infrastructure",
-        "ai-agent",
-        "ai-search",
-        "automation",
-        "bilibili",
-        "claude-code",
-        "cli",
-        "cursor",
-        "free-api",
-        "llm-tools",
-        "mcp",
-        "python",
-        "reddit-scraper",
-        "twitter-scraper",
-        "web-scraper",
-        "xiaohongshu",
-        "youtube-transcript"
-      ],
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "stargazers_count": 43914,
-      "created_at": "2026-02-24T02:10:24Z",
-      "updated_at": "2026-06-28T10:55:06Z",
-      "categories": [
-        "ai-agent",
-        "search-tools",
-        "browser-extension"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597414+00:00",
-      "override": false
-    },
-    {
-      "full_name": "multica-ai/multica",
-      "description": "开源托管智能体平台。将编码智能体转变为真正的团队成员——分配任务、追踪进度",
-      "language": "Go",
-      "topics": [],
-      "html_url": "https://github.com/multica-ai/multica",
-      "stargazers_count": 38286,
-      "created_at": "2026-01-13T17:59:46Z",
-      "updated_at": "2026-06-28T10:24:02Z",
-      "categories": [
-        "ai-agent",
-        "open-source-platform"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598293+00:00",
-      "override": false
-    },
-    {
-      "full_name": "simstudioai/sim",
-      "description": "构建、部署与编排 AI 智能体的中央智能层，为你的 AI 工作团队提供统一调度",
-      "language": "TypeScript",
-      "topics": [
-        "agent-workflow",
-        "agentic-workflow",
-        "agents",
-        "ai",
-        "aiagents",
-        "anthropic",
-        "artificial-intelligence",
-        "automation",
-        "chatbot",
-        "deepseek",
-        "gemini",
-        "low-code",
-        "nextjs",
-        "no-code",
-        "openai",
-        "rag",
-        "react",
-        "typescript"
-      ],
-      "html_url": "https://github.com/simstudioai/sim",
-      "stargazers_count": 28886,
-      "created_at": "2025-01-05T22:47:49Z",
-      "updated_at": "2026-06-28T10:23:52Z",
-      "categories": [
-        "ai-agent",
-        "ai-platform"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598470+00:00",
-      "override": false
-    },
-    {
-      "full_name": "xszyou/Fay",
-      "description": "Fay 是一个帮助数字人（2.5D、3D、移动、PC、网页）或大语言模型（OpenAI 兼容、DeepSeek）连通业务系统的 Agent 框架。支持 Android、Python、UE5 等多平台集成。",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "android",
-        "api",
-        "python",
-        "ue5",
-        "unity3d",
-        "wav2lip"
-      ],
-      "html_url": "https://github.com/xszyou/Fay",
-      "stargazers_count": 12928,
-      "created_at": "2022-06-13T08:06:19Z",
-      "updated_at": "2026-06-28T05:36:32Z",
-      "categories": [
-        "ai-agent",
-        "digital-human"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598495+00:00",
-      "override": false
-    },
-    {
-      "full_name": "mindfold-ai/Trellis",
-      "description": "最佳 AI Agent 运行框架（Agent Harness），支持 Claude Code 与 Codex",
-      "language": "TypeScript",
-      "topics": [
-        "agentic-coding",
-        "ai-workflow",
-        "claudecode",
-        "codex",
-        "harness"
-      ],
-      "html_url": "https://github.com/mindfold-ai/Trellis",
-      "stargazers_count": 11283,
-      "created_at": "2026-01-26T11:49:10Z",
-      "updated_at": "2026-06-28T10:45:41Z",
-      "categories": [
-        "ai-agent",
-        "dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598287+00:00",
-      "override": false
-    },
-    {
-      "full_name": "op7418/CodePilot",
-      "description": "多模型 AI 智能体桌面客户端——连接任意 AI 提供商，通过 MCP 与 Skills 扩展，控制文件系统",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "desktop-app",
-        "electron",
-        "gui",
-        "nextjs"
-      ],
-      "html_url": "https://github.com/op7418/CodePilot",
-      "stargazers_count": 6059,
-      "created_at": "2026-02-06T12:38:55Z",
-      "updated_at": "2026-06-28T10:44:07Z",
-      "categories": [
-        "ai-agent",
-        "desktop-app",
-        "skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598441+00:00",
-      "override": false
-    },
-    {
-      "full_name": "tvytlx/ai-agent-deep-dive",
-      "description": "AI Agent 源码深度研究报告",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "stargazers_count": 5794,
-      "created_at": "2026-03-31T11:27:01Z",
-      "updated_at": "2026-06-27T18:28:34Z",
-      "categories": [
-        "ai-agent",
-        "tutorial-resources"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598375+00:00",
-      "override": false
-    },
-    {
-      "full_name": "opensquilla/opensquilla",
-      "description": "OpenSquilla——代币高效的 AI 智能体，在相同预算下实现更高的智能密度。",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "deep-learning",
-        "foundation-models",
-        "llm",
-        "mcp",
-        "memory",
-        "openclaw",
-        "python",
-        "skills"
-      ],
-      "html_url": "https://github.com/opensquilla/opensquilla",
-      "stargazers_count": 4908,
-      "created_at": "2026-05-06T17:43:05Z",
-      "updated_at": "2026-06-28T10:26:14Z",
-      "categories": [
-        "ai-agent",
-        "ai-models"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597420+00:00",
-      "override": false
-    },
-    {
-      "full_name": "kevinrgu/autoagent",
-      "description": "自主工作流工程框架（Autonomous Harness Engineering）",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/kevinrgu/autoagent",
-      "stargazers_count": 4509,
-      "created_at": "2026-04-02T20:44:58Z",
-      "updated_at": "2026-06-27T19:45:25Z",
-      "categories": [
-        "ai-agent",
-        "framework"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598372+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075906+00:00",
       "override": false
     },
     {
       "full_name": "thedotmack/claude-mem",
-      "description": "为 AI Agent 提供跨会话持久化上下文记忆，捕获 Agent 在会话中的所有操作行为，实现真正连续的 Agent 体验",
+      "description": "为 AI Agent 提供跨会话持久化上下文记忆，捕获并存储 Agent 在会话期间的所有行为记录，支持多种 AI Agent 框架",
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -1055,34 +229,162 @@
         "supermemory"
       ],
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "stargazers_count": 84802,
+      "stargazers_count": 84803,
       "created_at": "2025-08-31T20:50:03Z",
-      "updated_at": "2026-06-28T10:52:27Z",
+      "updated_at": "2026-06-28T11:01:04Z",
       "categories": [
-        "ai-agent-frameworks",
-        "ai-assistant"
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598333+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075803+00:00",
+      "override": false
+    },
+    {
+      "full_name": "bytedance/deer-flow",
+      "description": "字节跳动开源的长周期 SuperAgent 框架，支持研究、编码与创作等复杂任务编排",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "deep-research",
+        "harness",
+        "langchain",
+        "langgraph",
+        "langmanus",
+        "llm",
+        "multi-agent",
+        "nodejs",
+        "podcast",
+        "python",
+        "superagent",
+        "typescript"
+      ],
+      "html_url": "https://github.com/bytedance/deer-flow",
+      "stargazers_count": 75126,
+      "created_at": "2025-05-07T02:50:19Z",
+      "updated_at": "2026-06-28T10:56:37Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075856+00:00",
+      "override": false
+    },
+    {
+      "full_name": "code-yeongyu/oh-my-openagent",
+      "description": "omo/lazycodex：面向 token 最大化者的编程智能体；专为复杂代码库打造的智能体运行框架",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "gemini",
+        "ide",
+        "openai",
+        "opencode",
+        "orchestration",
+        "tui",
+        "typescript"
+      ],
+      "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "stargazers_count": 63839,
+      "created_at": "2025-12-03T01:40:05Z",
+      "updated_at": "2026-06-28T11:01:02Z",
+      "categories": [
+        "ai-agent",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075923+00:00",
+      "override": false
+    },
+    {
+      "full_name": "mem0ai/mem0",
+      "description": "AI Agent 通用记忆层（Universal memory layer for AI Agents）。",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management"
+      ],
+      "html_url": "https://github.com/mem0ai/mem0",
+      "stargazers_count": 59614,
+      "created_at": "2023-06-20T08:58:36Z",
+      "updated_at": "2026-06-28T10:29:14Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075896+00:00",
       "override": false
     },
     {
       "full_name": "HKUDS/CLI-Anything",
-      "description": "CLI-Anything：让所有软件原生支持 AI Agent，提供 CLI-Hub 统一入口（https://clianything.cc/）",
+      "description": "CLI-Anything：让所有软件具备 Agent 原生能力，通过 CLI-Hub 生态将任意命令行工具转化为 AI Agent",
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "stargazers_count": 44081,
+      "stargazers_count": 44082,
       "created_at": "2026-03-08T13:52:57Z",
-      "updated_at": "2026-06-28T10:52:53Z",
+      "updated_at": "2026-06-28T11:05:13Z",
       "categories": [
-        "ai-agent-frameworks"
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.597438+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075694+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "为 AI Agent 赋予浏览整个互联网的能力，支持读取与搜索 Twitter、Reddit、YouTube、GitHub、Bilibili 等平台内容。",
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "stargazers_count": 43923,
+      "created_at": "2026-02-24T02:10:24Z",
+      "updated_at": "2026-06-28T11:04:58Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074667+00:00",
       "override": false
     },
     {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "面向 Claude Code 的团队优先多智能体编排工具，支持自动化与 AI Agent 协作编码",
+      "description": "面向团队优先的多 Agent 编排工具，为 Claude Code 提供多智能体并行协作与自动化工作流能力",
       "language": "TypeScript",
       "topics": [
         "agentic-coding",
@@ -1101,1148 +403,15 @@
       "created_at": "2026-01-09T03:36:29Z",
       "updated_at": "2026-06-28T10:09:32Z",
       "categories": [
-        "ai-agent-frameworks",
-        "ai-coding-platforms"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598343+00:00",
-      "override": false
-    },
-    {
-      "full_name": "topoteretes/cognee",
-      "description": "Cognee：开源 AI Agent 记忆平台，为 AI Agent 提供持久长期记忆与知识图谱，支持图谱检索与语义搜索",
-      "language": "Python",
-      "topics": [
-        "agent-memory",
-        "agent-skills",
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "cognitive-architecture",
-        "cognitive-memory",
-        "context-engineering",
-        "contributions-welcome",
-        "good-first-issue",
-        "good-first-pr",
-        "graph-database",
-        "graph-rag",
-        "help-wanted",
-        "knowledge",
-        "knowledge-graph",
-        "memory-management",
-        "open-source",
-        "vector-database"
-      ],
-      "html_url": "https://github.com/topoteretes/cognee",
-      "stargazers_count": 24358,
-      "created_at": "2023-08-16T16:16:33Z",
-      "updated_at": "2026-06-28T10:51:48Z",
-      "categories": [
-        "ai-agent-frameworks",
-        "ai-assistant"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597386+00:00",
-      "override": false
-    },
-    {
-      "full_name": "jnMetaCode/agency-orchestrator",
-      "description": "一句话驱动多 AI 角色自动协作，几分钟内产出完整方案，基于 Agency Agents 构建",
-      "language": "TypeScript",
-      "topics": [
-        "agency-agents",
-        "agent-orchestration",
-        "ai-agents",
-        "autogen-alternative",
-        "claude",
-        "codex",
-        "copilot",
-        "crewai-alternative",
-        "cursor",
-        "deepseek",
-        "gemini-cli",
-        "langgraph-alternative",
-        "mcp-server",
-        "multi-agent",
-        "no-api-key",
-        "ollama",
-        "openai",
-        "orchestrator",
-        "workflow",
-        "yaml-workflow"
-      ],
-      "html_url": "https://github.com/jnMetaCode/agency-orchestrator",
-      "stargazers_count": 1511,
-      "created_at": "2026-03-21T18:32:02Z",
-      "updated_at": "2026-06-28T09:01:25Z",
-      "categories": [
-        "ai-agent-frameworks",
-        "ai-coding-platforms"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597378+00:00",
-      "override": false
-    },
-    {
-      "full_name": "xixu-me/awesome-persona-distill-skills",
-      "description": "精选 Agent 技能列表，聚焦人物、关系、纪念场景与方法论提炼，面向人格蒸馏的 Agent 技能资源",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "awesome",
-        "awesome-list",
-        "persona-distill"
-      ],
-      "html_url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-      "stargazers_count": 4490,
-      "created_at": "2026-04-06T20:02:21Z",
-      "updated_at": "2026-06-28T10:24:49Z",
-      "categories": [
-        "ai-agent-skills",
-        "ai-prompt-engineering"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598366+00:00",
-      "override": false
-    },
-    {
-      "full_name": "JuneYaooo/lineage-skill",
-      "description": "将视频、PDF、转录和笔记蒸馏为可溯源的 Agent Skills，从课程与文档中抽取判断框架、案例经验与操作流程",
-      "language": "Python",
-      "topics": [
-        "course-distillation",
-        "education-ai",
-        "knowledge-distillation",
-        "knowledge-distillation-task",
-        "knowledge-management",
-        "okf",
-        "okf-format",
-        "skills"
-      ],
-      "html_url": "https://github.com/JuneYaooo/lineage-skill",
-      "stargazers_count": 243,
-      "created_at": "2026-06-01T15:19:46Z",
-      "updated_at": "2026-06-28T09:23:48Z",
-      "categories": [
-        "ai-agent-skills",
-        "education"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597365+00:00",
-      "override": false
-    },
-    {
-      "full_name": "hacksider/Deep-Live-Cam",
-      "description": "实时换脸与一键视频深度伪造，仅需单张图像即可完成",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-deep-fake",
-        "ai-face",
-        "ai-webcam",
-        "artificial-intelligence",
-        "deep-fake",
-        "deepfake",
-        "deepfake-webcam",
-        "faceswap",
-        "fake-webcam",
-        "gan",
-        "real-time-deepfake",
-        "realtime",
-        "realtime-deepfake",
-        "realtime-face-changer",
-        "video-deepfake",
-        "webcam",
-        "webcamera"
-      ],
-      "html_url": "https://github.com/hacksider/Deep-Live-Cam",
-      "stargazers_count": 94346,
-      "created_at": "2023-09-24T13:19:31Z",
-      "updated_at": "2026-06-28T10:44:27Z",
-      "categories": [
-        "ai-application",
-        "image-video-processing"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598450+00:00",
-      "override": false
-    },
-    {
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "description": "一个集成 AI 能力与 draw.io 图表的 Next.js Web 应用，支持通过自然语言创建和编辑图表",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "diagrams",
-        "productivity"
-      ],
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "stargazers_count": 32399,
-      "created_at": "2025-03-23T15:03:48Z",
-      "updated_at": "2026-06-28T10:12:38Z",
-      "categories": [
-        "ai-application",
-        "productivity-tools",
-        "diagram-visualization"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598476+00:00",
-      "override": false
-    },
-    {
-      "full_name": "openclaw/openclaw",
-      "description": "你自己的个人 AI 助手，支持任意操作系统、任意平台。🦞",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "assistant",
-        "crustacean",
-        "molty",
-        "openclaw",
-        "own-your-data",
-        "personal"
-      ],
-      "html_url": "https://github.com/openclaw/openclaw",
-      "stargazers_count": 380795,
-      "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-06-28T10:52:38Z",
-      "categories": [
-        "ai-assistant"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598431+00:00",
-      "override": false
-    },
-    {
-      "full_name": "tinyhumansai/openhuman",
-      "description": "你的个人 AI 超级智能，私密、简洁且极其强大",
-      "language": "Rust",
-      "topics": [],
-      "html_url": "https://github.com/tinyhumansai/openhuman",
-      "stargazers_count": 33518,
-      "created_at": "2026-02-18T20:01:27Z",
-      "updated_at": "2026-06-28T10:51:26Z",
-      "categories": [
-        "ai-assistant"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597447+00:00",
-      "override": false
-    },
-    {
-      "full_name": "zc-zhangchen/any-auto-register",
-      "description": "通用自动注册工具，基于 Python 实现",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/zc-zhangchen/any-auto-register",
-      "stargazers_count": 3496,
-      "created_at": "2026-03-22T13:00:59Z",
-      "updated_at": "2026-06-28T10:47:47Z",
-      "categories": [
-        "ai-automation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598356+00:00",
-      "override": false
-    },
-    {
-      "full_name": "coleam00/Archon",
-      "description": "首个开源 AI 编码 Harness 构建器，让 AI 编码过程变得确定、可重复，支持 Bun 运行时与 CLI",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "automation",
-        "bun",
-        "claude",
-        "cli",
-        "coding-assistant",
-        "developer-tools",
-        "typescript",
-        "workflow-engine",
-        "yaml"
-      ],
-      "html_url": "https://github.com/coleam00/Archon",
-      "stargazers_count": 22610,
-      "created_at": "2025-02-07T21:04:12Z",
-      "updated_at": "2026-06-28T08:46:04Z",
-      "categories": [
-        "ai-coding-platforms",
-        "ai-coding-engineering"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598352+00:00",
-      "override": false
-    },
-    {
-      "full_name": "rpamis/comet",
-      "description": "Comet：Agent Skill 编排工具，从创意到归档的阶段化自动化流程，支持规格驱动开发",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "harness-engineering",
-        "sdd",
-        "skills",
-        "spec",
-        "spec-driven-development"
-      ],
-      "html_url": "https://github.com/rpamis/comet",
-      "stargazers_count": 1725,
-      "created_at": "2026-05-14T09:22:35Z",
-      "updated_at": "2026-06-28T10:47:11Z",
-      "categories": [
-        "ai-coding-platforms",
-        "ai-agent-skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597382+00:00",
-      "override": false
-    },
-    {
-      "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "基于 Andrej Karpathy 对 AI 编程的观察总结，提炼为单一 CLAUDE.md 文件以改进 Claude Code 的编码行为",
-      "language": "",
-      "topics": [],
-      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stargazers_count": 183671,
-      "created_at": "2026-01-27T03:53:13Z",
-      "updated_at": "2026-06-28T10:53:32Z",
-      "categories": [
-        "ai-coding-skills",
-        "ai-coding-engineering"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598336+00:00",
-      "override": false
-    },
-    {
-      "full_name": "mattpocock/skills",
-      "description": "面向实战工程师的 AI 编程技能集合，直接来自作者 .claude 配置目录，注重工程实用性",
-      "language": "Shell",
-      "topics": [],
-      "html_url": "https://github.com/mattpocock/skills",
-      "stargazers_count": 148773,
-      "created_at": "2026-02-03T11:15:53Z",
-      "updated_at": "2026-06-28T10:54:56Z",
-      "categories": [
-        "ai-coding-skills",
-        "domain-toolkits"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598340+00:00",
-      "override": false
-    },
-    {
-      "full_name": "safishamsi/graphify",
-      "description": "AI 编码助手 Skill（支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等），将任意文件夹转化为知识图谱",
-      "language": "Python",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "html_url": "https://github.com/safishamsi/graphify",
-      "stargazers_count": 73103,
-      "created_at": "2026-04-03T15:49:07Z",
-      "updated_at": "2026-06-28T10:54:19Z",
-      "categories": [
-        "ai-coding-skills",
-        "ai-coding-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598246+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Leonxlnx/taste-skill",
-      "description": "Taste-Skill：赋予 AI 良好品味，阻止 AI 生成无聊、千篇一律的内容（anti-slop），专为前端界面与设计质感优化",
-      "language": "JavaScript",
-      "topics": [
-        "agent",
-        "ai",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "design",
-        "frontend",
-        "lowcode",
-        "nocode",
-        "skill",
-        "skills",
-        "vibecoding"
-      ],
-      "html_url": "https://github.com/Leonxlnx/taste-skill",
-      "stargazers_count": 52277,
-      "created_at": "2026-02-19T21:44:05Z",
-      "updated_at": "2026-06-28T10:53:20Z",
-      "categories": [
-        "ai-coding-skills",
-        "ai-agent-skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597398+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Imbad0202/academic-research-skills",
-      "description": "Claude Code 学术研究技能：从研究、撰写、审阅、修订到定稿的完整学术写作管线",
-      "language": "Python",
-      "topics": [
-        "academic-pipeline",
-        "academic-writing",
-        "ai-research",
-        "claude",
-        "claude-code",
-        "literature-review",
-        "peer-review",
-        "prompt-engineering"
-      ],
-      "html_url": "https://github.com/Imbad0202/academic-research-skills",
-      "stargazers_count": 34968,
-      "created_at": "2026-02-26T06:31:01Z",
-      "updated_at": "2026-06-28T10:34:04Z",
-      "categories": [
-        "ai-coding-skills",
-        "education"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597441+00:00",
-      "override": false
-    },
-    {
-      "full_name": "rohitg00/agentmemory",
-      "description": "基于真实世界基准评测的 AI 编程代理持久化记忆系统",
-      "language": "TypeScript",
-      "topics": [
-        "agentmemory",
-        "agents",
-        "ai",
-        "claude",
-        "claudecode",
-        "codex",
-        "copilot",
-        "cursor",
-        "genai",
-        "harness",
-        "hermes",
-        "memory",
-        "openclaw"
-      ],
-      "html_url": "https://github.com/rohitg00/agentmemory",
-      "stargazers_count": 24178,
-      "created_at": "2026-02-25T07:32:52Z",
-      "updated_at": "2026-06-28T10:08:00Z",
-      "categories": [
-        "ai-coding-skills",
-        "ai-agent-frameworks"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598235+00:00",
-      "override": false
-    },
-    {
-      "full_name": "alirezarezvani/claude-skills",
-      "description": "337 个 Claude Code Skills、Agent Skills 与插件合集，涵盖 30+ Agent、70+ 自定义命令、330+ Skills，支持 13 种 AI 编码工具",
-      "language": "Python",
-      "topics": [
-        "agent-plugins",
-        "agent-skills",
-        "agentic-ai",
-        "ai-coding-agent",
-        "anthropic-claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugins",
-        "claude-code-skills",
-        "claude-skills",
-        "codex-skills",
-        "coding-agent-plugins",
-        "cursor-skills",
-        "developer-tools",
-        "gemini-cli-skills",
-        "openai-codex",
-        "openclaw",
-        "openclaw-plugins",
-        "openclaw-skills",
-        "prompt-engineering"
-      ],
-      "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "stargazers_count": 19250,
-      "created_at": "2025-10-19T04:04:05Z",
-      "updated_at": "2026-06-28T10:22:31Z",
-      "categories": [
-        "ai-coding-skills",
-        "ai-agent-skills",
-        "ai-prompt-engineering"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597375+00:00",
-      "override": false
-    },
-    {
-      "full_name": "1786329860/deep-teach",
-      "description": "深度教学模式 AI Skill，让 AI 在每一步编程操作后自动输出专家级技术解析卡片，从「代做」变为「教做」",
-      "language": "",
-      "topics": [],
-      "html_url": "https://github.com/1786329860/deep-teach",
-      "stargazers_count": 143,
-      "created_at": "2026-05-12T13:21:35Z",
-      "updated_at": "2026-06-25T03:26:39Z",
-      "categories": [
-        "ai-coding-skills",
-        "education"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598239+00:00",
-      "override": false
-    },
-    {
-      "full_name": "colbymchenry/codegraph",
-      "description": "预索引代码知识图谱，随代码变更自动同步，适用于 Claude Code、Codex、Gemini、Cursor 等 AI 编码工具",
-      "language": "TypeScript",
-      "topics": [],
-      "html_url": "https://github.com/colbymchenry/codegraph",
-      "stargazers_count": 55500,
-      "created_at": "2026-01-18T21:45:37Z",
-      "updated_at": "2026-06-28T10:53:15Z",
-      "categories": [
-        "ai-coding-tools",
-        "ai-coding-skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598230+00:00",
-      "override": false
-    },
-    {
-      "full_name": "BigPizzaV3/CodexPlusPlus",
-      "description": "CodexApp 增强工具，致力于让 Codex 更好用、更舒适",
-      "language": "Rust",
-      "topics": [],
-      "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "stargazers_count": 22153,
-      "created_at": "2026-05-06T09:32:49Z",
-      "updated_at": "2026-06-28T10:45:06Z",
-      "categories": [
-        "ai-coding-tools",
-        "ai-coding-platforms"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598250+00:00",
-      "override": false
-    },
-    {
-      "full_name": "doocs/md",
-      "description": "微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
-      "language": "TypeScript",
-      "topics": [
-        "ai-bot",
-        "doocs",
-        "editor",
-        "llm",
-        "markdown",
-        "markdown-editor",
-        "tailwindcss",
-        "vite",
-        "vue",
-        "vue3",
-        "wechat",
-        "weixin"
-      ],
-      "html_url": "https://github.com/doocs/md",
-      "stargazers_count": 12914,
-      "created_at": "2019-11-01T09:14:36Z",
-      "updated_at": "2026-06-28T10:03:22Z",
-      "categories": [
-        "ai-content-creation",
-        "ai-assistant"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598253+00:00",
-      "override": false
-    },
-    {
-      "full_name": "ycbing/Shortify-AI",
-      "description": "AI 短剧创作平台，利用 AI 自动生成短剧剧本与内容",
-      "language": "TypeScript",
-      "topics": [],
-      "html_url": "https://github.com/ycbing/Shortify-AI",
-      "stargazers_count": 105,
-      "created_at": "2026-04-02T11:05:20Z",
-      "updated_at": "2026-06-28T09:07:26Z",
-      "categories": [
-        "ai-content-creation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597370+00:00",
-      "override": false
-    },
-    {
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型，一键生成高清短视频。支持自动化文案撰写、配音、画面合成，基于 ChatGPT 等大语言模型驱动，使用 MoviePy 进行视频处理。",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "automation",
-        "chatgpt",
-        "moviepy",
-        "python",
-        "shortvideo",
-        "tiktok"
-      ],
-      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stargazers_count": 93730,
-      "created_at": "2024-03-11T02:57:34Z",
-      "updated_at": "2026-06-28T10:52:54Z",
-      "categories": [
-        "ai-content-generation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598514+00:00",
-      "override": false
-    },
-    {
-      "full_name": "koala73/worldmonitor",
-      "description": "实时全球情报仪表盘，AI 驱动的新闻聚合、地缘政治监控与基础设施追踪，统一态势感知界面",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "dashboard",
-        "geopolitics",
-        "monitoring",
-        "news",
-        "opensource",
-        "osint",
-        "palantir",
-        "situation"
-      ],
-      "html_url": "https://github.com/koala73/worldmonitor",
-      "stargazers_count": 60519,
-      "created_at": "2026-01-08T17:26:06Z",
-      "updated_at": "2026-06-28T10:47:16Z",
-      "categories": [
-        "ai-monitoring"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597390+00:00",
-      "override": false
-    },
-    {
-      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "从自然语言描述生成生产级 SVG+PNG 技术图表，支持 7 种风格、UML，适用于 Agent 工作流与开发工具场景",
-      "language": "Python",
-      "topics": [
-        "agent-workflows",
-        "ai",
-        "claude-code",
-        "developer-tools",
-        "diagrams",
-        "svg"
-      ],
-      "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "stargazers_count": 8189,
-      "created_at": "2026-04-10T15:07:10Z",
-      "updated_at": "2026-06-28T10:41:07Z",
-      "categories": [
-        "ai-presentation",
-        "ai-vertical-apps"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598359+00:00",
-      "override": false
-    },
-    {
-      "full_name": "iniwap/AIWriteX",
-      "description": "AIWriteX —— 微信公众号全自动 AI 工具：全网热搜舆情聚合 + 趋势分析 + 爆款选题 + 文章采集 + 一键生成排版发布，AI 自动配图，去 AI 味、过朱雀检测，支持小红书、百家号、头条等多平台。",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai-agents",
-        "ai-auto-wxgzh",
-        "ai-wx",
-        "aipy",
-        "aipyapp",
-        "aixiezuo",
-        "baowen",
-        "crewai",
-        "gongzhonghao-a",
-        "openclaw",
-        "qu-ai-wei",
-        "search-tool",
-        "web-search",
-        "wechat",
-        "weixin",
-        "wx",
-        "wx-template",
-        "wxgzh",
-        "xiaohongshu"
-      ],
-      "html_url": "https://github.com/iniwap/AIWriteX",
-      "stargazers_count": 1270,
-      "created_at": "2025-04-02T07:28:12Z",
-      "updated_at": "2026-06-28T10:45:31Z",
-      "categories": [
-        "ai-writing",
-        "automation",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598412+00:00",
-      "override": false
-    },
-    {
-      "full_name": "labuladong/fucking-algorithm",
-      "description": "攻克 LeetCode，不仅讲解解题方法，更深入阐述背后的原理与数据结构知识",
-      "language": "Markdown",
-      "topics": [
-        "algorithms",
-        "computer-science",
-        "data-structures",
-        "dynamic-programming",
-        "dynamic-programming-algorithm",
-        "interview-questions",
-        "kmp",
-        "leetcode"
-      ],
-      "html_url": "https://github.com/labuladong/fucking-algorithm",
-      "stargazers_count": 134583,
-      "created_at": "2020-02-19T09:01:23Z",
-      "updated_at": "2026-06-28T10:40:45Z",
-      "categories": [
-        "algorithms",
-        "interview"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598527+00:00",
-      "override": false
-    },
-    {
-      "full_name": "MisterBooo/LeetCodeAnimation",
-      "description": "用动画形式演示 LeetCode 所有题目的解题思路，覆盖 Java、C 等多语言实现",
-      "language": "Java",
-      "topics": [
-        "animation",
-        "leetcode",
-        "leetcode-c",
-        "leetcode-java",
-        "leetcode-solutions"
-      ],
-      "html_url": "https://github.com/MisterBooo/LeetCodeAnimation",
-      "stargazers_count": 76601,
-      "created_at": "2018-12-06T08:01:22Z",
-      "updated_at": "2026-06-28T06:40:35Z",
-      "categories": [
-        "algorithms",
-        "interview",
-        "visualization"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598539+00:00",
-      "override": false
-    },
-    {
-      "full_name": "router-for-me/CLIProxyAPI",
-      "description": "将 Antigravity、ChatGPT Codex、Claude Code、Grok Build 封装为 OpenAI / Gemini / Claude / Codex 兼容接口。",
-      "language": "Go",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "cluade",
-        "codex",
-        "gemini",
-        "openai"
-      ],
-      "html_url": "https://github.com/router-for-me/CLIProxyAPI",
-      "stargazers_count": 38590,
-      "created_at": "2025-07-01T19:43:27Z",
-      "updated_at": "2026-06-28T10:49:33Z",
-      "categories": [
-        "api-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598414+00:00",
-      "override": false
-    },
-    {
-      "full_name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "自动化在线赚钱流程",
-      "language": "Python",
-      "topics": [
-        "automation",
-        "cli",
-        "json",
-        "money",
-        "outreach",
-        "python",
-        "twitter",
-        "youtube"
-      ],
-      "html_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "stargazers_count": 31087,
-      "created_at": "2024-02-12T11:20:42Z",
-      "updated_at": "2026-06-28T10:40:37Z",
-      "categories": [
-        "automation",
-        "tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598388+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Usagi-org/ai-goofish-monitor",
-      "description": "基于 Playwright 和 AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备功能完善的后台管理 UI，帮助用户从闲鱼海量商品中找到心仪产品。",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-assistant",
-        "ai-tools",
-        "automation",
-        "gemini",
-        "goofish",
-        "open-source",
-        "openai",
-        "playwright",
-        "tool",
-        "xian-yu",
-        "xianyu",
-        "xianyu-bot"
-      ],
-      "html_url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "stargazers_count": 12681,
-      "created_at": "2025-07-16T08:13:41Z",
-      "updated_at": "2026-06-28T10:17:48Z",
-      "categories": [
-        "automation",
-        "monitoring",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598408+00:00",
-      "override": false
-    },
-    {
-      "full_name": "shanraisshan/claude-code-best-practice",
-      "description": "从 Vibe Coding 到 Agentic Engineering —— 实践出真知，助你把 Claude 用到极致。",
-      "language": "HTML",
-      "topics": [
-        "agentic-ai",
-        "agentic-coding",
-        "agentic-engineering",
-        "agentic-workflow",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "best-practices",
-        "boris",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-agents",
-        "claude-code-best-practices",
-        "claude-code-commands",
-        "claude-code-skills",
-        "context-engineering",
-        "pakistan",
-        "pakistani-developer",
-        "vibe-coding"
-      ],
-      "html_url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "stargazers_count": 61365,
-      "created_at": "2025-10-31T14:15:28Z",
-      "updated_at": "2026-06-28T10:45:21Z",
-      "categories": [
-        "best-practice",
-        "skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598326+00:00",
-      "override": false
-    },
-    {
-      "full_name": "jackwener/OpenCLI",
-      "description": "将任意网站转化为 CLI，通过 AI Agent 使用已登录浏览器进行操作",
-      "language": "JavaScript",
-      "topics": [
         "ai-agent",
-        "ai-agents",
-        "ai-tools",
-        "browser-automation",
-        "browser-use",
-        "cli",
-        "playwright"
+        "developer-tools"
       ],
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "stargazers_count": 25497,
-      "created_at": "2026-03-14T22:10:23Z",
-      "updated_at": "2026-06-28T10:41:27Z",
-      "categories": [
-        "browser-automation",
-        "ai-agent",
-        "tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598401+00:00",
-      "override": false
-    },
-    {
-      "full_name": "QLHazyCoder/FlowPilot",
-      "description": "Chrome 扩展：支持 Codex（自动开通 Plus 账号）/ Kiro 注册、验证码获取、CPA/订阅回调验证与自动恢复。",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/QLHazyCoder/FlowPilot",
-      "stargazers_count": 4939,
-      "created_at": "2026-04-09T03:23:02Z",
-      "updated_at": "2026-06-28T10:44:32Z",
-      "categories": [
-        "browser-extension",
-        "automation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597404+00:00",
-      "override": false
-    },
-    {
-      "full_name": "alibaba/open-code-review",
-      "description": "开源免费，经阿里巴巴大规模实战验证。混合架构代码审查工具，结合确定性规则与 AI 智能体进行审查。",
-      "language": "Go",
-      "topics": [
-        "agent",
-        "agent-skills",
-        "code-review",
-        "code-review-assistant",
-        "harness",
-        "repository-level-context"
-      ],
-      "html_url": "https://github.com/alibaba/open-code-review",
-      "stargazers_count": 9476,
-      "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-06-28T10:53:45Z",
-      "categories": [
-        "code-review",
-        "skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597424+00:00",
-      "override": false
-    },
-    {
-      "full_name": "yaojingang/GEOFlow",
-      "description": "开源的 GEO 内容工程与多站点分发系统，集成 AI 任务、RAG/语义检索，兼容 OpenAI 接口。",
-      "language": "PHP",
-      "topics": [
-        "ai",
-        "cms",
-        "content-automation",
-        "geo",
-        "openai-compatible",
-        "php",
-        "postgresql",
-        "seo"
-      ],
-      "html_url": "https://github.com/yaojingang/GEOFlow",
-      "stargazers_count": 2712,
-      "created_at": "2026-04-13T11:42:03Z",
-      "updated_at": "2026-06-28T09:20:01Z",
-      "categories": [
-        "content-engineering",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598323+00:00",
-      "override": false
-    },
-    {
-      "full_name": "chatwoot/chatwoot",
-      "description": "开源在线客服、邮件支持、全渠道服务台，可作为 Intercom、Zendesk、Salesforce 的替代方案。",
-      "language": "Ruby",
-      "topics": [
-        "actioncable",
-        "chat-widget",
-        "conversation",
-        "customer-support",
-        "dashboard",
-        "design",
-        "docker",
-        "docker-image",
-        "heroku",
-        "intercom",
-        "javascript",
-        "livechat",
-        "opensource",
-        "rails",
-        "ruby",
-        "sass",
-        "vuejs",
-        "whatsapp",
-        "zendesk"
-      ],
-      "html_url": "https://github.com/chatwoot/chatwoot",
-      "stargazers_count": 33639,
-      "created_at": "2019-08-14T06:50:51Z",
-      "updated_at": "2026-06-28T10:37:36Z",
-      "categories": [
-        "customer-support"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597401+00:00",
-      "override": false
-    },
-    {
-      "full_name": "zhinianboke/xianyu-auto-reply",
-      "description": "基于 Python + FastAPI 的闲鱼平台自动化客服系统，通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能自动回复服务。",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/zhinianboke/xianyu-auto-reply",
-      "stargazers_count": 5296,
-      "created_at": "2025-07-24T04:04:11Z",
-      "updated_at": "2026-06-28T10:40:47Z",
-      "categories": [
-        "customer-support",
-        "automation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597427+00:00",
-      "override": false
-    },
-    {
-      "full_name": "iluwatar/java-design-patterns",
-      "description": "用 Java 实现的设计模式集合，涵盖创建型、结构型与行为型等经典模式",
-      "language": "Java",
-      "topics": [
-        "awesome-list",
-        "design-patterns",
-        "hacktoberfest",
-        "java",
-        "principles",
-        "snippets",
-        "snippets-collection",
-        "snippets-library"
-      ],
-      "html_url": "https://github.com/iluwatar/java-design-patterns",
-      "stargazers_count": 94161,
-      "created_at": "2014-08-09T16:45:18Z",
-      "updated_at": "2026-06-28T05:58:14Z",
-      "categories": [
-        "design-patterns",
-        "backend"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598530+00:00",
-      "override": false
-    },
-    {
-      "full_name": "VoltAgent/awesome-design-md",
-      "description": "精选 DESIGN.md 文件合集，分析流行品牌设计系统，可直接放入项目中使用，包含 Figma 设计令牌参考",
-      "language": "",
-      "topics": [
-        "awesome-list",
-        "design-md",
-        "design-system",
-        "design-tokens",
-        "figma",
-        "google-stitch",
-        "landing-page",
-        "vibe-coding",
-        "vibe-design",
-        "vibecoding"
-      ],
-      "html_url": "https://github.com/VoltAgent/awesome-design-md",
-      "stargazers_count": 93939,
-      "created_at": "2026-03-31T16:37:01Z",
-      "updated_at": "2026-06-28T10:51:47Z",
-      "categories": [
-        "design-resources"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598362+00:00",
-      "override": false
-    },
-    {
-      "full_name": "bmad-code-org/BMAD-METHOD",
-      "description": "面向敏捷 AI 驱动开发的突破性方法论（Breakthrough Method for Agile AI Driven Development）",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
-      "stargazers_count": 49786,
-      "created_at": "2025-04-13T14:54:25Z",
-      "updated_at": "2026-06-28T10:46:28Z",
-      "categories": [
-        "dev-methodology",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598283+00:00",
-      "override": false
-    },
-    {
-      "full_name": "jarrodwatts/claude-hud",
-      "description": "Claude Code 插件，实时显示上下文用量、活跃工具、运行中的 Agent 等信息",
-      "language": "JavaScript",
-      "topics": [
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cli",
-        "plugin",
-        "statusline",
-        "typescript"
-      ],
-      "html_url": "https://github.com/jarrodwatts/claude-hud",
-      "stargazers_count": 25859,
-      "created_at": "2026-01-02T01:35:07Z",
-      "updated_at": "2026-06-28T10:41:29Z",
-      "categories": [
-        "dev-tools",
-        "tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598391+00:00",
-      "override": false
-    },
-    {
-      "full_name": "liuzhengdongfortest/CodeStable",
-      "description": "CodeStable（项目无详细描述，Python 项目，推测与代码稳定性相关）",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/liuzhengdongfortest/CodeStable",
-      "stargazers_count": 972,
-      "created_at": "2026-04-12T22:21:55Z",
-      "updated_at": "2026-06-28T04:56:27Z",
-      "categories": [
-        "dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598290+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Fokkyp/SoftwareCopyright-Skill",
-      "description": "中国软件著作权申请材料生成器 Skill，通过阅读本地项目自动生成全套 .docx 软著申请材料，全开源无须付费",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "stargazers_count": 4055,
-      "created_at": "2026-04-29T10:07:08Z",
-      "updated_at": "2026-06-28T07:10:34Z",
-      "categories": [
-        "domain-toolkits",
-        "ai-coding-skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598242+00:00",
-      "override": false
-    },
-    {
-      "full_name": "mswnlz/edu-knowlege",
-      "description": "教育资料合集，从幼儿园到中小学阶段，涵盖学而思、万维、猿辅导等多个机构的课程资源，持续更新中",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/mswnlz/edu-knowlege",
-      "stargazers_count": 4205,
-      "created_at": "2025-05-13T06:22:39Z",
-      "updated_at": "2026-06-28T09:25:18Z",
-      "categories": [
-        "education"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598346+00:00",
-      "override": false
-    },
-    {
-      "full_name": "hzm0321/real-time-fund",
-      "description": "基金实时估值查看工具。",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/hzm0321/real-time-fund",
-      "stargazers_count": 1427,
-      "created_at": "2026-01-31T12:55:02Z",
-      "updated_at": "2026-06-28T08:26:36Z",
-      "categories": [
-        "finance"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598438+00:00",
-      "override": false
-    },
-    {
-      "full_name": "wbh604/UZI-Skill",
-      "description": "游资（UZI）Skills：66位投资大佬帮你看盘，22维数据 × 180条量化规则 × 17种机构分析方法，覆盖A股、港股、美股市场",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/wbh604/UZI-Skill",
-      "stargazers_count": 4661,
-      "created_at": "2026-04-16T07:36:06Z",
-      "updated_at": "2026-06-28T10:54:31Z",
-      "categories": [
-        "fintech",
-        "domain-toolkits"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597344+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075815+00:00",
       "override": false
     },
     {
       "full_name": "CopilotKit/CopilotKit",
-      "description": "面向智能体与生成式 UI 的前端技术栈，支持 React、Angular、Mobile、Slack 等平台。",
+      "description": "面向 Agent 与生成式 UI 的前端技术栈，支持 React、Angular、移动端、Slack 等多平台集成，是 AG-UI 协议的创建者。",
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -2271,208 +440,166 @@
       "created_at": "2023-06-19T04:08:31Z",
       "updated_at": "2026-06-28T09:38:08Z",
       "categories": [
-        "frontend",
-        "ai-agent",
-        "generative-ui"
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.597417+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075671+00:00",
       "override": false
     },
     {
-      "full_name": "Snailclimb/JavaGuide",
-      "description": "Java 面试与后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "language": "JavaScript",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "你的个人 AI 超级智能体，私密、简洁且极其强大，基于 Rust 构建",
+      "language": "Rust",
+      "topics": [],
+      "html_url": "https://github.com/tinyhumansai/openhuman",
+      "stargazers_count": 33518,
+      "created_at": "2026-02-18T20:01:27Z",
+      "updated_at": "2026-06-28T10:51:26Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075701+00:00",
+      "override": false
+    },
+    {
+      "full_name": "simstudioai/sim",
+      "description": "构建、部署与编排 AI 智能体；Sim 是为 AI 工作团队打造的中心智能调度层",
+      "language": "TypeScript",
       "topics": [
-        "agent",
+        "agent-workflow",
+        "agentic-workflow",
+        "agents",
         "ai",
-        "context-engineering",
+        "aiagents",
+        "anthropic",
+        "artificial-intelligence",
+        "automation",
+        "chatbot",
         "deepseek",
-        "interview",
-        "java",
-        "mcp",
-        "mysql",
-        "redis",
-        "redisson",
-        "skills",
-        "springai",
-        "system-design"
+        "gemini",
+        "low-code",
+        "nextjs",
+        "no-code",
+        "openai",
+        "rag",
+        "react",
+        "typescript"
       ],
-      "html_url": "https://github.com/Snailclimb/JavaGuide",
-      "stargazers_count": 156659,
-      "created_at": "2018-05-07T13:27:00Z",
-      "updated_at": "2026-06-28T10:54:27Z",
+      "html_url": "https://github.com/simstudioai/sim",
+      "stargazers_count": 28886,
+      "created_at": "2025-01-05T22:47:49Z",
+      "updated_at": "2026-06-28T10:23:52Z",
       "categories": [
-        "interview",
-        "backend",
-        "ai-applications"
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598543+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075939+00:00",
       "override": false
     },
     {
-      "full_name": "doocs/advanced-java",
-      "description": "面向资深 Java 后端开发者的核心面试题与解答，涵盖互联网 Java 工程师进阶知识，包括分布式搜索引擎、分布式系统、Dubbo 等",
-      "language": "Java",
-      "topics": [
-        "advanced-java",
-        "distributed-search-engine",
-        "distributed-systems",
-        "doocs",
-        "dubbo",
-        "elasticsearch",
-        "eureka",
-        "feign",
-        "high-availability",
-        "high-concurrency",
-        "hystrix",
-        "java",
-        "message-queue",
-        "microservices-architecture",
-        "redis",
-        "ribbon",
-        "rpc",
-        "spring-cloud",
-        "springcloud-config",
-        "zookeeper"
-      ],
-      "html_url": "https://github.com/doocs/advanced-java",
-      "stargazers_count": 78987,
-      "created_at": "2018-10-06T11:38:30Z",
-      "updated_at": "2026-06-27T20:40:04Z",
-      "categories": [
-        "interview",
-        "backend",
-        "distributed-systems"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598536+00:00",
-      "override": false
-    },
-    {
-      "full_name": "ollama/ollama",
-      "description": "快速上手本地运行 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、GPT-OSS、Qwen、Gemma 等大语言模型，提供简洁的命令行接口和 API 服务。",
-      "language": "Go",
-      "topics": [
-        "deepseek",
-        "gemma",
-        "gemma3",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llama3",
-        "llm",
-        "llms",
-        "minimax",
-        "mistral",
-        "ollama",
-        "qwen"
-      ],
-      "html_url": "https://github.com/ollama/ollama",
-      "stargazers_count": 175034,
-      "created_at": "2023-06-26T19:39:32Z",
-      "updated_at": "2026-06-28T10:49:02Z",
-      "categories": [
-        "large-language-models",
-        "developer-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598510+00:00",
-      "override": false
-    },
-    {
-      "full_name": "fanmingming/live",
-      "description": "可直连访问的电视/广播图标库与相关工具项目，永久免费、直连访问、完整开源，不断完善的台标，支持 IPv4/IPv6 双栈访问。",
-      "language": "JavaScript",
-      "topics": [
-        "china",
-        "converter",
-        "epg",
-        "iptv",
-        "ipv6",
-        "live",
-        "m3u",
-        "m3u8",
-        "mp4",
-        "radio",
-        "television",
-        "tv",
-        "txt",
-        "workers"
-      ],
-      "html_url": "https://github.com/fanmingming/live",
-      "stargazers_count": 28203,
-      "created_at": "2022-11-16T18:03:31Z",
-      "updated_at": "2026-06-28T09:24:49Z",
-      "categories": [
-        "media-entertainment",
-        "open-source-resources"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598507+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Guovin/iptv-api",
-      "description": "IPTV 直播源自动更新平台，全自动采集、筛选、测速、生成。支持自定义获取频道、IPv4/IPv6、接口验效、推流，以及工作流、Docker、命令行、GUI 多端部署。",
+      "full_name": "topoteretes/cognee",
+      "description": "开源 AI 记忆平台，为 AI Agent 提供持久化长期记忆与知识图谱，支持图数据库存储",
       "language": "Python",
       "topics": [
-        "auto-update",
-        "awesome",
-        "epg",
-        "iptv",
-        "iptv-api",
-        "iptv-channels",
-        "iptv-free",
-        "iptv-m3u",
-        "iptv-m3u8",
-        "iptv-playlist",
-        "ipv4",
-        "ipv6",
-        "live",
-        "m3u",
-        "m3u8",
-        "playlist",
-        "rtmp",
-        "schedule",
-        "tv",
-        "tvbox"
+        "agent-memory",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "cognitive-architecture",
+        "cognitive-memory",
+        "context-engineering",
+        "contributions-welcome",
+        "good-first-issue",
+        "good-first-pr",
+        "graph-database",
+        "graph-rag",
+        "help-wanted",
+        "knowledge",
+        "knowledge-graph",
+        "memory-management",
+        "open-source",
+        "vector-database"
       ],
-      "html_url": "https://github.com/Guovin/iptv-api",
-      "stargazers_count": 24391,
-      "created_at": "2024-02-04T11:22:59Z",
-      "updated_at": "2026-06-28T10:24:32Z",
+      "html_url": "https://github.com/topoteretes/cognee",
+      "stargazers_count": 24366,
+      "created_at": "2023-08-16T16:16:33Z",
+      "updated_at": "2026-06-28T11:06:10Z",
       "categories": [
-        "media-entertainment",
-        "api-services"
+        "ai-agent",
+        "ai-agent-skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598500+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.074611+00:00",
       "override": false
     },
     {
-      "full_name": "youhunwl/TVAPP",
-      "description": "收集全网 Android TV 电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质 APK 资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心。",
-      "language": "JavaScript",
+      "full_name": "xszyou/Fay",
+      "description": "帮助数字人（2.5D、3D、移动端、PC、网页）或大语言模型（OpenAI 兼容、DeepSeek）连通业务系统的 Agent 框架",
+      "language": "Python",
       "topics": [
+        "ai",
         "android",
-        "android-tv",
-        "apk",
-        "app",
-        "tv",
-        "tv-box"
+        "api",
+        "python",
+        "ue5",
+        "unity3d",
+        "wav2lip"
       ],
-      "html_url": "https://github.com/youhunwl/TVAPP",
-      "stargazers_count": 19023,
-      "created_at": "2025-03-11T01:59:36Z",
-      "updated_at": "2026-06-28T10:38:58Z",
+      "html_url": "https://github.com/xszyou/Fay",
+      "stargazers_count": 12928,
+      "created_at": "2022-06-13T08:06:19Z",
+      "updated_at": "2026-06-28T05:36:32Z",
       "categories": [
-        "media-entertainment",
-        "android-apps"
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598486+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075967+00:00",
+      "override": false
+    },
+    {
+      "full_name": "mindfold-ai/Trellis",
+      "description": "Trellis：面向 AI 编码的最佳 Agent 编排框架（Harness），支持 Claude Code 与 Codex",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-coding",
+        "ai-workflow",
+        "claudecode",
+        "codex",
+        "harness"
+      ],
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "stargazers_count": 11283,
+      "created_at": "2026-01-26T11:49:10Z",
+      "updated_at": "2026-06-28T10:45:41Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075760+00:00",
+      "override": false
+    },
+    {
+      "full_name": "alibaba/open-code-review",
+      "description": "开源免费的混合架构代码审查工具，结合确定性规则分析与 LLM 智能审查，已在阿里巴巴内部规模化实战验证。",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context"
+      ],
+      "html_url": "https://github.com/alibaba/open-code-review",
+      "stargazers_count": 9476,
+      "created_at": "2026-05-18T02:16:36Z",
+      "updated_at": "2026-06-28T10:53:45Z",
+      "categories": [
+        "ai-agent",
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075679+00:00",
       "override": false
     },
     {
       "full_name": "getpaseo/paseo",
-      "description": "在桌面端与移动端编排多个编程 Agent 协同工作，支持 Claude Code、Codex、Copilot 等。",
+      "description": "从桌面端与移动端编排多个编程 Agent，支持 Claude Code、Codex、Copilot 等",
       "language": "TypeScript",
       "topics": [
         "ade",
@@ -2492,282 +619,212 @@
       "created_at": "2025-10-13T12:27:02Z",
       "updated_at": "2026-06-28T10:38:11Z",
       "categories": [
-        "multi-agent",
-        "dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598330+00:00",
-      "override": false
-    },
-    {
-      "full_name": "AnsGoo/music-free-site",
-      "description": "让听歌这件事变得简单一点——音乐资源聚合与播放工具，整合多平台音乐搜索与试听",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/AnsGoo/music-free-site",
-      "stargazers_count": 28,
-      "created_at": "2026-04-24T03:45:20Z",
-      "updated_at": "2026-06-24T07:38:02Z",
-      "categories": [
-        "music-entertainment"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597394+00:00",
-      "override": false
-    },
-    {
-      "full_name": "TWO-ICE/Awesome-NAS-Docker",
-      "description": "专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具。",
-      "language": "",
-      "topics": [],
-      "html_url": "https://github.com/TWO-ICE/Awesome-NAS-Docker",
-      "stargazers_count": 4048,
-      "created_at": "2025-03-19T03:52:16Z",
-      "updated_at": "2026-06-28T02:27:24Z",
-      "categories": [
-        "nas-selfhosted",
-        "docker-containers",
-        "open-source-resources"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598491+00:00",
-      "override": false
-    },
-    {
-      "full_name": "hugohe3/ppt-master",
-      "description": "AI 从任意文档生成真实可编辑的 PowerPoint 演示文稿，支持原生形状、动画与演讲者备注。",
-      "language": "Python",
-      "topics": [
         "ai-agent",
-        "aippt",
-        "office",
-        "powerpoint",
-        "powerpoint-generation",
-        "ppt",
-        "pptx",
-        "presentation",
-        "slide",
-        "slides"
+        "ai-agent-skills"
       ],
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "stargazers_count": 33452,
-      "created_at": "2025-12-10T06:54:33Z",
-      "updated_at": "2026-06-28T10:51:16Z",
-      "categories": [
-        "office",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598310+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075800+00:00",
       "override": false
     },
     {
-      "full_name": "yonggekkk/argosbx",
-      "description": "小白自建代理神器。ArgoSBX 一键无交互部署脚本：Sing-box、Xray、Argo 三内核自动搭配；支持 VPS、Docker、容器多环境部署；提供套 CDN 的 5 大方案加套 WARP 的 15 种组合。",
-      "language": "Shell",
-      "topics": [
-        "anytls",
-        "argo",
-        "claw-cloud",
-        "cloudflared",
-        "docker-image",
-        "google-idx",
-        "hysteria2",
-        "ml-kem-768",
-        "sap",
-        "shadowsocks-2022",
-        "singbox",
-        "socks5",
-        "tuic",
-        "vless-reality-vision",
-        "vless-ws-tls",
-        "vless-xhttp-reality",
-        "vmess-ws",
-        "warp",
-        "wireguard",
-        "xray"
-      ],
-      "html_url": "https://github.com/yonggekkk/argosbx",
-      "stargazers_count": 5359,
-      "created_at": "2025-04-22T01:46:41Z",
-      "updated_at": "2026-06-28T07:29:07Z",
-      "categories": [
-        "proxy-tools",
-        "docker-containers",
-        "scripting-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598483+00:00",
-      "override": false
-    },
-    {
-      "full_name": "7Sageer/sublink-worker",
-      "description": "一个 Worker 处理所有代理订阅，支持 Clash、Clash Meta、Mihomo、Sing-box 等多种代理客户端格式的订阅转换。",
-      "language": "JavaScript",
-      "topics": [
-        "clash",
-        "clash-meta",
-        "cloudflare-workers",
-        "mihomo",
-        "singbox",
-        "v2rayn",
-        "v2rayng",
-        "xray-core"
-      ],
-      "html_url": "https://github.com/7Sageer/sublink-worker",
-      "stargazers_count": 4965,
-      "created_at": "2024-07-27T08:09:07Z",
-      "updated_at": "2026-06-28T07:22:01Z",
-      "categories": [
-        "proxy-tools",
-        "serverless"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598480+00:00",
-      "override": false
-    },
-    {
-      "full_name": "fish2018/pansou",
-      "description": "PanSou 是一款高性能网盘资源搜索 API 服务，支持 Telegram 频道和插件搜索。以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。Docker 集成前后端，一键启动，开箱即用。",
-      "language": "Go",
-      "topics": [],
-      "html_url": "https://github.com/fish2018/pansou",
-      "stargazers_count": 13674,
-      "created_at": "2025-07-10T07:17:46Z",
-      "updated_at": "2026-06-28T09:52:01Z",
-      "categories": [
-        "search-service",
-        "api-service"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598280+00:00",
-      "override": false
-    },
-    {
-      "full_name": "obra/superpowers",
-      "description": "一个行之有效的智能体技能（Skills）框架与软件开发方法论，覆盖头脑风暴、编码与 SDLC 全流程",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "html_url": "https://github.com/obra/superpowers",
-      "stargazers_count": 240335,
-      "created_at": "2025-10-09T19:45:18Z",
-      "updated_at": "2026-06-28T10:54:35Z",
-      "categories": [
-        "skills",
-        "ai-agent",
-        "software-engineering"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598457+00:00",
-      "override": false
-    },
-    {
-      "full_name": "f/prompts.chat",
-      "description": "前身为 Awesome ChatGPT Prompts，用于分享、发现和收集社区提示词，免费且开放",
-      "language": "HTML",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "awesome-list",
-        "chatgpt",
-        "chatgpt-prompts",
-        "claude",
-        "gemini",
-        "gpt",
-        "gpt-4",
-        "llm",
-        "machine-learning",
-        "nextjs",
-        "open-source",
-        "openai",
-        "prompt-engineering",
-        "prompts",
-        "prompts-chat",
-        "typescript"
-      ],
-      "html_url": "https://github.com/f/prompts.chat",
-      "stargazers_count": 164452,
-      "created_at": "2022-12-05T13:54:13Z",
-      "updated_at": "2026-06-28T10:30:46Z",
-      "categories": [
-        "skills",
-        "tutorial-resources"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598379+00:00",
-      "override": false
-    },
-    {
-      "full_name": "anthropics/skills",
-      "description": "Anthropic 官方面向智能体技能（Agent Skills）的公开仓库",
-      "language": "Python",
-      "topics": [
-        "agent-skills"
-      ],
-      "html_url": "https://github.com/anthropics/skills",
-      "stargazers_count": 156056,
-      "created_at": "2025-09-22T15:53:31Z",
-      "updated_at": "2026-06-28T10:50:54Z",
-      "categories": [
-        "skills",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598473+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Egonex-AI/Understand-Anything",
-      "description": "以教学为导向的交互式知识图谱，将任意代码转化为可探索的知识结构，让人真正理解代码而非仅看到炫技图表。",
+      "full_name": "op7418/CodePilot",
+      "description": "多模型 AI 智能体桌面客户端——可连接任意 AI 服务商，通过 MCP 与 Skills 扩展能力",
       "language": "TypeScript",
       "topics": [
-        "antigravity-skills",
-        "business-knowledge",
+        "ai",
+        "anthropic",
+        "claude",
         "claude-code",
-        "claude-skills",
-        "codebase-analysis",
-        "codex",
-        "codex-skills",
-        "developer-tools-ai-agent",
-        "gemini-cli-skills",
-        "karpathy-llm-wiki",
-        "knowledge-base",
-        "knowledge-graph",
-        "memory",
-        "opencode-skills",
-        "pi-agent",
-        "understandcode",
-        "vibe-coding"
+        "desktop-app",
+        "electron",
+        "gui",
+        "nextjs"
       ],
-      "html_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "stargazers_count": 68793,
-      "created_at": "2026-03-15T02:30:51Z",
-      "updated_at": "2026-06-28T10:52:54Z",
+      "html_url": "https://github.com/op7418/CodePilot",
+      "stargazers_count": 6059,
+      "created_at": "2026-02-06T12:38:55Z",
+      "updated_at": "2026-06-28T10:44:07Z",
       "categories": [
-        "skills",
-        "code-analysis",
-        "visualization"
+        "ai-agent",
+        "skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.597434+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075913+00:00",
       "override": false
     },
     {
-      "full_name": "alchaincyf/nuwa-skill",
-      "description": "蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA。Distill how anyone thinks.",
+      "full_name": "opensquilla/opensquilla",
+      "description": "OpenSquilla — 高 Token 效率的 AI Agent，在相同算力预算下实现更高的智能密度。",
       "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/alchaincyf/nuwa-skill",
-      "stargazers_count": 26083,
-      "created_at": "2026-04-05T04:33:04Z",
-      "updated_at": "2026-06-28T10:48:43Z",
-      "categories": [
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "deep-learning",
+        "foundation-models",
+        "llm",
+        "mcp",
+        "memory",
+        "openclaw",
+        "python",
         "skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598369+00:00",
+      "html_url": "https://github.com/opensquilla/opensquilla",
+      "stargazers_count": 4910,
+      "created_at": "2026-05-06T17:43:05Z",
+      "updated_at": "2026-06-28T11:04:49Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075676+00:00",
+      "override": false
+    },
+    {
+      "full_name": "kevinrgu/autoagent",
+      "description": "自主代理工程框架（autonomous harness engineering）",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/kevinrgu/autoagent",
+      "stargazers_count": 4509,
+      "created_at": "2026-04-02T20:44:58Z",
+      "updated_at": "2026-06-27T19:45:25Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075844+00:00",
+      "override": false
+    },
+    {
+      "full_name": "1sdv/TripStar",
+      "description": "旅途星辰（TripStar）是一个创新的 AI 文旅智能体应用，提供一站式旅游攻略生成服务",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/1sdv/TripStar",
+      "stargazers_count": 1940,
+      "created_at": "2026-03-07T12:27:59Z",
+      "updated_at": "2026-06-28T04:59:28Z",
+      "categories": [
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075787+00:00",
+      "override": false
+    },
+    {
+      "full_name": "jnMetaCode/agency-orchestrator",
+      "description": "一句话触发多 AI 角色协作，数分钟内生成完整计划，基于 agency-agents 构建的智能体编排工具，兼容 Claude",
+      "language": "TypeScript",
+      "topics": [
+        "agency-agents",
+        "agent-orchestration",
+        "ai-agents",
+        "autogen-alternative",
+        "claude",
+        "codex",
+        "copilot",
+        "crewai-alternative",
+        "cursor",
+        "deepseek",
+        "gemini-cli",
+        "langgraph-alternative",
+        "mcp-server",
+        "multi-agent",
+        "no-api-key",
+        "ollama",
+        "openai",
+        "orchestrator",
+        "workflow",
+        "yaml-workflow"
+      ],
+      "html_url": "https://github.com/jnMetaCode/agency-orchestrator",
+      "stargazers_count": 1511,
+      "created_at": "2026-03-21T18:32:02Z",
+      "updated_at": "2026-06-28T09:01:25Z",
+      "categories": [
+        "ai-agent",
+        "multi-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074598+00:00",
+      "override": false
+    },
+    {
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "description": "从氛围编程到智能体工程 — Claude Code 最佳实践指南，让 Claude 更完美",
+      "language": "HTML",
+      "topics": [
+        "agentic-ai",
+        "agentic-coding",
+        "agentic-engineering",
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "best-practices",
+        "boris",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-agents",
+        "claude-code-best-practices",
+        "claude-code-commands",
+        "claude-code-skills",
+        "context-engineering",
+        "pakistan",
+        "pakistani-developer",
+        "vibe-coding"
+      ],
+      "html_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "stargazers_count": 61367,
+      "created_at": "2025-10-31T14:15:28Z",
+      "updated_at": "2026-06-28T10:58:58Z",
+      "categories": [
+        "ai-agent-skills",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075797+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Fission-AI/OpenSpec",
+      "description": "面向 AI 编程助手的规范驱动开发（SDD）工具，覆盖 PRD、工程规划与上下文工程",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "context-engineering",
+        "engineering",
+        "planning",
+        "prd",
+        "sdd",
+        "sdlc",
+        "spec",
+        "spec-driven-development",
+        "specification"
+      ],
+      "html_url": "https://github.com/Fission-AI/OpenSpec",
+      "stargazers_count": 57334,
+      "created_at": "2025-08-05T10:37:45Z",
+      "updated_at": "2026-06-28T11:03:39Z",
+      "categories": [
+        "ai-agent-skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075777+00:00",
+      "override": false
+    },
+    {
+      "full_name": "bmad-code-org/BMAD-METHOD",
+      "description": "BMAD Method：面向敏捷 AI 驱动开发的突破性方法论（Breakthrough Method for Agile AI Driven Development）",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "stargazers_count": 49786,
+      "created_at": "2025-04-13T14:54:25Z",
+      "updated_at": "2026-06-28T10:46:28Z",
+      "categories": [
+        "ai-agent-skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075757+00:00",
       "override": false
     },
     {
       "full_name": "zarazhangrui/frontend-slides",
-      "description": "利用编程 Agent 的前端能力在 Web 上创建精美幻灯片（Claude Skill）。",
+      "description": "利用编程 Agent 的前端技能在 Web 上创建精美的演示幻灯片。",
       "language": "JavaScript",
       "topics": [
         "ai-slides",
@@ -2782,79 +839,34 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/zarazhangrui/frontend-slides",
-      "stargazers_count": 23609,
+      "stargazers_count": 23612,
       "created_at": "2026-01-28T00:42:34Z",
-      "updated_at": "2026-06-28T10:51:33Z",
+      "updated_at": "2026-06-28T11:02:35Z",
       "categories": [
-        "skills",
-        "frontend"
+        "ai-agent-skills",
+        "ai-content-creation"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598427+00:00",
-      "override": false
-    },
-    {
-      "full_name": "JimLiu/baoyu-skills",
-      "description": "Agent Skills 集合，支持 Claude Skills、Codex Skills、OpenClaw Skills 等多平台",
-      "language": "TypeScript",
-      "topics": [
-        "agent-skills",
-        "claude-skills",
-        "codex-skills",
-        "openclaw-skills"
-      ],
-      "html_url": "https://github.com/JimLiu/baoyu-skills",
-      "stargazers_count": 22681,
-      "created_at": "2026-01-13T03:04:56Z",
-      "updated_at": "2026-06-28T10:52:21Z",
-      "categories": [
-        "skills"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598398+00:00",
-      "override": false
-    },
-    {
-      "full_name": "phuryn/pm-skills",
-      "description": "PM 技能市场：提供 100+ 智能体技能、命令和插件，覆盖从需求发现到策略制定与执行的全流程。",
-      "language": "",
-      "topics": [
-        "agent-skill-repository",
-        "agent-skills",
-        "agentic-skills",
-        "claude-code-marketplace",
-        "claude-code-plugins",
-        "claude-cowork-plugin",
-        "product-management"
-      ],
-      "html_url": "https://github.com/phuryn/pm-skills",
-      "stargazers_count": 21423,
-      "created_at": "2026-03-01T23:33:44Z",
-      "updated_at": "2026-06-28T10:42:56Z",
-      "categories": [
-        "skills",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597410+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075899+00:00",
       "override": false
     },
     {
       "full_name": "alchaincyf/huashu-design",
-      "description": "花束设计（Huashu Design）—— Claude Code 内的 HTML 原生设计 Skill，支持高保真原型制作。",
+      "description": "Huashu Design — Claude Code 中基于原生 HTML 的设计 Skill，用于高保真原型制作",
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/huashu-design",
-      "stargazers_count": 20132,
+      "stargazers_count": 20131,
       "created_at": "2026-04-19T14:42:06Z",
-      "updated_at": "2026-06-28T10:51:53Z",
+      "updated_at": "2026-06-28T10:59:59Z",
       "categories": [
-        "skills",
-        "design"
+        "ai-agent-skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598300+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075774+00:00",
       "override": false
     },
     {
       "full_name": "op7418/guizang-ppt-skill",
-      "description": "用于生成精美 HTML 幻灯片演示的 AI Agent 技能：支持编辑杂志风与瑞士风格布局，以及图片生成",
+      "description": "AI Agent 技能：生成精美 HTML 幻灯片，支持编辑杂志与瑞士风格布局，集成图片生成",
       "language": "HTML",
       "topics": [
         "ai-agent",
@@ -2870,19 +882,19 @@
         "web-ppt"
       ],
       "html_url": "https://github.com/op7418/guizang-ppt-skill",
-      "stargazers_count": 19235,
+      "stargazers_count": 19237,
       "created_at": "2026-04-23T13:23:07Z",
-      "updated_at": "2026-06-28T10:52:34Z",
+      "updated_at": "2026-06-28T10:56:34Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "ai-agent-skills",
+        "ai-content-creation"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598267+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075745+00:00",
       "override": false
     },
     {
       "full_name": "ComposioHQ/awesome-codex-skills",
-      "description": "精选的实用 Codex 技能列表，用于在 Codex CLI 和 API 中自动化工作流",
+      "description": "精选的 Codex 实用技能清单，用于跨 Codex CLI 和 API 的自动化工作流编排",
       "language": "Python",
       "topics": [
         "awesome",
@@ -2899,18 +911,18 @@
         "skills"
       ],
       "html_url": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "stargazers_count": 14253,
+      "stargazers_count": 14254,
       "created_at": "2026-01-12T11:58:21Z",
-      "updated_at": "2026-06-28T10:27:02Z",
+      "updated_at": "2026-06-28T10:55:28Z",
       "categories": [
-        "skills"
+        "ai-agent-skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598263+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075741+00:00",
       "override": false
     },
     {
       "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "description": "ARIS ⚔️（Auto-Research-In-Sleep）—— 轻量级纯 Markdown Skills，用于自主机器学习研究：跨会话记忆、并行 Agent 调度与自动化实验流程。",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — 轻量级纯 Markdown Skill，用于自主机器学习研究。",
       "language": "Python",
       "topics": [
         "ai-research",
@@ -2939,16 +951,15 @@
       "created_at": "2026-03-10T07:31:45Z",
       "updated_at": "2026-06-28T10:51:19Z",
       "categories": [
-        "skills",
-        "ai-research",
+        "ai-agent-skills",
         "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598418+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075893+00:00",
       "override": false
     },
     {
       "full_name": "lijigang/ljg-skills",
-      "description": "个人 AI 编程技能集合（Skills）。",
+      "description": "暂无描述（项目名为 ljg-skills，推测为 AI 编程技能集合）",
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/lijigang/ljg-skills",
@@ -2956,68 +967,14 @@
       "created_at": "2026-03-08T03:08:33Z",
       "updated_at": "2026-06-28T10:07:25Z",
       "categories": [
-        "skills"
+        "ai-agent-skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598405+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Chachamaru127/claude-code-harness",
-      "description": "Claude Code 专用开发工具链，通过自主开发流程实现高质量代码产出。",
-      "language": "Shell",
-      "topics": [],
-      "html_url": "https://github.com/Chachamaru127/claude-code-harness",
-      "stargazers_count": 2885,
-      "created_at": "2025-12-12T03:57:21Z",
-      "updated_at": "2026-06-28T09:03:37Z",
-      "categories": [
-        "skills",
-        "ai-dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.597431+00:00",
-      "override": false
-    },
-    {
-      "full_name": "oaker-io/wewrite",
-      "description": "公众号文章全流程 AI Skill for Claude Code——热点抓取→选题→写作→SEO→视觉 AI→排版→微信草稿箱",
-      "language": "Python",
-      "topics": [],
-      "html_url": "https://github.com/oaker-io/wewrite",
-      "stargazers_count": 2567,
-      "created_at": "2026-03-26T14:18:54Z",
-      "updated_at": "2026-06-28T09:52:42Z",
-      "categories": [
-        "skills",
-        "content-creation"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598395+00:00",
-      "override": false
-    },
-    {
-      "full_name": "yaojingang/yao-open-prompts",
-      "description": "Yao Open Prompts：面向工作、学习、内容创作、营销和电商的中文 AI 提示词库",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "chinese-prompts",
-        "geo",
-        "prompt-engineering",
-        "prompts"
-      ],
-      "html_url": "https://github.com/yaojingang/yao-open-prompts",
-      "stargazers_count": 2510,
-      "created_at": "2026-05-06T13:04:20Z",
-      "updated_at": "2026-06-28T10:18:41Z",
-      "categories": [
-        "skills",
-        "ai-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598256+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075877+00:00",
       "override": false
     },
     {
       "full_name": "yaojingang/yao-meta-skill",
-      "description": "YAO = Yielding AI Outcomes。一套严谨的工程化、评估、治理与可移植系统，用于管理 AI Agent 技能（Meta-Skill）。",
+      "description": "YAO（Yielding AI Outcomes）— 一个严格的 AI 成果工程化、评估、治理与可移植性系统，提供元 Skill 框架",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -3034,16 +991,1590 @@
       "created_at": "2026-03-31T11:59:35Z",
       "updated_at": "2026-06-28T09:20:06Z",
       "categories": [
-        "skills",
-        "ai-agent",
-        "evaluation"
+        "ai-agent-skills",
+        "ai-agent"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598297+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075770+00:00",
+      "override": false
+    },
+    {
+      "full_name": "hacksider/Deep-Live-Cam",
+      "description": "仅需一张图片即可实现实时换脸与一键视频深度伪造（Deepfake）",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-deep-fake",
+        "ai-face",
+        "ai-webcam",
+        "artificial-intelligence",
+        "deep-fake",
+        "deepfake",
+        "deepfake-webcam",
+        "faceswap",
+        "fake-webcam",
+        "gan",
+        "real-time-deepfake",
+        "realtime",
+        "realtime-deepfake",
+        "realtime-face-changer",
+        "video-deepfake",
+        "webcam",
+        "webcamera"
+      ],
+      "html_url": "https://github.com/hacksider/Deep-Live-Cam",
+      "stargazers_count": 94349,
+      "created_at": "2023-09-24T13:19:31Z",
+      "updated_at": "2026-06-28T11:06:04Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075920+00:00",
+      "override": false
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型一键生成高清短视频，支持自动化批量生产与多种视频风格",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "automation",
+        "chatgpt",
+        "moviepy",
+        "python",
+        "shortvideo",
+        "tiktok"
+      ],
+      "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stargazers_count": 93733,
+      "created_at": "2024-03-11T02:57:34Z",
+      "updated_at": "2026-06-28T11:05:03Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075986+00:00",
+      "override": false
+    },
+    {
+      "full_name": "hugohe3/ppt-master",
+      "description": "AI 从任意文档生成真实可编辑的 PowerPoint，支持原生形状与动画、演讲者备注",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "aippt",
+        "office",
+        "powerpoint",
+        "powerpoint-generation",
+        "ppt",
+        "pptx",
+        "presentation",
+        "slide",
+        "slides"
+      ],
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "stargazers_count": 33454,
+      "created_at": "2025-12-10T06:54:33Z",
+      "updated_at": "2026-06-28T11:05:49Z",
+      "categories": [
+        "ai-content-creation",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075783+00:00",
+      "override": false
+    },
+    {
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "自动化在线赚钱流程工具，支持内容生成与外展营销自动化",
+      "language": "Python",
+      "topics": [
+        "automation",
+        "cli",
+        "json",
+        "money",
+        "outreach",
+        "python",
+        "twitter",
+        "youtube"
+      ],
+      "html_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "stargazers_count": 31086,
+      "created_at": "2024-02-12T11:20:42Z",
+      "updated_at": "2026-06-28T10:56:53Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075860+00:00",
+      "override": false
+    },
+    {
+      "full_name": "doocs/md",
+      "description": "微信 Markdown 编辑器，支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+      "language": "TypeScript",
+      "topics": [
+        "ai-bot",
+        "doocs",
+        "editor",
+        "llm",
+        "markdown",
+        "markdown-editor",
+        "tailwindcss",
+        "vite",
+        "vue",
+        "vue3",
+        "wechat",
+        "weixin"
+      ],
+      "html_url": "https://github.com/doocs/md",
+      "stargazers_count": 12914,
+      "created_at": "2019-11-01T09:14:36Z",
+      "updated_at": "2026-06-28T10:03:22Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075731+00:00",
+      "override": false
+    },
+    {
+      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+      "description": "通过自然语言生成生产级质量的 SVG 和 PNG 技术图表，支持 7 种样式及 UML 图表，集成 Agent 工作流",
+      "language": "Python",
+      "topics": [
+        "agent-workflows",
+        "ai",
+        "claude-code",
+        "developer-tools",
+        "diagrams",
+        "svg"
+      ],
+      "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "stargazers_count": 8189,
+      "created_at": "2026-04-10T15:07:10Z",
+      "updated_at": "2026-06-28T10:41:07Z",
+      "categories": [
+        "ai-content-creation",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075831+00:00",
+      "override": false
+    },
+    {
+      "full_name": "yaojingang/GEOFlow",
+      "description": "开源的 GEO 内容工程与多站点分发系统，集成 AI 任务调度、RAG 与语义理解",
+      "language": "PHP",
+      "topics": [
+        "ai",
+        "cms",
+        "content-automation",
+        "geo",
+        "openai-compatible",
+        "php",
+        "postgresql",
+        "seo"
+      ],
+      "html_url": "https://github.com/yaojingang/GEOFlow",
+      "stargazers_count": 2712,
+      "created_at": "2026-04-13T11:42:03Z",
+      "updated_at": "2026-06-28T09:20:01Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075793+00:00",
+      "override": false
+    },
+    {
+      "full_name": "iniwap/AIWriteX",
+      "description": "AIWriteX — 微信公众号全自动 AI 工具：全网热搜舆情聚合 + 趋势分析 + 爆款选题 + 文章采集 + 一键生成排版发布，支持 AI 自动配图、去 AI 味、过朱雀检测，同时支持小红书/百家号/头条等多平台。",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "ai-auto-wxgzh",
+        "ai-wx",
+        "aipy",
+        "aipyapp",
+        "aixiezuo",
+        "baowen",
+        "crewai",
+        "gongzhonghao-a",
+        "openclaw",
+        "qu-ai-wei",
+        "search-tool",
+        "web-search",
+        "wechat",
+        "weixin",
+        "wx",
+        "wx-template",
+        "wxgzh",
+        "xiaohongshu"
+      ],
+      "html_url": "https://github.com/iniwap/AIWriteX",
+      "stargazers_count": 1270,
+      "created_at": "2025-04-02T07:28:12Z",
+      "updated_at": "2026-06-28T10:45:31Z",
+      "categories": [
+        "ai-content-creation",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075883+00:00",
+      "override": false
+    },
+    {
+      "full_name": "ycbing/Shortify-AI",
+      "description": "基于 AI 的短剧内容创作工具",
+      "language": "TypeScript",
+      "topics": [],
+      "html_url": "https://github.com/ycbing/Shortify-AI",
+      "stargazers_count": 106,
+      "created_at": "2026-04-02T11:05:20Z",
+      "updated_at": "2026-06-28T10:59:44Z",
+      "categories": [
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074585+00:00",
+      "override": false
+    },
+    {
+      "full_name": "koala73/worldmonitor",
+      "description": "实时全球情报仪表盘，AI 驱动的新闻聚合、地缘政治监控与信息分析平台",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "html_url": "https://github.com/koala73/worldmonitor",
+      "stargazers_count": 60524,
+      "created_at": "2026-01-08T17:26:06Z",
+      "updated_at": "2026-06-28T11:03:57Z",
+      "categories": [
+        "ai-monitoring"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074617+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和 AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备功能完善的后台管理 UI，帮助用户从闲鱼海量商品中找到心仪产品。",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "ai-tools",
+        "automation",
+        "gemini",
+        "goofish",
+        "open-source",
+        "openai",
+        "playwright",
+        "tool",
+        "xian-yu",
+        "xianyu",
+        "xianyu-bot"
+      ],
+      "html_url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "stargazers_count": 12681,
+      "created_at": "2025-07-16T08:13:41Z",
+      "updated_at": "2026-06-28T10:17:48Z",
+      "categories": [
+        "ai-monitoring",
+        "browser-automation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075880+00:00",
+      "override": false
+    },
+    {
+      "full_name": "jackwener/OpenCLI",
+      "description": "将任意网站转化为 CLI 接口，通过 AI Agent 驱动已登录浏览器完成自动化操作",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "cli",
+        "playwright"
+      ],
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "stargazers_count": 25499,
+      "created_at": "2026-03-14T22:10:23Z",
+      "updated_at": "2026-06-28T11:06:01Z",
+      "categories": [
+        "browser-automation",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075873+00:00",
+      "override": false
+    },
+    {
+      "full_name": "QLHazyCoder/FlowPilot",
+      "description": "Chrome 扩展，支持 Codex（自动开通 Plus 账号）/ Kiro 注册、验证码获取、CPA/Sub 回调验证与自动恢复。",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/QLHazyCoder/FlowPilot",
+      "stargazers_count": 4939,
+      "created_at": "2026-04-09T03:23:02Z",
+      "updated_at": "2026-06-28T10:44:32Z",
+      "categories": [
+        "browser-automation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074648+00:00",
+      "override": false
+    },
+    {
+      "full_name": "chatwoot/chatwoot",
+      "description": "开源的在线客服、邮件支持与全渠道通讯桌面系统，可作为 Intercom、Zendesk、Salesforce 的替代方案。",
+      "language": "Ruby",
+      "topics": [
+        "actioncable",
+        "chat-widget",
+        "conversation",
+        "customer-support",
+        "dashboard",
+        "design",
+        "docker",
+        "docker-image",
+        "heroku",
+        "intercom",
+        "javascript",
+        "livechat",
+        "opensource",
+        "rails",
+        "ruby",
+        "sass",
+        "vuejs",
+        "whatsapp",
+        "zendesk"
+      ],
+      "html_url": "https://github.com/chatwoot/chatwoot",
+      "stargazers_count": 33639,
+      "created_at": "2019-08-14T06:50:51Z",
+      "updated_at": "2026-06-28T11:01:32Z",
+      "categories": [
+        "customer-support"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074636+00:00",
+      "override": false
+    },
+    {
+      "full_name": "zhinianboke/xianyu-auto-reply",
+      "description": "基于 Python + FastAPI 的闲鱼自动回复管理系统，通过 WebSocket 连接闲鱼服务器，实时接收处理消息并提供智能化自动回复服务。",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/zhinianboke/xianyu-auto-reply",
+      "stargazers_count": 5296,
+      "created_at": "2025-07-24T04:04:11Z",
+      "updated_at": "2026-06-28T10:40:47Z",
+      "categories": [
+        "customer-support"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075683+00:00",
+      "override": false
+    },
+    {
+      "full_name": "ollama/ollama",
+      "description": "本地大语言模型运行工具，支持快速部署和运行 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、GPT-OSS、Qwen、Gemma 等多种模型",
+      "language": "Go",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "gemma3",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llama3",
+        "llm",
+        "llms",
+        "minimax",
+        "mistral",
+        "ollama",
+        "qwen"
+      ],
+      "html_url": "https://github.com/ollama/ollama",
+      "stargazers_count": 175035,
+      "created_at": "2023-06-26T19:39:32Z",
+      "updated_at": "2026-06-28T11:00:48Z",
+      "categories": [
+        "developer-tools",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075983+00:00",
+      "override": false
+    },
+    {
+      "full_name": "farion1231/cc-switch",
+      "description": "跨平台桌面一体化助手，统一管理 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 等编程 CLI 工具",
+      "language": "Rust",
+      "topics": [
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "desktop-app",
+        "hermes",
+        "hermes-agent",
+        "mcp",
+        "minimax",
+        "omo",
+        "open-source",
+        "openclaw",
+        "openclaw-ui",
+        "opencode",
+        "provider-management",
+        "rust",
+        "skills",
+        "skills-management",
+        "tauri",
+        "typescript",
+        "wsl-support"
+      ],
+      "html_url": "https://github.com/farion1231/cc-switch",
+      "stargazers_count": 109752,
+      "created_at": "2025-08-04T14:16:16Z",
+      "updated_at": "2026-06-28T11:04:23Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075917+00:00",
+      "override": false
+    },
+    {
+      "full_name": "router-for-me/CLIProxyAPI",
+      "description": "将 Antigravity、ChatGPT Codex、Claude Code、Grok Build 封装为兼容 OpenAI / Gemini / Claude / Codex 的 API 接口。",
+      "language": "Go",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "cluade",
+        "codex",
+        "gemini",
+        "openai"
+      ],
+      "html_url": "https://github.com/router-for-me/CLIProxyAPI",
+      "stargazers_count": 38591,
+      "created_at": "2025-07-01T19:43:27Z",
+      "updated_at": "2026-06-28T11:04:37Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075887+00:00",
+      "override": false
+    },
+    {
+      "full_name": "DayuanJiang/next-ai-draw-io",
+      "description": "集成 AI 能力与 draw.io 图表的 Next.js 网页应用，可借助 AI 自然语言创建和编辑图表",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "diagrams",
+        "productivity"
+      ],
+      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "stargazers_count": 32399,
+      "created_at": "2025-03-23T15:03:48Z",
+      "updated_at": "2026-06-28T10:12:38Z",
+      "categories": [
+        "developer-tools",
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075946+00:00",
+      "override": false
+    },
+    {
+      "full_name": "jarrodwatts/claude-hud",
+      "description": "Claude Code 插件，实时展示上下文用量、活跃工具、运行中的 Agent 等运行状态信息",
+      "language": "JavaScript",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "plugin",
+        "statusline",
+        "typescript"
+      ],
+      "html_url": "https://github.com/jarrodwatts/claude-hud",
+      "stargazers_count": 25859,
+      "created_at": "2026-01-02T01:35:07Z",
+      "updated_at": "2026-06-28T10:41:29Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075863+00:00",
+      "override": false
+    },
+    {
+      "full_name": "manaflow-ai/cmux",
+      "description": "基于 Ghostty 的开源 macOS 终端，为 AI 编程 Agent 提供垂直标签页与通知功能",
+      "language": "Swift",
+      "topics": [
+        "amp",
+        "claude-code",
+        "codex",
+        "gemini",
+        "ghostty",
+        "opencode",
+        "terminal",
+        "tmux"
+      ],
+      "html_url": "https://github.com/manaflow-ai/cmux",
+      "stargazers_count": 23059,
+      "created_at": "2026-01-28T10:03:24Z",
+      "updated_at": "2026-06-28T10:44:28Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075780+00:00",
+      "override": false
+    },
+    {
+      "full_name": "lanceliao/china-holiday-calender",
+      "description": "2023-2025 中国节假日、调休与补班日历，支持 ICS 格式订阅（iPhone、Google Calendar、Outlook），含节假日 API",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/lanceliao/china-holiday-calender",
+      "stargazers_count": 6534,
+      "created_at": "2021-05-08T07:37:54Z",
+      "updated_at": "2026-06-27T08:43:28Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075996+00:00",
+      "override": false
+    },
+    {
+      "full_name": "TWO-ICE/Awesome-NAS-Docker",
+      "description": "专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，将 NAS 打造为全能生产力工具",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/TWO-ICE/Awesome-NAS-Docker",
+      "stargazers_count": 4048,
+      "created_at": "2025-03-19T03:52:16Z",
+      "updated_at": "2026-06-28T02:27:24Z",
+      "categories": [
+        "developer-tools",
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075961+00:00",
+      "override": false
+    },
+    {
+      "full_name": "zc-zhangchen/any-auto-register",
+      "description": "通用自动注册工具（Python 实现）",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/zc-zhangchen/any-auto-register",
+      "stargazers_count": 3496,
+      "created_at": "2026-03-22T13:00:59Z",
+      "updated_at": "2026-06-28T10:47:47Z",
+      "categories": [
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075827+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Snailclimb/JavaGuide",
+      "description": "Java 面试与后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "context-engineering",
+        "deepseek",
+        "interview",
+        "java",
+        "mcp",
+        "mysql",
+        "redis",
+        "redisson",
+        "skills",
+        "springai",
+        "system-design"
+      ],
+      "html_url": "https://github.com/Snailclimb/JavaGuide",
+      "stargazers_count": 156659,
+      "created_at": "2018-05-07T13:27:00Z",
+      "updated_at": "2026-06-28T10:54:27Z",
+      "categories": [
+        "education-resources",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.076015+00:00",
+      "override": false
+    },
+    {
+      "full_name": "labuladong/fucking-algorithm",
+      "description": "LeetCode 算法刷题指南，不仅讲解题方法更剖析底层原理，涵盖动态规划、数据结构等核心专题",
+      "language": "Markdown",
+      "topics": [
+        "algorithms",
+        "computer-science",
+        "data-structures",
+        "dynamic-programming",
+        "dynamic-programming-algorithm",
+        "interview-questions",
+        "kmp",
+        "leetcode"
+      ],
+      "html_url": "https://github.com/labuladong/fucking-algorithm",
+      "stargazers_count": 134583,
+      "created_at": "2020-02-19T09:01:23Z",
+      "updated_at": "2026-06-28T10:40:45Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075999+00:00",
+      "override": false
+    },
+    {
+      "full_name": "ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布，涵盖科技资讯、开源项目推荐与技术趋势分析",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/ruanyf/weekly",
+      "stargazers_count": 94660,
+      "created_at": "2018-10-13T12:36:07Z",
+      "updated_at": "2026-06-28T10:32:47Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075973+00:00",
+      "override": false
+    },
+    {
+      "full_name": "iluwatar/java-design-patterns",
+      "description": "用 Java 实现的设计模式集合，覆盖创建型、结构型与行为型模式，附带最佳实践说明",
+      "language": "Java",
+      "topics": [
+        "awesome-list",
+        "design-patterns",
+        "hacktoberfest",
+        "java",
+        "principles",
+        "snippets",
+        "snippets-collection",
+        "snippets-library"
+      ],
+      "html_url": "https://github.com/iluwatar/java-design-patterns",
+      "stargazers_count": 94161,
+      "created_at": "2014-08-09T16:45:18Z",
+      "updated_at": "2026-06-28T05:58:14Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.076005+00:00",
+      "override": false
+    },
+    {
+      "full_name": "doocs/advanced-java",
+      "description": "互联网 Java 工程师进阶知识完全扫盲，覆盖分布式系统、高并发、分布式搜索引擎等核心领域面试考点",
+      "language": "Java",
+      "topics": [
+        "advanced-java",
+        "distributed-search-engine",
+        "distributed-systems",
+        "doocs",
+        "dubbo",
+        "elasticsearch",
+        "eureka",
+        "feign",
+        "high-availability",
+        "high-concurrency",
+        "hystrix",
+        "java",
+        "message-queue",
+        "microservices-architecture",
+        "redis",
+        "ribbon",
+        "rpc",
+        "spring-cloud",
+        "springcloud-config",
+        "zookeeper"
+      ],
+      "html_url": "https://github.com/doocs/advanced-java",
+      "stargazers_count": 78986,
+      "created_at": "2018-10-06T11:38:30Z",
+      "updated_at": "2026-06-28T10:55:27Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.076008+00:00",
+      "override": false
+    },
+    {
+      "full_name": "MisterBooo/LeetCodeAnimation",
+      "description": "以动画形式直观呈现 LeetCode 题目解法思路，降低算法学习门槛",
+      "language": "Java",
+      "topics": [
+        "animation",
+        "leetcode",
+        "leetcode-c",
+        "leetcode-java",
+        "leetcode-solutions"
+      ],
+      "html_url": "https://github.com/MisterBooo/LeetCodeAnimation",
+      "stargazers_count": 76601,
+      "created_at": "2018-12-06T08:01:22Z",
+      "updated_at": "2026-06-28T06:40:35Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.076012+00:00",
+      "override": false
+    },
+    {
+      "full_name": "tvytlx/ai-agent-deep-dive",
+      "description": "AI Agent 源码深度研究报告，系统梳理智能体实现原理与架构",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "stargazers_count": 5794,
+      "created_at": "2026-03-31T11:27:01Z",
+      "updated_at": "2026-06-27T18:28:34Z",
+      "categories": [
+        "education-resources",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075847+00:00",
+      "override": false
+    },
+    {
+      "full_name": "mswnlz/edu-knowlege",
+      "description": "汇集从幼儿园到高中的各类教育资料，涵盖学而思、万维、猿辅导等多个培训机构的课程资源，持续更新中",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/mswnlz/edu-knowlege",
+      "stargazers_count": 4205,
+      "created_at": "2025-05-13T06:22:39Z",
+      "updated_at": "2026-06-28T09:25:18Z",
+      "categories": [
+        "education-resources"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075821+00:00",
+      "override": false
+    },
+    {
+      "full_name": "hzm0321/real-time-fund",
+      "description": "基金实时估值查看工具。",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/hzm0321/real-time-fund",
+      "stargazers_count": 1427,
+      "created_at": "2026-01-31T12:55:02Z",
+      "updated_at": "2026-06-28T08:26:36Z",
+      "categories": [
+        "finance-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075910+00:00",
+      "override": false
+    },
+    {
+      "full_name": "multica-ai/multica",
+      "description": "Multica：开源托管 Agent 平台，将编码 Agent 变为真正的团队成员，支持任务分配、进度追踪与成果审查",
+      "language": "Go",
+      "topics": [],
+      "html_url": "https://github.com/multica-ai/multica",
+      "stargazers_count": 38286,
+      "created_at": "2026-01-13T17:59:46Z",
+      "updated_at": "2026-06-28T10:24:02Z",
+      "categories": [
+        "multi-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075767+00:00",
+      "override": false
+    },
+    {
+      "full_name": "iptv-org/iptv",
+      "description": "全球公开 IPTV 频道的集合，支持 M3U 播放列表格式，按地区与语言分类",
+      "language": "TypeScript",
+      "topics": [
+        "iptv",
+        "m3u",
+        "playlist",
+        "streams",
+        "tv"
+      ],
+      "html_url": "https://github.com/iptv-org/iptv",
+      "stargazers_count": 128954,
+      "created_at": "2018-11-14T22:00:57Z",
+      "updated_at": "2026-06-28T11:05:34Z",
+      "categories": [
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075989+00:00",
+      "override": false
+    },
+    {
+      "full_name": "fanmingming/live",
+      "description": "可直连访问的电视与广播图标库及相关工具合集，永久免费、完整开源，支持 IPv4/IPv6 双栈访问，提供台标与 EPG 转换工具",
+      "language": "JavaScript",
+      "topics": [
+        "china",
+        "converter",
+        "epg",
+        "iptv",
+        "ipv6",
+        "live",
+        "m3u",
+        "m3u8",
+        "mp4",
+        "radio",
+        "television",
+        "tv",
+        "txt",
+        "workers"
+      ],
+      "html_url": "https://github.com/fanmingming/live",
+      "stargazers_count": 28202,
+      "created_at": "2022-11-16T18:03:31Z",
+      "updated_at": "2026-06-28T10:59:24Z",
+      "categories": [
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075977+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Guovin/iptv-api",
+      "description": "IPTV 直播源自动更新平台，全自动采集、筛选、测速、生成，支持自定义频道获取、IPv4/IPv6、接口验效、推流，支持工作流、Docker、命令行、GUI 多端部署",
+      "language": "Python",
+      "topics": [
+        "auto-update",
+        "awesome",
+        "epg",
+        "iptv",
+        "iptv-api",
+        "iptv-channels",
+        "iptv-free",
+        "iptv-m3u",
+        "iptv-m3u8",
+        "iptv-playlist",
+        "ipv4",
+        "ipv6",
+        "live",
+        "m3u",
+        "m3u8",
+        "playlist",
+        "rtmp",
+        "schedule",
+        "tv",
+        "tvbox"
+      ],
+      "html_url": "https://github.com/Guovin/iptv-api",
+      "stargazers_count": 24390,
+      "created_at": "2024-02-04T11:22:59Z",
+      "updated_at": "2026-06-28T10:55:34Z",
+      "categories": [
+        "music-entertainment",
+        "resource-search"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075970+00:00",
+      "override": false
+    },
+    {
+      "full_name": "YanG-1989/m3u",
+      "description": "直播源集合，提供各类电视直播流的 M3U 地址",
+      "language": "Shell",
+      "topics": [],
+      "html_url": "https://github.com/YanG-1989/m3u",
+      "stargazers_count": 11270,
+      "created_at": "2022-10-03T22:33:40Z",
+      "updated_at": "2026-06-28T06:18:43Z",
+      "categories": [
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075993+00:00",
+      "override": false
+    },
+    {
+      "full_name": "EdNovas/dongguaTV",
+      "description": "冬瓜 TV 项目（无描述信息，据名称推断为影视娱乐类）",
+      "language": "HTML",
+      "topics": [],
+      "html_url": "https://github.com/EdNovas/dongguaTV",
+      "stargazers_count": 578,
+      "created_at": "2025-12-17T01:37:53Z",
+      "updated_at": "2026-06-26T05:52:06Z",
+      "categories": [
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075932+00:00",
+      "override": false
+    },
+    {
+      "full_name": "AnsGoo/music-free-site",
+      "description": "简化在线听歌体验的免费音乐站点",
+      "language": "JavaScript",
+      "topics": [],
+      "html_url": "https://github.com/AnsGoo/music-free-site",
+      "stargazers_count": 28,
+      "created_at": "2026-04-24T03:45:20Z",
+      "updated_at": "2026-06-24T07:38:02Z",
+      "categories": [
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074624+00:00",
+      "override": false
+    },
+    {
+      "full_name": "yonggekkk/argosbx",
+      "description": "自建代理的一键无交互部署脚本，支持 Sing-box、Xray、Argo 三内核自动搭配，兼容 VPS、Docker、容器多环境部署，提供 CDN 五大方案与 WARP 十五种组合",
+      "language": "Shell",
+      "topics": [
+        "anytls",
+        "argo",
+        "claw-cloud",
+        "cloudflared",
+        "docker-image",
+        "google-idx",
+        "hysteria2",
+        "ml-kem-768",
+        "sap",
+        "shadowsocks-2022",
+        "singbox",
+        "socks5",
+        "tuic",
+        "vless-reality-vision",
+        "vless-ws-tls",
+        "vless-xhttp-reality",
+        "vmess-ws",
+        "warp",
+        "wireguard",
+        "xray"
+      ],
+      "html_url": "https://github.com/yonggekkk/argosbx",
+      "stargazers_count": 5359,
+      "created_at": "2025-04-22T01:46:41Z",
+      "updated_at": "2026-06-28T07:29:07Z",
+      "categories": [
+        "network-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075953+00:00",
+      "override": false
+    },
+    {
+      "full_name": "7Sageer/sublink-worker",
+      "description": "一个 Worker 管理所有订阅：基于 Cloudflare Workers 的代理订阅转换工具，支持 Clash、Sing-box、Mihomo 等多种代理客户端格式",
+      "language": "JavaScript",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "cloudflare-workers",
+        "mihomo",
+        "singbox",
+        "v2rayn",
+        "v2rayng",
+        "xray-core"
+      ],
+      "html_url": "https://github.com/7Sageer/sublink-worker",
+      "stargazers_count": 4966,
+      "created_at": "2024-07-27T08:09:07Z",
+      "updated_at": "2026-06-28T11:03:07Z",
+      "categories": [
+        "network-tools"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075949+00:00",
+      "override": false
+    },
+    {
+      "full_name": "youhunwl/TVAPP",
+      "description": "收集全网 Android TV 电视盒子应用，涵盖影视、直播、K 歌、工具、游戏等类型，整理优质 APK 资源，支持便捷下载与自动更新，提供安全验证、分类索引与兼容性标注",
+      "language": "JavaScript",
+      "topics": [
+        "android",
+        "android-tv",
+        "apk",
+        "app",
+        "tv",
+        "tv-box"
+      ],
+      "html_url": "https://github.com/youhunwl/TVAPP",
+      "stargazers_count": 19023,
+      "created_at": "2025-03-11T01:59:36Z",
+      "updated_at": "2026-06-28T10:38:58Z",
+      "categories": [
+        "resource-search",
+        "music-entertainment"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075956+00:00",
+      "override": false
+    },
+    {
+      "full_name": "fish2018/pansou",
+      "description": "PanSou：高性能网盘资源搜索 API 服务，支持 TG 频道与插件搜索，多频道多插件并发搜索、结果智能排序与网盘类型分类",
+      "language": "Go",
+      "topics": [],
+      "html_url": "https://github.com/fish2018/pansou",
+      "stargazers_count": 13674,
+      "created_at": "2025-07-10T07:17:46Z",
+      "updated_at": "2026-06-28T09:52:01Z",
+      "categories": [
+        "resource-search"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075754+00:00",
+      "override": false
+    },
+    {
+      "full_name": "obra/superpowers",
+      "description": "一套实用且有效的智能体 Skill 框架与软件开发方法论",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "html_url": "https://github.com/obra/superpowers",
+      "stargazers_count": 240340,
+      "created_at": "2025-10-09T19:45:18Z",
+      "updated_at": "2026-06-28T11:05:02Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075929+00:00",
+      "override": false
+    },
+    {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "基于 Andrej Karpathy 的实践经验提炼的单一 CLAUDE.md 文件，用于改善 Claude Code 的编码行为与输出质量",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stargazers_count": 183672,
+      "created_at": "2026-01-27T03:53:13Z",
+      "updated_at": "2026-06-28T11:02:15Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075807+00:00",
+      "override": false
+    },
+    {
+      "full_name": "f/prompts.chat",
+      "description": "原 Awesome ChatGPT Prompts，社区驱动的提示词分享、发现与收集平台，免费开源",
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "chatgpt-prompts",
+        "claude",
+        "gemini",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "machine-learning",
+        "nextjs",
+        "open-source",
+        "openai",
+        "prompt-engineering",
+        "prompts",
+        "prompts-chat",
+        "typescript"
+      ],
+      "html_url": "https://github.com/f/prompts.chat",
+      "stargazers_count": 164452,
+      "created_at": "2022-12-05T13:54:13Z",
+      "updated_at": "2026-06-28T10:30:46Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075851+00:00",
+      "override": false
+    },
+    {
+      "full_name": "anthropics/skills",
+      "description": "Anthropic 官方 Agent Skills 公共仓库",
+      "language": "Python",
+      "topics": [
+        "agent-skills"
+      ],
+      "html_url": "https://github.com/anthropics/skills",
+      "stargazers_count": 156058,
+      "created_at": "2025-09-22T15:53:31Z",
+      "updated_at": "2026-06-28T11:02:04Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075942+00:00",
+      "override": false
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "description": "面向实战工程师的 AI 编程技能集合，直接来源于作者 .claude 目录中的 Shell 配置与 Skill 定义",
+      "language": "Shell",
+      "topics": [],
+      "html_url": "https://github.com/mattpocock/skills",
+      "stargazers_count": 148780,
+      "created_at": "2026-02-03T11:15:53Z",
+      "updated_at": "2026-06-28T11:04:47Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075811+00:00",
+      "override": false
+    },
+    {
+      "full_name": "VoltAgent/awesome-design-md",
+      "description": "汇集主流品牌设计系统的 DESIGN.md 文件分析集合，可直接放入项目中以指导 AI 编码的设计风格与规范",
+      "language": "",
+      "topics": [
+        "awesome-list",
+        "design-md",
+        "design-system",
+        "design-tokens",
+        "figma",
+        "google-stitch",
+        "landing-page",
+        "vibe-coding",
+        "vibe-design",
+        "vibecoding"
+      ],
+      "html_url": "https://github.com/VoltAgent/awesome-design-md",
+      "stargazers_count": 93938,
+      "created_at": "2026-03-31T16:37:01Z",
+      "updated_at": "2026-06-28T11:00:45Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075834+00:00",
+      "override": false
+    },
+    {
+      "full_name": "safishamsi/graphify",
+      "description": "AI 编码助手 Skill（支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等），可将任意文件夹转化为 GraphRAG 知识图谱",
+      "language": "Python",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "html_url": "https://github.com/safishamsi/graphify",
+      "stargazers_count": 73104,
+      "created_at": "2026-04-03T15:49:07Z",
+      "updated_at": "2026-06-28T11:00:25Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075725+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Egonex-AI/Understand-Anything",
+      "description": "将任意代码转化为可探索的交互式知识图谱，注重教学理解而非炫技，支持业务知识与代码库深度分析。",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codebase-analysis",
+        "codex",
+        "codex-skills",
+        "developer-tools-ai-agent",
+        "gemini-cli-skills",
+        "karpathy-llm-wiki",
+        "knowledge-base",
+        "knowledge-graph",
+        "memory",
+        "opencode-skills",
+        "pi-agent",
+        "understandcode",
+        "vibe-coding"
+      ],
+      "html_url": "https://github.com/Egonex-AI/Understand-Anything",
+      "stargazers_count": 68796,
+      "created_at": "2026-03-15T02:30:51Z",
+      "updated_at": "2026-06-28T11:06:20Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075690+00:00",
+      "override": false
+    },
+    {
+      "full_name": "colbymchenry/codegraph",
+      "description": "预索引代码知识图谱，随代码变更自动同步，适用于 Claude Code、Codex、Gemini、Cursor 等 AI 编码工具",
+      "language": "TypeScript",
+      "topics": [],
+      "html_url": "https://github.com/colbymchenry/codegraph",
+      "stargazers_count": 55509,
+      "created_at": "2026-01-18T21:45:37Z",
+      "updated_at": "2026-06-28T11:06:29Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075704+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "为 AI 赋予品味判断能力，避免生成无聊、千篇一律的通用内容，兼容 Claude Code 与 Codex",
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "design",
+        "frontend",
+        "lowcode",
+        "nocode",
+        "skill",
+        "skills",
+        "vibecoding"
+      ],
+      "html_url": "https://github.com/Leonxlnx/taste-skill",
+      "stargazers_count": 52278,
+      "created_at": "2026-02-19T21:44:05Z",
+      "updated_at": "2026-06-28T11:00:31Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074630+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Imbad0202/academic-research-skills",
+      "description": "Claude Code 学术研究 Skills：覆盖研究 → 写作 → 审查 → 修订 → 定稿的完整学术写作流水线",
+      "language": "Python",
+      "topics": [
+        "academic-pipeline",
+        "academic-writing",
+        "ai-research",
+        "claude",
+        "claude-code",
+        "literature-review",
+        "peer-review",
+        "prompt-engineering"
+      ],
+      "html_url": "https://github.com/Imbad0202/academic-research-skills",
+      "stargazers_count": 34968,
+      "created_at": "2026-02-26T06:31:01Z",
+      "updated_at": "2026-06-28T10:34:04Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075697+00:00",
+      "override": false
+    },
+    {
+      "full_name": "alchaincyf/nuwa-skill",
+      "description": "蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA，将思维模式转化为可复用的技能",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/alchaincyf/nuwa-skill",
+      "stargazers_count": 26084,
+      "created_at": "2026-04-05T04:33:04Z",
+      "updated_at": "2026-06-28T10:59:32Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075841+00:00",
+      "override": false
+    },
+    {
+      "full_name": "rohitg00/agentmemory",
+      "description": "基于真实世界基准测试的 AI 编码 Agent 持久化记忆方案，为 Claude Code 等工具提供长效记忆能力",
+      "language": "TypeScript",
+      "topics": [
+        "agentmemory",
+        "agents",
+        "ai",
+        "claude",
+        "claudecode",
+        "codex",
+        "copilot",
+        "cursor",
+        "genai",
+        "harness",
+        "hermes",
+        "memory",
+        "openclaw"
+      ],
+      "html_url": "https://github.com/rohitg00/agentmemory",
+      "stargazers_count": 24178,
+      "created_at": "2026-02-25T07:32:52Z",
+      "updated_at": "2026-06-28T10:08:00Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075714+00:00",
+      "override": false
+    },
+    {
+      "full_name": "JimLiu/baoyu-skills",
+      "description": "AI Agent 技能集合，兼容 Claude Skills、Codex Skills、OpenClaw Skills 等多种技能格式",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "claude-skills",
+        "codex-skills",
+        "openclaw-skills"
+      ],
+      "html_url": "https://github.com/JimLiu/baoyu-skills",
+      "stargazers_count": 22681,
+      "created_at": "2026-01-13T03:04:56Z",
+      "updated_at": "2026-06-28T10:52:21Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075870+00:00",
+      "override": false
+    },
+    {
+      "full_name": "coleam00/Archon",
+      "description": "首个开源的 AI 编码 Harness 构建器，使 AI 编码过程变得确定性和可重复，支持 CLI 与自动化工作流",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "automation",
+        "bun",
+        "claude",
+        "cli",
+        "coding-assistant",
+        "developer-tools",
+        "typescript",
+        "workflow-engine",
+        "yaml"
+      ],
+      "html_url": "https://github.com/coleam00/Archon",
+      "stargazers_count": 22610,
+      "created_at": "2025-02-07T21:04:12Z",
+      "updated_at": "2026-06-28T08:46:04Z",
+      "categories": [
+        "skills",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075824+00:00",
+      "override": false
+    },
+    {
+      "full_name": "BigPizzaV3/CodexPlusPlus",
+      "description": "CodexApp 增强工具，致力于让 Codex AI 编码助手更好用、更舒适",
+      "language": "Rust",
+      "topics": [],
+      "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+      "stargazers_count": 22155,
+      "created_at": "2026-05-06T09:32:49Z",
+      "updated_at": "2026-06-28T11:04:57Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075728+00:00",
+      "override": false
+    },
+    {
+      "full_name": "phuryn/pm-skills",
+      "description": "PM 技能市场：提供 100+ 个 Agentic 技能、命令与插件，覆盖从需求发现到策略执行的完整产品管理流程。",
+      "language": "",
+      "topics": [
+        "agent-skill-repository",
+        "agent-skills",
+        "agentic-skills",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-cowork-plugin",
+        "product-management"
+      ],
+      "html_url": "https://github.com/phuryn/pm-skills",
+      "stargazers_count": 21423,
+      "created_at": "2026-03-01T23:33:44Z",
+      "updated_at": "2026-06-28T10:42:56Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074660+00:00",
+      "override": false
+    },
+    {
+      "full_name": "alirezarezvani/claude-skills",
+      "description": "收录 337 个 Claude Code 技能与 Agent 插件（含 30+ Agent、70+ 自定义命令、330+ 技能），覆盖编程辅助与自定义命令生态",
+      "language": "Python",
+      "topics": [
+        "agent-plugins",
+        "agent-skills",
+        "agentic-ai",
+        "ai-coding-agent",
+        "anthropic-claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugins",
+        "claude-code-skills",
+        "claude-skills",
+        "codex-skills",
+        "coding-agent-plugins",
+        "cursor-skills",
+        "developer-tools",
+        "gemini-cli-skills",
+        "openai-codex",
+        "openclaw",
+        "openclaw-plugins",
+        "openclaw-skills",
+        "prompt-engineering"
+      ],
+      "html_url": "https://github.com/alirezarezvani/claude-skills",
+      "stargazers_count": 19250,
+      "created_at": "2025-10-19T04:04:05Z",
+      "updated_at": "2026-06-28T10:22:31Z",
+      "categories": [
+        "skills",
+        "ai-agent-skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074592+00:00",
+      "override": false
+    },
+    {
+      "full_name": "wbh604/UZI-Skill",
+      "description": "量化投资技能工具，集成 66 位投资大佬看盘视角、22 维数据、180 条量化规则与 17 种机构分析方法，覆盖 A 股/港股/美股，自称「股海贼王」",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/wbh604/UZI-Skill",
+      "stargazers_count": 4660,
+      "created_at": "2026-04-16T07:36:06Z",
+      "updated_at": "2026-06-28T11:00:07Z",
+      "categories": [
+        "skills",
+        "domain-toolkits"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074550+00:00",
+      "override": false
+    },
+    {
+      "full_name": "xixu-me/awesome-persona-distill-skills",
+      "description": "精选的 Agent Skills 列表，聚焦人物角色、人际关系、纪念场景及方法论相关的 AI 技能提炼",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "awesome",
+        "awesome-list",
+        "persona-distill"
+      ],
+      "html_url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+      "stargazers_count": 4490,
+      "created_at": "2026-04-06T20:02:21Z",
+      "updated_at": "2026-06-28T10:24:49Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075838+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Fokkyp/SoftwareCopyright-Skill",
+      "description": "中国软件著作权申请材料生成器 Skills，通过阅读本地项目自动生成全套 .docx 软著申请材料，全开源且免费",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+      "stargazers_count": 4055,
+      "created_at": "2026-04-29T10:07:08Z",
+      "updated_at": "2026-06-28T07:10:34Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075722+00:00",
+      "override": false
+    },
+    {
+      "full_name": "Chachamaru127/claude-code-harness",
+      "description": "Claude Code 专用开发 Harness，通过自主循环迭代实现高质量代码开发。",
+      "language": "Shell",
+      "topics": [],
+      "html_url": "https://github.com/Chachamaru127/claude-code-harness",
+      "stargazers_count": 2885,
+      "created_at": "2025-12-12T03:57:21Z",
+      "updated_at": "2026-06-28T09:03:37Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075687+00:00",
+      "override": false
+    },
+    {
+      "full_name": "oaker-io/wewrite",
+      "description": "公众号文章全流程 AI Skill for Claude Code，覆盖热点抓取→选题→写作→SEO→视觉AI→排版→微信草稿箱",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/oaker-io/wewrite",
+      "stargazers_count": 2567,
+      "created_at": "2026-03-26T14:18:54Z",
+      "updated_at": "2026-06-28T09:52:42Z",
+      "categories": [
+        "skills",
+        "ai-content-creation"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075867+00:00",
+      "override": false
+    },
+    {
+      "full_name": "yaojingang/yao-open-prompts",
+      "description": "Yao Open Prompts：面向工作、学习、内容创作与营销等场景的中文 AI 提示词库",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ],
+      "html_url": "https://github.com/yaojingang/yao-open-prompts",
+      "stargazers_count": 2510,
+      "created_at": "2026-05-06T13:04:20Z",
+      "updated_at": "2026-06-28T10:18:41Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075735+00:00",
+      "override": false
+    },
+    {
+      "full_name": "rpamis/comet",
+      "description": "从构想到归档的全流程阶段守护自动化 Agent Skill 编排框架，以规范驱动开发（SDD）为核心方法论",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "harness-engineering",
+        "sdd",
+        "skills",
+        "spec",
+        "spec-driven-development"
+      ],
+      "html_url": "https://github.com/rpamis/comet",
+      "stargazers_count": 1725,
+      "created_at": "2026-05-14T09:22:35Z",
+      "updated_at": "2026-06-28T10:47:11Z",
+      "categories": [
+        "skills",
+        "spec-driven-dev"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074605+00:00",
       "override": false
     },
     {
       "full_name": "yaojingang/yao-open-skills",
-      "description": "OpenYao 公共技能集：用于决策制定、商业分析、教程编写等场景的可复用 AI 资产",
+      "description": "OpenYao 公共技能集合：用于决策分析、商业分析与教程等场景的可复用 AI 资产",
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/yaojingang/yao-open-skills",
@@ -3053,12 +2584,67 @@
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598260+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075738+00:00",
+      "override": false
+    },
+    {
+      "full_name": "JuneYaooo/lineage-skill",
+      "description": "将视频、PDF、转录稿和笔记提炼为有来源追溯的 Agent Skill，服务于知识管理与教育 AI 场景",
+      "language": "Python",
+      "topics": [
+        "course-distillation",
+        "education-ai",
+        "knowledge-distillation",
+        "knowledge-distillation-task",
+        "knowledge-management",
+        "okf",
+        "okf-format",
+        "skills"
+      ],
+      "html_url": "https://github.com/JuneYaooo/lineage-skill",
+      "stargazers_count": 243,
+      "created_at": "2026-06-01T15:19:46Z",
+      "updated_at": "2026-06-28T09:23:48Z",
+      "categories": [
+        "skills",
+        "ai-agent-skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.074576+00:00",
+      "override": false
+    },
+    {
+      "full_name": "1786329860/deep-teach",
+      "description": "深度教学模式 AI Skill，让 AI 在每一步编程操作后自动输出专家级技术解析卡片，从「代做」变为「教做」",
+      "language": "",
+      "topics": [],
+      "html_url": "https://github.com/1786329860/deep-teach",
+      "stargazers_count": 143,
+      "created_at": "2026-05-12T13:21:35Z",
+      "updated_at": "2026-06-25T03:26:39Z",
+      "categories": [
+        "skills"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075718+00:00",
+      "override": false
+    },
+    {
+      "full_name": "liuzhengdongfortest/CodeStable",
+      "description": "CodeStable：面向严肃工程的轻量 AI 编码工作流，强调简洁实用，避免过度设计",
+      "language": "Python",
+      "topics": [],
+      "html_url": "https://github.com/liuzhengdongfortest/CodeStable",
+      "stargazers_count": 972,
+      "created_at": "2026-04-12T22:21:55Z",
+      "updated_at": "2026-06-28T04:56:27Z",
+      "categories": [
+        "spec-driven-dev"
+      ],
+      "analyzed_at": "2026-06-28T11:18:49.075763+00:00",
       "override": false
     },
     {
       "full_name": "zhu1090093659/spec_driven_develop",
-      "description": "面向 AI 编码智能体的规格驱动开发工作流：架构优先规划、任务分解",
+      "description": "面向 AI 编码 Agent 的 Spec 驱动开发工作流：架构优先规划、任务分解与结构化执行",
       "language": "Shell",
       "topics": [
         "ai-agent",
@@ -3087,162 +2673,9 @@
       "created_at": "2026-03-21T09:37:20Z",
       "updated_at": "2026-06-28T10:47:54Z",
       "categories": [
-        "skills",
-        "ai-agent",
-        "dev-methodology"
+        "spec-driven-dev"
       ],
-      "analyzed_at": "2026-06-28T11:05:53.598270+00:00",
-      "override": false
-    },
-    {
-      "full_name": "Fission-AI/OpenSpec",
-      "description": "面向 AI 编程助手的规范驱动开发（SDD）框架，涵盖上下文工程、工程规划与 PRD 管理。",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "context-engineering",
-        "engineering",
-        "planning",
-        "prd",
-        "sdd",
-        "sdlc",
-        "spec",
-        "spec-driven-development",
-        "specification"
-      ],
-      "html_url": "https://github.com/Fission-AI/OpenSpec",
-      "stargazers_count": 57333,
-      "created_at": "2025-08-05T10:37:45Z",
-      "updated_at": "2026-06-28T10:53:37Z",
-      "categories": [
-        "spec-driven-dev",
-        "dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598304+00:00",
-      "override": false
-    },
-    {
-      "full_name": "iptv-org/iptv",
-      "description": "收集来自世界各地的公开可用 IPTV 频道，包含 M3U 播放列表和流媒体源",
-      "language": "TypeScript",
-      "topics": [
-        "iptv",
-        "m3u",
-        "playlist",
-        "streams",
-        "tv"
-      ],
-      "html_url": "https://github.com/iptv-org/iptv",
-      "stargazers_count": 128953,
-      "created_at": "2018-11-14T22:00:57Z",
-      "updated_at": "2026-06-28T10:52:58Z",
-      "categories": [
-        "streaming",
-        "data-collections"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598517+00:00",
-      "override": false
-    },
-    {
-      "full_name": "YanG-1989/m3u",
-      "description": "直播源集合",
-      "language": "Shell",
-      "topics": [],
-      "html_url": "https://github.com/YanG-1989/m3u",
-      "stargazers_count": 11270,
-      "created_at": "2022-10-03T22:33:40Z",
-      "updated_at": "2026-06-28T06:18:43Z",
-      "categories": [
-        "streaming"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598520+00:00",
-      "override": false
-    },
-    {
-      "full_name": "ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布，涵盖科技资讯、开源项目推荐、工具分享等内容。",
-      "language": "",
-      "topics": [],
-      "html_url": "https://github.com/ruanyf/weekly",
-      "stargazers_count": 94660,
-      "created_at": "2018-10-13T12:36:07Z",
-      "updated_at": "2026-06-28T10:32:47Z",
-      "categories": [
-        "tech-newsletter"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598504+00:00",
-      "override": false
-    },
-    {
-      "full_name": "manaflow-ai/cmux",
-      "description": "基于 Ghostty 的开源 macOS 终端，支持垂直标签页与通知功能，专为 AI 编程 Agent 设计。",
-      "language": "Swift",
-      "topics": [
-        "amp",
-        "claude-code",
-        "codex",
-        "gemini",
-        "ghostty",
-        "opencode",
-        "terminal",
-        "tmux"
-      ],
-      "html_url": "https://github.com/manaflow-ai/cmux",
-      "stargazers_count": 23059,
-      "created_at": "2026-01-28T10:03:24Z",
-      "updated_at": "2026-06-28T10:44:28Z",
-      "categories": [
-        "terminal",
-        "dev-tools"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598307+00:00",
-      "override": false
-    },
-    {
-      "full_name": "lanceliao/china-holiday-calender",
-      "description": "2023-2025 年中国节假日、调休、补班日历，支持 ICS 格式，可供 iPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API",
-      "language": "",
-      "topics": [],
-      "html_url": "https://github.com/lanceliao/china-holiday-calender",
-      "stargazers_count": 6534,
-      "created_at": "2021-05-08T07:37:54Z",
-      "updated_at": "2026-06-27T08:43:28Z",
-      "categories": [
-        "tools",
-        "calendar"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598524+00:00",
-      "override": false
-    },
-    {
-      "full_name": "1sdv/TripStar",
-      "description": "旅途星辰（TripStar）—— 创新的 AI 文旅智能体应用，提供一站式旅游攻略生成服务。",
-      "language": "JavaScript",
-      "topics": [],
-      "html_url": "https://github.com/1sdv/TripStar",
-      "stargazers_count": 1940,
-      "created_at": "2026-03-07T12:27:59Z",
-      "updated_at": "2026-06-28T04:59:28Z",
-      "categories": [
-        "travel",
-        "ai-agent"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598316+00:00",
-      "override": false
-    },
-    {
-      "full_name": "EdNovas/dongguaTV",
-      "description": "（项目未提供描述与 Topic，根据名称推测为视频/多媒体相关）",
-      "language": "HTML",
-      "topics": [],
-      "html_url": "https://github.com/EdNovas/dongguaTV",
-      "stargazers_count": 578,
-      "created_at": "2025-12-17T01:37:53Z",
-      "updated_at": "2026-06-26T05:52:06Z",
-      "categories": [
-        "video-multimedia"
-      ],
-      "analyzed_at": "2026-06-28T11:05:53.598463+00:00",
+      "analyzed_at": "2026-06-28T11:18:49.075750+00:00",
       "override": false
     }
   ]
