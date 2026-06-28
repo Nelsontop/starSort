@@ -67,7 +67,7 @@ def fetch_starred_repos() -> list[dict]:
             "html_url": r["html_url"],
             "stargazers_count": r.get("stargazers_count", 0),
             "created_at": r.get("created_at", ""),
-            "updated_at": r.get("updated_at", ""),
+            "updated_at": r.get("pushed_at", r.get("updated_at", "")),
         })
     return repos
 
@@ -325,6 +325,9 @@ def git_commit_push(file_path: str) -> None:
 # ---------------------------------------------------------------------------
 
 def main():
+    # Always chdir to script directory, so relative paths work from cron
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     parser = argparse.ArgumentParser(description="Sync GitHub stars → classify → stars.json")
     parser.add_argument("--fetch-only", action="store_true", help="Only fetch stars, skip classification")
     parser.add_argument("--full-refresh", action="store_true", help="Re-classify ALL stars (uses cached READMEs)")
