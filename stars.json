@@ -2,60 +2,67 @@
   "last_updated": "2026-06-28T11:46:39.250577+00:00",
   "categories": [
     {
-      "id": "ai-content-creation",
-      "name": "AI 内容创作",
-      "description": "AI 驱动的文字、图片、视频等内容生成与创作工具",
-      "count": 14,
+      "id": "ai-tools",
+      "name": "AI 工具",
+      "description": "AI Agent 平台、编码工具、框架等项目",
+      "count": 45,
       "tint": "olive"
     },
     {
-      "id": "ai-monitoring",
-      "name": "AI 监控与信息资源",
-      "description": "AI 相关的监控、分析与信息资源获取工具",
-      "count": 3,
+      "id": "skills",
+      "name": "Skills",
+      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
+      "count": 38,
       "tint": "sage"
     },
     {
-      "id": "customer-support",
-      "name": "客服与沟通",
-      "description": "客户服务、沟通协作与对话机器人相关工具",
-      "count": 2,
+      "id": "ai-content-creation",
+      "name": "AI 内容创作",
+      "description": "",
+      "count": 14,
       "tint": "salmon"
     },
     {
       "id": "education-resources",
       "name": "教育资源",
-      "description": "学习、教学与教育相关的资源与工具",
+      "description": "",
       "count": 8,
       "tint": "peach"
     },
     {
       "id": "music-entertainment",
       "name": "音乐与娱乐",
-      "description": "音乐生成、音频处理及娱乐类工具",
+      "description": "",
       "count": 7,
       "tint": "lime"
     },
     {
-      "id": "network-tools",
-      "name": "网络工具",
-      "description": "网络请求、爬虫、代理等网络相关工具",
-      "count": 1,
+      "id": "resource-search",
+      "name": "资源搜索",
+      "description": "",
+      "count": 7,
       "tint": "sky"
     },
     {
-      "id": "resource-search",
-      "name": "资源搜索",
-      "description": "各类资源的搜索、发现与聚合工具",
-      "count": 7,
+      "id": "ai-monitoring",
+      "name": "AI 监控与信息资源",
+      "description": "",
+      "count": 3,
       "tint": "steel"
     },
     {
-      "id": "skills",
-      "name": "综合技能与工具",
-      "description": "涵盖 AI 智能体、开发者工具、金融工具等各类实用技能与工具合集",
-      "count": 83,
+      "id": "customer-support",
+      "name": "客服与沟通",
+      "description": "",
+      "count": 2,
       "tint": "periwinkle"
+    },
+    {
+      "id": "network-tools",
+      "name": "网络工具",
+      "description": "",
+      "count": 1,
+      "tint": "olive"
     }
   ],
   "stars": [
@@ -185,7 +192,7 @@
       "created_at": "2026-03-21T18:32:02Z",
       "updated_at": "2026-06-24T04:02:02Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250144+00:00",
       "override": false
@@ -208,7 +215,7 @@
       "created_at": "2026-05-14T09:22:35Z",
       "updated_at": "2026-06-28T09:41:50Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250147+00:00",
       "override": false
@@ -244,7 +251,7 @@
       "created_at": "2023-08-16T16:16:33Z",
       "updated_at": "2026-06-27T14:39:34Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250151+00:00",
       "override": false
@@ -368,7 +375,7 @@
       "created_at": "2026-04-09T03:23:02Z",
       "updated_at": "2026-06-24T10:42:26Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250167+00:00",
       "override": false
@@ -426,7 +433,7 @@
       "created_at": "2026-02-24T02:10:24Z",
       "updated_at": "2026-06-23T13:04:55Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250177+00:00",
       "override": false
@@ -463,7 +470,7 @@
       "created_at": "2023-06-19T04:08:31Z",
       "updated_at": "2026-06-28T07:16:11Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250186+00:00",
       "override": false
@@ -491,7 +498,7 @@
       "created_at": "2026-05-06T17:43:05Z",
       "updated_at": "2026-06-27T22:11:35Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250189+00:00",
       "override": false
@@ -514,7 +521,7 @@
       "created_at": "2026-05-18T02:16:36Z",
       "updated_at": "2026-06-28T02:41:45Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250192+00:00",
       "override": false
@@ -531,7 +538,7 @@
       "updated_at": "2026-06-28T04:56:36Z",
       "categories": [
         "customer-support",
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250196+00:00",
       "override": false
@@ -547,7 +554,7 @@
       "created_at": "2025-12-12T03:57:21Z",
       "updated_at": "2026-06-28T09:12:26Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250200+00:00",
       "override": false
@@ -581,7 +588,7 @@
       "created_at": "2026-03-15T02:30:51Z",
       "updated_at": "2026-06-23T20:29:48Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250203+00:00",
       "override": false
@@ -597,7 +604,7 @@
       "created_at": "2026-03-08T13:52:57Z",
       "updated_at": "2026-06-25T15:17:48Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250207+00:00",
       "override": false
@@ -638,7 +645,7 @@
       "created_at": "2026-02-18T20:01:27Z",
       "updated_at": "2026-06-26T20:02:56Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250214+00:00",
       "override": false
@@ -654,7 +661,7 @@
       "created_at": "2026-01-18T21:45:37Z",
       "updated_at": "2026-06-28T06:34:10Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250220+00:00",
       "override": false
@@ -684,7 +691,7 @@
       "created_at": "2026-02-25T07:32:52Z",
       "updated_at": "2026-06-27T20:49:05Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250223+00:00",
       "override": false
@@ -760,7 +767,7 @@
       "created_at": "2026-05-06T09:32:49Z",
       "updated_at": "2026-06-28T09:25:27Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250237+00:00",
       "override": false
@@ -917,7 +924,7 @@
       "created_at": "2025-04-13T14:54:25Z",
       "updated_at": "2026-06-27T23:42:28Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250263+00:00",
       "override": false
@@ -939,7 +946,7 @@
       "created_at": "2026-01-26T11:49:10Z",
       "updated_at": "2026-06-25T04:17:30Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250267+00:00",
       "override": false
@@ -955,7 +962,7 @@
       "created_at": "2026-04-12T22:21:55Z",
       "updated_at": "2026-06-26T23:27:04Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250270+00:00",
       "override": false
@@ -971,7 +978,7 @@
       "created_at": "2026-01-13T17:59:46Z",
       "updated_at": "2026-06-28T05:13:38Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250274+00:00",
       "override": false
@@ -1040,7 +1047,7 @@
       "created_at": "2025-08-05T10:37:45Z",
       "updated_at": "2026-06-26T13:57:16Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250284+00:00",
       "override": false
@@ -1065,7 +1072,7 @@
       "created_at": "2026-01-28T10:03:24Z",
       "updated_at": "2026-06-28T10:52:12Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250287+00:00",
       "override": false
@@ -1093,7 +1100,7 @@
       "updated_at": "2026-06-28T11:39:58Z",
       "categories": [
         "ai-content-creation",
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250293+00:00",
       "override": false
@@ -1109,7 +1116,7 @@
       "created_at": "2026-03-07T12:27:59Z",
       "updated_at": "2026-05-26T04:39:28Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250297+00:00",
       "override": false
@@ -1142,7 +1149,7 @@
       "created_at": "2025-07-22T22:22:28Z",
       "updated_at": "2026-06-28T11:36:15Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250300+00:00",
       "override": false
@@ -1232,7 +1239,7 @@
       "created_at": "2025-10-13T12:27:02Z",
       "updated_at": "2026-06-28T04:48:37Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250310+00:00",
       "override": false
@@ -1269,7 +1276,7 @@
       "created_at": "2025-08-31T20:50:03Z",
       "updated_at": "2026-06-28T04:33:54Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250314+00:00",
       "override": false
@@ -1328,7 +1335,7 @@
       "created_at": "2026-01-09T03:36:29Z",
       "updated_at": "2026-06-28T03:00:11Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250323+00:00",
       "override": false
@@ -1371,7 +1378,7 @@
       "created_at": "2025-02-07T21:04:12Z",
       "updated_at": "2026-06-27T10:43:03Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250332+00:00",
       "override": false
@@ -1387,7 +1394,7 @@
       "created_at": "2026-03-22T13:00:59Z",
       "updated_at": "2026-04-28T02:08:33Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250336+00:00",
       "override": false
@@ -1410,7 +1417,7 @@
       "created_at": "2026-04-10T15:07:10Z",
       "updated_at": "2026-06-03T02:43:36Z",
       "categories": [
-        "skills",
+        "ai-tools",
         "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250338+00:00",
@@ -1491,7 +1498,7 @@
       "created_at": "2026-04-02T20:44:58Z",
       "updated_at": "2026-04-03T21:11:51Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250355+00:00",
       "override": false
@@ -1578,7 +1585,7 @@
       "created_at": "2025-05-07T02:50:19Z",
       "updated_at": "2026-06-28T08:10:44Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250369+00:00",
       "override": false
@@ -1629,7 +1636,7 @@
       "updated_at": "2026-06-20T21:32:31Z",
       "categories": [
         "ai-monitoring",
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250376+00:00",
       "override": false
@@ -1691,7 +1698,7 @@
       "created_at": "2026-03-14T22:10:23Z",
       "updated_at": "2026-06-28T08:02:44Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250386+00:00",
       "override": false
@@ -1798,7 +1805,7 @@
       "created_at": "2025-07-01T19:43:27Z",
       "updated_at": "2026-06-28T09:54:56Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250400+00:00",
       "override": false
@@ -1866,7 +1873,7 @@
       "created_at": "2023-06-20T08:58:36Z",
       "updated_at": "2026-06-27T17:10:07Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250409+00:00",
       "override": false
@@ -1910,7 +1917,7 @@
       "created_at": "2025-10-13T12:12:29Z",
       "updated_at": "2026-06-22T21:30:40Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250415+00:00",
       "override": false
@@ -1951,7 +1958,7 @@
       "created_at": "2026-02-06T12:38:55Z",
       "updated_at": "2026-06-28T09:02:13Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250423+00:00",
       "override": false
@@ -1988,7 +1995,7 @@
       "created_at": "2025-08-04T14:16:16Z",
       "updated_at": "2026-06-28T09:49:52Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250426+00:00",
       "override": false
@@ -2055,7 +2062,7 @@
       "created_at": "2025-12-03T01:40:05Z",
       "updated_at": "2026-06-28T09:35:39Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250433+00:00",
       "override": false
@@ -2112,7 +2119,7 @@
       "created_at": "2025-04-30T20:08:00Z",
       "updated_at": "2026-06-28T10:55:04Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250445+00:00",
       "override": false
@@ -2147,7 +2154,7 @@
       "created_at": "2025-01-05T22:47:49Z",
       "updated_at": "2026-06-28T02:12:36Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250448+00:00",
       "override": false
@@ -2186,7 +2193,7 @@
       "updated_at": "2026-06-28T03:41:29Z",
       "categories": [
         "ai-content-creation",
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250455+00:00",
       "override": false
@@ -2313,7 +2320,7 @@
       "created_at": "2022-06-13T08:06:19Z",
       "updated_at": "2026-06-18T09:14:38Z",
       "categories": [
-        "skills"
+        "ai-tools"
       ],
       "analyzed_at": "2026-06-28T11:46:39.250470+00:00",
       "override": false
