@@ -238,16 +238,34 @@ def build_stars_json(
     fetched: list[dict],
     classifications: dict[str, dict],
     overrides: dict,
+    existing_cat_map: dict[str, dict] | None = None,
 ) -> dict:
-    # Build category registry from classifications
+    """Build the final stars.json structure.
+
+    existing_cat_map: {cid: {id, name, description}} — used to look up
+    correct category names for each individual category_id, preventing
+    name-swap bugs in incremental mode where one star's first category_id
+    leaks its name to other category_ids.
+    """
+    if existing_cat_map is None:
+        existing_cat_map = {}
+
+    # Build category registry — look up each cid's name independently
     category_registry: dict[str, dict] = {}
     for full_name, cls in classifications.items():
         for cid in cls["category_ids"]:
             if cid not in category_registry:
+                # Look up the correct name for THIS specific category_id
+                if cid in existing_cat_map:
+                    name = existing_cat_map[cid]["name"]
+                    desc = existing_cat_map[cid]["description"]
+                else:
+                    name = cls.get("category_name", cid)
+                    desc = cls.get("category_description", "")
                 category_registry[cid] = {
                     "id": cid,
-                    "name": cls.get("category_name", cid),
-                    "description": cls.get("category_description", ""),
+                    "name": name,
+                    "description": desc,
                 }
 
     star_entries = []
@@ -413,7 +431,7 @@ def main():
                 cls["category_description"] = existing_cat_map[first_id]["description"]
 
     # Step 7: Build and write stars.json
-    stars_json = build_stars_json(fetched, classifications, overrides)
+    stars_json = build_stars_json(fetched, classifications, overrides, existing_cat_map)
 
     with open("stars.json", "w") as f:
         json.dump(stars_json, f, indent=2, ensure_ascii=False)
