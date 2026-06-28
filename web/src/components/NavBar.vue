@@ -4,9 +4,11 @@ defineProps({
   selectedLanguage: String,
   languages: Array,
   totalCount: Number,
+  sortBy: String,
+  sortOptions: Array,
 })
 
-defineEmits(['update:search-query', 'update:selected-language', 'clear'])
+defineEmits(['update:search-query', 'update:selected-language', 'update:sort-by', 'clear'])
 </script>
 
 <template>
@@ -24,6 +26,15 @@ defineEmits(['update:search-query', 'update:selected-language', 'clear'])
         :value="searchQuery"
         @input="$emit('update:search-query', $event.target.value)"
       />
+      <select
+        class="sort-select"
+        :value="sortBy"
+        @change="$emit('update:sort-by', $event.target.value)"
+      >
+        <option v-for="opt in sortOptions" :key="opt.value" :value="opt.value">
+          {{ opt.label }}
+        </option>
+      </select>
       <select
         class="lang-select"
         :value="selectedLanguage || ''"
@@ -86,13 +97,9 @@ defineEmits(['update:search-query', 'update:selected-language', 'clear'])
   align-items: center;
 }
 
-.search-input {
-  width: 200px;
-}
-
-.lang-select {
-  min-width: 140px;
-}
+.search-input { width: 200px; }
+.lang-select { min-width: 140px; }
+.sort-select { min-width: 100px; }
 
 .btn-outline {
   background: transparent;
@@ -106,20 +113,11 @@ defineEmits(['update:search-query', 'update:selected-language', 'clear'])
   cursor: pointer;
 }
 
-.btn-outline:hover {
-  background: var(--color-canvas-soft);
-}
+.btn-outline:hover { background: var(--color-canvas-soft); }
 
 @media (max-width: 768px) {
-  .nav-bar {
-    flex-direction: column;
-    gap: var(--sp-md);
-  }
-  .nav-controls {
-    flex-wrap: wrap;
-  }
-  .search-input {
-    width: 100%;
-  }
+  .nav-bar { flex-direction: column; gap: var(--sp-md); }
+  .nav-controls { flex-wrap: wrap; }
+  .search-input { width: 100%; }
 }
 </style>

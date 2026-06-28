@@ -66,6 +66,7 @@ def fetch_starred_repos() -> list[dict]:
             "topics": r.get("topics") or [],
             "html_url": r["html_url"],
             "stargazers_count": r.get("stargazers_count", 0),
+            "forks_count": r.get("forks_count", 0),
             "created_at": r.get("created_at", ""),
             "updated_at": r.get("pushed_at", r.get("updated_at", "")),
         })
@@ -297,14 +298,6 @@ def build_stars_json(
         cdata = category_registry[cid]
         count = sum(1 for s in star_entries if cid in s["categories"])
         categories_out.append({**cdata, "count": count, "tint": tints[cid]})
-
-    # Sort by category, then by updated_at descending (newest first)
-    star_entries.sort(key=lambda s: (
-        s["categories"][0] if s["categories"] else "zzz",
-    ))
-    # Python sort is stable: within each category group, sort by updated_at desc
-    star_entries.sort(key=lambda s: s.get("updated_at", ""), reverse=True)
-    star_entries.sort(key=lambda s: s["categories"][0] if s["categories"] else "zzz")
 
     return {
         "last_updated": datetime.now(timezone.utc).isoformat(),

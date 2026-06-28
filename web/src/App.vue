@@ -9,6 +9,13 @@ const data = ref({ categories: [], stars: [], last_updated: '' })
 const searchQuery = ref('')
 const selectedCategory = ref(null)
 const selectedLanguage = ref(null)
+const sortBy = ref('updated_at')
+
+const sortOptions = [
+  { value: 'updated_at', label: 'Updated' },
+  { value: 'stargazers_count', label: 'Stars' },
+  { value: 'forks_count', label: 'Forks' },
+]
 
 onMounted(async () => {
   const res = await fetch('/stars.json')
@@ -35,6 +42,8 @@ const filteredStars = computed(() => {
   if (selectedLanguage.value) {
     stars = stars.filter(s => s.language === selectedLanguage.value)
   }
+  // Sort by selected dimension, descending
+  stars = [...stars].sort((a, b) => (b[sortBy.value] || 0) - (a[sortBy.value] || 0))
   return stars
 })
 
@@ -63,8 +72,11 @@ function clearFilters() {
       :selected-language="selectedLanguage"
       :languages="languages"
       :total-count="filteredStars.length"
+      :sort-by="sortBy"
+      :sort-options="sortOptions"
       @update:search-query="searchQuery = $event"
       @update:selected-language="selectedLanguage = $event"
+      @update:sort-by="sortBy = $event"
       @clear="clearFilters"
     />
     <div class="app-body">
@@ -73,7 +85,7 @@ function clearFilters() {
         :selected="selectedCategory"
         @select="selectCategory"
       />
-      <ContentArea :categories="filteredCategories" :stars="filteredStars" />
+      <ContentArea :categories="filteredCategories" />
     </div>
     <FooterBand :last-updated="data.last_updated" />
   </div>

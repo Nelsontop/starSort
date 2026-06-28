@@ -14,6 +14,7 @@ defineProps({
     <div class="card-meta">
       <span class="meta-item meta-lang" v-if="star.language">{{ star.language }}</span>
       <span class="meta-item meta-stars">⭐ {{ star.stargazers_count.toLocaleString() }}</span>
+      <span class="meta-item meta-forks">🍴 {{ (star.forks_count || 0).toLocaleString() }}</span>
       <span class="meta-item meta-topic" v-for="topic in star.topics.slice(0, 4)" :key="topic">
         {{ topic }}
       </span>
@@ -104,6 +105,11 @@ defineProps({
 .meta-stars {
   color: var(--color-accent-sunset-soft);
   border-color: var(--color-accent-sunset-soft);
+}
+
+.meta-forks {
+  color: var(--color-accent-twilight);
+  border-color: var(--color-accent-twilight);
 }
 
 .meta-topic {
