@@ -1,0 +1,16 @@
+# overrides.yml — Manual category overrides for starred repos
+#
+# Format:
+#   overrides:
+#     "owner/repo":
+#       categories: ["自定义分类名"]   # Override auto-classification
+#       exclude: true                   # Remove from display entirely
+#
+# Example:
+#   overrides:
+#     "charmbracelet/gum":
+#       categories: ["CLI 工具"]
+#     "some-org/some-project":
+#       exclude: true
+
+overrides: {}

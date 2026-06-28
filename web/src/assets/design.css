@@ -1,0 +1,105 @@
+/* x.ai design system — derived from DESIGN.md */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+:root {
+  /* Colors */
+  --color-primary: #ffffff;
+  --color-on-primary: #0a0a0a;
+  --color-ink: #ffffff;
+  --color-body: #dadbdf;
+  --color-body-mid: #7d8187;
+  --color-mute: #7d8187;
+  --color-hairline: #212327;
+  --color-canvas: #0a0a0a;
+  --color-canvas-soft: #1a1c20;
+  --color-canvas-card: #191919;
+  --color-canvas-mid: #363a3f;
+  --color-accent-sunset: #ff7a17;
+  --color-accent-sunset-soft: #ffc285;
+  --color-accent-dusk: #7c3aed;
+  --color-accent-twilight: #c4b5fd;
+  --color-accent-breeze: #a0c3ec;
+  --color-accent-midnight: #0d1726;
+
+  /* Typography — universalSans fallback to Inter */
+  --font-display: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'GeistMono', 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  /* Spacing */
+  --sp-xxs: 2px;
+  --sp-xs: 4px;
+  --sp-sm: 8px;
+  --sp-md: 12px;
+  --sp-lg: 16px;
+  --sp-xl: 24px;
+  --sp-2xl: 32px;
+  --sp-3xl: 48px;
+  --sp-4xl: 64px;
+
+  /* Border radius */
+  --radius-none: 0px;
+  --radius-sm: 8px;
+  --radius-pill: 9999px;
+}
+
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: var(--color-ink);
+  background-color: var(--color-canvas);
+}
+
+a {
+  color: var(--color-ink);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-body);
+}
+
+/* Common component tokens */
+
+input, select {
+  background-color: var(--color-canvas-soft);
+  color: var(--color-ink);
+  border: 1px solid var(--color-hairline);
+  font-family: var(--font-body);
+  font-size: 16px;
+  padding: var(--sp-md) var(--sp-lg);
+  border-radius: var(--radius-sm);
+  outline: none;
+}
+
+input:focus, select:focus {
+  border-color: var(--color-ink);
+}
+
+/* Shared component styles (used globally across scoped components) */
+
+.eyebrow-mono {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+}
+
+.card-content {
+  background-color: var(--color-canvas-card);
+  color: var(--color-ink);
+  border: 1px solid var(--color-hairline);
+  border-radius: var(--radius-sm);
+  padding: var(--sp-xl);
+}
