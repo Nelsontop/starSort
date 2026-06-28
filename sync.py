@@ -298,10 +298,13 @@ def build_stars_json(
         count = sum(1 for s in star_entries if cid in s["categories"])
         categories_out.append({**cdata, "count": count, "tint": tints[cid]})
 
+    # Sort by category, then by updated_at descending (newest first)
     star_entries.sort(key=lambda s: (
         s["categories"][0] if s["categories"] else "zzz",
-        -s.get("stargazers_count", 0),
     ))
+    # Python sort is stable: within each category group, sort by updated_at desc
+    star_entries.sort(key=lambda s: s.get("updated_at", ""), reverse=True)
+    star_entries.sort(key=lambda s: s["categories"][0] if s["categories"] else "zzz")
 
     return {
         "last_updated": datetime.now(timezone.utc).isoformat(),
