@@ -18,6 +18,9 @@ defineProps({
         {{ topic }}
       </span>
     </div>
+    <div class="card-footer" v-if="star.updated_at">
+      <span class="meta-updated">Updated {{ new Date(star.updated_at).toLocaleDateString() }}</span>
+    </div>
   </a>
 </template>
 
@@ -106,5 +109,16 @@ defineProps({
 .meta-topic {
   color: var(--color-body-mid);
   border-color: var(--color-hairline);
+}
+
+.card-footer {
+  margin-top: var(--sp-xs);
+}
+
+.meta-updated {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 1.1px;
+  color: var(--color-mute);
 }
 </style>

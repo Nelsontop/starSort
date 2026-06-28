@@ -89,9 +89,11 @@ def classify_repos_batch(repos: list[dict], readme_excerpts: dict[str, str]) -> 
 
     prompt = (
         "分类以下 GitHub 项目，并将每个项目的英文描述翻译为简体中文，保留专有名词。"
-        "使用宽泛的中文分类名（20-30 个大类足够），优先归入已有分类，相似项目务必归入同一类。\n\n"
+        "使用宽泛的中文分类名（20-30 个大类足够），优先归入已有分类。"
+        "一个项目可以同时属于多个分类（如既是 Skills 又是 AI Agent），返回数组。"
+        "Skills 类型项目（AI 编程技能、提示词工程、工作流 Skill 等）统一归入「Skills」分类。\n\n"
         + "\n".join(repo_entries)
-        + '\n\n返回格式: {"classifications":[{"full_name":"...","category_id":"slug","category_name":"中文","category_description":"...","description_cn":"中文项目描述"}]}'
+        + '\n\n返回格式: {"classifications":[{"full_name":"...","category_ids":["slug1","slug2"],"category_name":"中文主分类","category_description":"简短描述","description_cn":"中文项目描述"}]}'
     )
 
     for attempt in range(3):
@@ -114,8 +116,12 @@ def classify_repos_batch(repos: list[dict], readme_excerpts: dict[str, str]) -> 
 
             classifications = {}
             for item in parsed["classifications"]:
+                # category_ids is an array (multi-category support)
+                cat_ids = item.get("category_ids", [item.get("category_id", "uncategorized")])
+                if isinstance(cat_ids, str):
+                    cat_ids = [cat_ids]
                 classifications[item["full_name"]] = {
-                    "category_id": item["category_id"],
+                    "category_ids": cat_ids,
                     "category_name": item["category_name"],
                     "category_description": item["category_description"],
                     "description_cn": item.get("description_cn", ""),
@@ -181,13 +187,13 @@ def build_stars_json(
     # Build category registry from classifications
     category_registry: dict[str, dict] = {}
     for full_name, cls in classifications.items():
-        cid = cls["category_id"]
-        if cid not in category_registry:
-            category_registry[cid] = {
-                "id": cid,
-                "name": cls["category_name"],
-                "description": cls["category_description"],
-            }
+        for cid in cls["category_ids"]:
+            if cid not in category_registry:
+                category_registry[cid] = {
+                    "id": cid,
+                    "name": cls.get("category_name", cid),
+                    "description": cls.get("category_description", ""),
+                }
 
     # Build star entries
     star_entries = []
@@ -229,7 +235,7 @@ def build_stars_json(
         elif cls:
             star_entries.append({
                 **r,
-                "categories": [cls["category_id"]],
+                "categories": cls["category_ids"],
                 "analyzed_at": datetime.now(timezone.utc).isoformat(),
                 "override": False,
             })
@@ -316,7 +322,14 @@ def main():
         print(f"  Full refresh: classifying all {len(repos_to_classify)} repos")
     else:
         repos_to_classify = compute_new_stars(fetched, existing)
-        print(f"  Incremental: {len(repos_to_classify)} new repos to classify")
+        # Detect and log unstarred (removed) repos
+    if not args.full_refresh and existing.get("stars"):
+        fetched_names = {r["full_name"] for r in fetched}
+        removed = [s["full_name"] for s in existing["stars"] if s["full_name"] not in fetched_names]
+        if removed:
+            print(f"  Removed (unstarred): {len(removed)} repos — will be dropped from stars.json")
+
+    print(f"  Incremental: {len(repos_to_classify)} new repos to classify")
 
     # Fetch README excerpts for repos to classify
     readme_excerpts = {}
@@ -350,7 +363,7 @@ def main():
         for s in existing.get("stars", []):
             if s["full_name"] not in classifications:
                 classifications[s["full_name"]] = {
-                    "category_id": s["categories"][0] if s["categories"] else "uncategorized",
+                    "category_ids": s["categories"] if s["categories"] else ["uncategorized"],
                     "category_name": "",
                     "category_description": "",
                 }
