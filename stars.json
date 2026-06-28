@@ -2,116 +2,74 @@
   "last_updated": "2026-06-28T11:18:49.076158+00:00",
   "categories": [
     {
-      "id": "ai-agent",
-      "name": "AI Agent",
-      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
-      "count": 34,
+      "id": "skills",
+      "name": "Skills 与技能模块",
+      "description": "各类 Skills、领域工具包与规范驱动开发",
+      "count": 44,
       "tint": "olive"
     },
     {
-      "id": "ai-agent-skills",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 14,
+      "id": "ai-agent",
+      "name": "AI Agent 与智能体",
+      "description": "AI Agent 框架、多智能体系统与智能助手",
+      "count": 35,
       "tint": "sage"
-    },
-    {
-      "id": "ai-content-creation",
-      "name": "AI 内容创作与发布",
-      "description": "AI 驱动的文本内容生成、编辑与自动化发布",
-      "count": 13,
-      "tint": "salmon"
-    },
-    {
-      "id": "ai-monitoring",
-      "name": "AI 数据监控与信息平台",
-      "description": "AI 驱动的数据监控、信息采集与分析",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "browser-automation",
-      "name": "浏览器与自动化工具",
-      "description": "浏览器扩展、自动化脚本与验证码处理工具",
-      "count": 3,
-      "tint": "lime"
-    },
-    {
-      "id": "customer-support",
-      "name": "客服与通讯工具",
-      "description": "在线客服、自动回复与多渠道通讯平台",
-      "count": 2,
-      "tint": "sky"
     },
     {
       "id": "developer-tools",
       "name": "开发者工具",
-      "description": "面向开发者的终端、编辑器与效率工具",
-      "count": 14,
-      "tint": "steel"
+      "description": "开发者工具、浏览器自动化与效率工具",
+      "count": 17,
+      "tint": "salmon"
     },
     {
-      "id": "domain-toolkits",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 1,
-      "tint": "periwinkle"
+      "id": "ai-content-creation",
+      "name": "AI 内容创作",
+      "description": "AI 生成内容、创作与分发工具",
+      "count": 13,
+      "tint": "peach"
     },
     {
       "id": "education-resources",
-      "name": "教育学习资源",
-      "description": "教育资料、课程资源与学习材料集合",
+      "name": "教育学习",
+      "description": "教育与学习资源",
       "count": 9,
+      "tint": "lime"
+    },
+    {
+      "id": "music-entertainment",
+      "name": "音乐与娱乐",
+      "description": "音乐、视频与娱乐工具",
+      "count": 7,
+      "tint": "sky"
+    },
+    {
+      "id": "ai-monitoring",
+      "name": "AI 监控与信息资源",
+      "description": "AI 数据监控、信息平台与资源搜索",
+      "count": 5,
+      "tint": "steel"
+    },
+    {
+      "id": "customer-support",
+      "name": "客服与通讯",
+      "description": "智能客服与通讯工具",
+      "count": 2,
+      "tint": "periwinkle"
+    },
+    {
+      "id": "network-tools",
+      "name": "网络与代理",
+      "description": "网络工具、代理与连接服务",
+      "count": 2,
       "tint": "olive"
     },
     {
       "id": "finance-tools",
       "name": "金融工具",
-      "description": "基金、股票等金融数据实时查看与信息工具",
+      "description": "金融相关工具与服务",
       "count": 1,
       "tint": "sage"
-    },
-    {
-      "id": "multi-agent",
-      "name": "AI Agent",
-      "description": "AI 智能体、Agent 框架、多 Agent 编排与运行环境",
-      "count": 2,
-      "tint": "salmon"
-    },
-    {
-      "id": "music-entertainment",
-      "name": "音乐与娱乐工具",
-      "description": "音乐资源搜索与娱乐相关工具",
-      "count": 7,
-      "tint": "peach"
-    },
-    {
-      "id": "network-tools",
-      "name": "网络与代理工具",
-      "description": "网络代理、VPN 订阅转换与隧道部署工具",
-      "count": 2,
-      "tint": "lime"
-    },
-    {
-      "id": "resource-search",
-      "name": "资源搜索工具",
-      "description": "网盘、文件与在线资源搜索、聚合与下载工具",
-      "count": 3,
-      "tint": "sky"
-    },
-    {
-      "id": "skills",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 30,
-      "tint": "steel"
-    },
-    {
-      "id": "spec-driven-dev",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 3,
-      "tint": "periwinkle"
     }
   ],
   "stars": [
@@ -525,7 +483,7 @@
       "updated_at": "2026-06-28T11:06:10Z",
       "categories": [
         "ai-agent",
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074611+00:00",
       "override": false
@@ -620,7 +578,7 @@
       "updated_at": "2026-06-28T10:38:11Z",
       "categories": [
         "ai-agent",
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075800+00:00",
       "override": false
@@ -738,8 +696,7 @@
       "created_at": "2026-03-21T18:32:02Z",
       "updated_at": "2026-06-28T09:01:25Z",
       "categories": [
-        "ai-agent",
-        "multi-agent"
+        "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074598+00:00",
       "override": false
@@ -775,7 +732,7 @@
       "created_at": "2025-10-31T14:15:28Z",
       "updated_at": "2026-06-28T10:58:58Z",
       "categories": [
-        "ai-agent-skills",
+        "skills",
         "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075797+00:00",
@@ -802,7 +759,7 @@
       "created_at": "2025-08-05T10:37:45Z",
       "updated_at": "2026-06-28T11:03:39Z",
       "categories": [
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075777+00:00",
       "override": false
@@ -817,7 +774,7 @@
       "created_at": "2025-04-13T14:54:25Z",
       "updated_at": "2026-06-28T10:46:28Z",
       "categories": [
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075757+00:00",
       "override": false
@@ -843,7 +800,7 @@
       "created_at": "2026-01-28T00:42:34Z",
       "updated_at": "2026-06-28T11:02:35Z",
       "categories": [
-        "ai-agent-skills",
+        "skills",
         "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075899+00:00",
@@ -859,7 +816,7 @@
       "created_at": "2026-04-19T14:42:06Z",
       "updated_at": "2026-06-28T10:59:59Z",
       "categories": [
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075774+00:00",
       "override": false
@@ -886,7 +843,7 @@
       "created_at": "2026-04-23T13:23:07Z",
       "updated_at": "2026-06-28T10:56:34Z",
       "categories": [
-        "ai-agent-skills",
+        "skills",
         "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075745+00:00",
@@ -915,7 +872,7 @@
       "created_at": "2026-01-12T11:58:21Z",
       "updated_at": "2026-06-28T10:55:28Z",
       "categories": [
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075741+00:00",
       "override": false
@@ -951,7 +908,7 @@
       "created_at": "2026-03-10T07:31:45Z",
       "updated_at": "2026-06-28T10:51:19Z",
       "categories": [
-        "ai-agent-skills",
+        "skills",
         "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075893+00:00",
@@ -967,7 +924,7 @@
       "created_at": "2026-03-08T03:08:33Z",
       "updated_at": "2026-06-28T10:07:25Z",
       "categories": [
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075877+00:00",
       "override": false
@@ -991,7 +948,7 @@
       "created_at": "2026-03-31T11:59:35Z",
       "updated_at": "2026-06-28T09:20:06Z",
       "categories": [
-        "ai-agent-skills",
+        "skills",
         "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075770+00:00",
@@ -1282,7 +1239,7 @@
       "updated_at": "2026-06-28T10:17:48Z",
       "categories": [
         "ai-monitoring",
-        "browser-automation"
+        "developer-tools"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075880+00:00",
       "override": false
@@ -1305,7 +1262,7 @@
       "created_at": "2026-03-14T22:10:23Z",
       "updated_at": "2026-06-28T11:06:01Z",
       "categories": [
-        "browser-automation",
+        "developer-tools",
         "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075873+00:00",
@@ -1321,7 +1278,7 @@
       "created_at": "2026-04-09T03:23:02Z",
       "updated_at": "2026-06-28T10:44:32Z",
       "categories": [
-        "browser-automation"
+        "developer-tools"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074648+00:00",
       "override": false
@@ -1785,7 +1742,7 @@
       "created_at": "2026-01-13T17:59:46Z",
       "updated_at": "2026-06-28T10:24:02Z",
       "categories": [
-        "multi-agent"
+        "ai-agent"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075767+00:00",
       "override": false
@@ -1873,7 +1830,7 @@
       "updated_at": "2026-06-28T10:55:34Z",
       "categories": [
         "music-entertainment",
-        "resource-search"
+        "ai-monitoring"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075970+00:00",
       "override": false
@@ -2000,7 +1957,7 @@
       "created_at": "2025-03-11T01:59:36Z",
       "updated_at": "2026-06-28T10:38:58Z",
       "categories": [
-        "resource-search",
+        "ai-monitoring",
         "music-entertainment"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075956+00:00",
@@ -2016,7 +1973,7 @@
       "created_at": "2025-07-10T07:17:46Z",
       "updated_at": "2026-06-28T09:52:01Z",
       "categories": [
-        "resource-search"
+        "ai-monitoring"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075754+00:00",
       "override": false
@@ -2440,8 +2397,7 @@
       "created_at": "2025-10-19T04:04:05Z",
       "updated_at": "2026-06-28T10:22:31Z",
       "categories": [
-        "skills",
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074592+00:00",
       "override": false
@@ -2456,8 +2412,7 @@
       "created_at": "2026-04-16T07:36:06Z",
       "updated_at": "2026-06-28T11:00:07Z",
       "categories": [
-        "skills",
-        "domain-toolkits"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074550+00:00",
       "override": false
@@ -2566,8 +2521,7 @@
       "created_at": "2026-05-14T09:22:35Z",
       "updated_at": "2026-06-28T10:47:11Z",
       "categories": [
-        "skills",
-        "spec-driven-dev"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074605+00:00",
       "override": false
@@ -2606,8 +2560,7 @@
       "created_at": "2026-06-01T15:19:46Z",
       "updated_at": "2026-06-28T09:23:48Z",
       "categories": [
-        "skills",
-        "ai-agent-skills"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.074576+00:00",
       "override": false
@@ -2637,7 +2590,7 @@
       "created_at": "2026-04-12T22:21:55Z",
       "updated_at": "2026-06-28T04:56:27Z",
       "categories": [
-        "spec-driven-dev"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075763+00:00",
       "override": false
@@ -2673,7 +2626,7 @@
       "created_at": "2026-03-21T09:37:20Z",
       "updated_at": "2026-06-28T10:47:54Z",
       "categories": [
-        "spec-driven-dev"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:18:49.075750+00:00",
       "override": false
