@@ -9,11 +9,11 @@ const data = ref({ categories: [], stars: [], last_updated: '' })
 const searchQuery = ref('')
 const selectedCategory = ref(null)
 const selectedLanguage = ref(null)
-const sortBy = ref('updated_at')
+const sortBy = ref('stargazers_count')
 
 const sortOptions = [
-  { value: 'updated_at', label: 'Updated' },
   { value: 'stargazers_count', label: 'Stars' },
+  { value: 'updated_at', label: 'Updated' },
   { value: 'forks_count', label: 'Forks' },
 ]
 
