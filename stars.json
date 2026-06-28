@@ -2,81 +2,60 @@
   "last_updated": "2026-06-28T11:43:32.697805+00:00",
   "categories": [
     {
-      "id": "ai-agent",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 44,
+      "id": "skills",
+      "name": "综合技能与工具",
+      "description": "涵盖 AI 智能体、开发者工具、金融工具等各类实用技能与工具合集",
+      "count": 86,
       "tint": "olive"
     },
     {
       "id": "ai-content-creation",
       "name": "AI 内容创作",
-      "description": "AI 生成内容、创作与分发工具",
+      "description": "AI 驱动的文字、图片、视频等内容生成与创作工具",
       "count": 14,
       "tint": "sage"
     },
     {
-      "id": "ai-monitoring",
-      "name": "AI 监控与信息资源",
-      "description": "AI 数据监控、信息平台与资源搜索",
-      "count": 3,
-      "tint": "salmon"
-    },
-    {
-      "id": "customer-support",
-      "name": "客服与沟通",
-      "description": "客服系统与自动化沟通工具",
-      "count": 2,
-      "tint": "peach"
-    },
-    {
-      "id": "developer-tools",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 30,
-      "tint": "lime"
-    },
-    {
       "id": "education-resources",
       "name": "教育资源",
-      "description": "教育资源与学习资料集合",
+      "description": "学习、教学与教育相关的资源与工具",
       "count": 9,
-      "tint": "sky"
-    },
-    {
-      "id": "finance-tools",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 3,
-      "tint": "steel"
+      "tint": "salmon"
     },
     {
       "id": "music-entertainment",
       "name": "音乐与娱乐",
-      "description": "音乐、娱乐与媒体工具",
+      "description": "音乐生成、音频处理及娱乐类工具",
       "count": 7,
-      "tint": "periwinkle"
-    },
-    {
-      "id": "network-tools",
-      "name": "网络工具",
-      "description": "代理、VPN 与网络部署工具",
-      "count": 1,
-      "tint": "olive"
+      "tint": "peach"
     },
     {
       "id": "resource-search",
       "name": "资源搜索",
-      "description": "网盘资源搜索与信息检索工具",
+      "description": "各类资源的搜索、发现与聚合工具",
       "count": 7,
-      "tint": "sage"
+      "tint": "lime"
     },
     {
-      "id": "skills",
-      "name": "Skills",
-      "description": "AI 编程技能、提示词工程、工作流 Skill 等",
-      "count": 51,
-      "tint": "salmon"
+      "id": "ai-monitoring",
+      "name": "AI 监控与信息资源",
+      "description": "AI 相关的监控、分析与信息资源获取工具",
+      "count": 3,
+      "tint": "sky"
+    },
+    {
+      "id": "customer-support",
+      "name": "客服与沟通",
+      "description": "客户服务、沟通协作与对话机器人相关工具",
+      "count": 2,
+      "tint": "steel"
+    },
+    {
+      "id": "network-tools",
+      "name": "网络工具",
+      "description": "网络请求、爬虫、代理等网络相关工具",
+      "count": 1,
+      "tint": "periwinkle"
     }
   ],
   "stars": [
@@ -91,8 +70,7 @@
       "created_at": "2026-04-16T07:36:06Z",
       "updated_at": "2026-06-25T09:01:22Z",
       "categories": [
-        "skills",
-        "finance-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697190+00:00",
       "override": false
@@ -117,8 +95,7 @@
       "created_at": "2026-06-01T15:19:46Z",
       "updated_at": "2026-06-26T10:14:09Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697242+00:00",
       "override": false
@@ -171,9 +148,7 @@
       "created_at": "2025-10-19T04:04:05Z",
       "updated_at": "2026-06-26T10:03:48Z",
       "categories": [
-        "skills",
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697251+00:00",
       "override": false
@@ -210,7 +185,7 @@
       "created_at": "2026-03-21T18:32:02Z",
       "updated_at": "2026-06-24T04:02:02Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697258+00:00",
       "override": false
@@ -233,9 +208,7 @@
       "created_at": "2026-05-14T09:22:35Z",
       "updated_at": "2026-06-28T09:41:50Z",
       "categories": [
-        "skills",
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697262+00:00",
       "override": false
@@ -271,7 +244,6 @@
       "created_at": "2023-08-16T16:16:33Z",
       "updated_at": "2026-06-27T14:39:34Z",
       "categories": [
-        "ai-agent",
         "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697266+00:00",
@@ -396,8 +368,7 @@
       "created_at": "2026-04-09T03:23:02Z",
       "updated_at": "2026-06-24T10:42:26Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697284+00:00",
       "override": false
@@ -421,8 +392,7 @@
       "created_at": "2026-03-01T23:33:44Z",
       "updated_at": "2026-06-22T09:34:56Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697288+00:00",
       "override": false
@@ -456,7 +426,7 @@
       "created_at": "2026-02-24T02:10:24Z",
       "updated_at": "2026-06-23T13:04:55Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697291+00:00",
       "override": false
@@ -493,8 +463,7 @@
       "created_at": "2023-06-19T04:08:31Z",
       "updated_at": "2026-06-28T07:16:11Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697295+00:00",
       "override": false
@@ -522,7 +491,7 @@
       "created_at": "2026-05-06T17:43:05Z",
       "updated_at": "2026-06-27T22:11:35Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697298+00:00",
       "override": false
@@ -545,8 +514,7 @@
       "created_at": "2026-05-18T02:16:36Z",
       "updated_at": "2026-06-28T02:41:45Z",
       "categories": [
-        "developer-tools",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697302+00:00",
       "override": false
@@ -563,7 +531,7 @@
       "updated_at": "2026-06-28T04:56:36Z",
       "categories": [
         "customer-support",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697305+00:00",
       "override": false
@@ -579,8 +547,7 @@
       "created_at": "2025-12-12T03:57:21Z",
       "updated_at": "2026-06-28T09:12:26Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697309+00:00",
       "override": false
@@ -614,7 +581,6 @@
       "created_at": "2026-03-15T02:30:51Z",
       "updated_at": "2026-06-23T20:29:48Z",
       "categories": [
-        "developer-tools",
         "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697312+00:00",
@@ -631,8 +597,7 @@
       "created_at": "2026-03-08T13:52:57Z",
       "updated_at": "2026-06-25T15:17:48Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697316+00:00",
       "override": false
@@ -673,7 +638,7 @@
       "created_at": "2026-02-18T20:01:27Z",
       "updated_at": "2026-06-26T20:02:56Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697326+00:00",
       "override": false
@@ -689,8 +654,7 @@
       "created_at": "2026-01-18T21:45:37Z",
       "updated_at": "2026-06-28T06:34:10Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697330+00:00",
       "override": false
@@ -720,8 +684,7 @@
       "created_at": "2026-02-25T07:32:52Z",
       "updated_at": "2026-06-27T20:49:05Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697333+00:00",
       "override": false
@@ -797,8 +760,7 @@
       "created_at": "2026-05-06T09:32:49Z",
       "updated_at": "2026-06-28T09:25:27Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697347+00:00",
       "override": false
@@ -865,8 +827,7 @@
       "created_at": "2026-04-06T02:19:10Z",
       "updated_at": "2026-06-19T02:19:19Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697357+00:00",
       "override": false
@@ -924,7 +885,6 @@
       "updated_at": "2026-06-02T09:53:57Z",
       "categories": [
         "skills",
-        "ai-agent",
         "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697364+00:00",
@@ -957,8 +917,7 @@
       "created_at": "2025-04-13T14:54:25Z",
       "updated_at": "2026-06-27T23:42:28Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697373+00:00",
       "override": false
@@ -980,8 +939,7 @@
       "created_at": "2026-01-26T11:49:10Z",
       "updated_at": "2026-06-25T04:17:30Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697379+00:00",
       "override": false
@@ -997,7 +955,7 @@
       "created_at": "2026-04-12T22:21:55Z",
       "updated_at": "2026-06-26T23:27:04Z",
       "categories": [
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697383+00:00",
       "override": false
@@ -1013,7 +971,7 @@
       "created_at": "2026-01-13T17:59:46Z",
       "updated_at": "2026-06-28T05:13:38Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697387+00:00",
       "override": false
@@ -1038,8 +996,7 @@
       "created_at": "2026-03-31T11:59:35Z",
       "updated_at": "2026-06-21T08:40:42Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697392+00:00",
       "override": false
@@ -1108,7 +1065,7 @@
       "created_at": "2026-01-28T10:03:24Z",
       "updated_at": "2026-06-28T10:52:12Z",
       "categories": [
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697408+00:00",
       "override": false
@@ -1152,7 +1109,7 @@
       "created_at": "2026-03-07T12:27:59Z",
       "updated_at": "2026-05-26T04:39:28Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697417+00:00",
       "override": false
@@ -1185,7 +1142,6 @@
       "created_at": "2025-07-22T22:22:28Z",
       "updated_at": "2026-06-28T11:30:44Z",
       "categories": [
-        "ai-agent",
         "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697420+00:00",
@@ -1276,8 +1232,7 @@
       "created_at": "2025-10-13T12:27:02Z",
       "updated_at": "2026-06-28T04:48:37Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697431+00:00",
       "override": false
@@ -1314,8 +1269,7 @@
       "created_at": "2025-08-31T20:50:03Z",
       "updated_at": "2026-06-28T04:33:54Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697436+00:00",
       "override": false
@@ -1374,7 +1328,6 @@
       "created_at": "2026-01-09T03:36:29Z",
       "updated_at": "2026-06-28T03:00:11Z",
       "categories": [
-        "ai-agent",
         "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697450+00:00",
@@ -1418,8 +1371,7 @@
       "created_at": "2025-02-07T21:04:12Z",
       "updated_at": "2026-06-27T10:43:03Z",
       "categories": [
-        "developer-tools",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697458+00:00",
       "override": false
@@ -1435,7 +1387,7 @@
       "created_at": "2026-03-22T13:00:59Z",
       "updated_at": "2026-04-28T02:08:33Z",
       "categories": [
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697462+00:00",
       "override": false
@@ -1458,7 +1410,7 @@
       "created_at": "2026-04-10T15:07:10Z",
       "updated_at": "2026-06-03T02:43:36Z",
       "categories": [
-        "developer-tools",
+        "skills",
         "ai-content-creation"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697466+00:00",
@@ -1486,7 +1438,7 @@
       "created_at": "2026-03-31T16:37:01Z",
       "updated_at": "2026-06-16T14:21:08Z",
       "categories": [
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697470+00:00",
       "override": false
@@ -1507,8 +1459,7 @@
       "created_at": "2026-04-06T20:02:21Z",
       "updated_at": "2026-06-14T18:01:18Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697474+00:00",
       "override": false
@@ -1524,8 +1475,7 @@
       "created_at": "2026-04-05T04:33:04Z",
       "updated_at": "2026-06-24T10:30:10Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697478+00:00",
       "override": false
@@ -1541,7 +1491,7 @@
       "created_at": "2026-04-02T20:44:58Z",
       "updated_at": "2026-04-03T21:11:51Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697482+00:00",
       "override": false
@@ -1557,7 +1507,7 @@
       "created_at": "2026-03-31T11:27:01Z",
       "updated_at": "2026-04-12T15:01:19Z",
       "categories": [
-        "ai-agent",
+        "skills",
         "education-resources"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697490+00:00",
@@ -1628,7 +1578,7 @@
       "created_at": "2025-05-07T02:50:19Z",
       "updated_at": "2026-06-28T08:10:44Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697498+00:00",
       "override": false
@@ -1654,7 +1604,7 @@
       "updated_at": "2026-06-14T08:36:16Z",
       "categories": [
         "ai-content-creation",
-        "finance-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697503+00:00",
       "override": false
@@ -1679,7 +1629,7 @@
       "updated_at": "2026-06-20T21:32:31Z",
       "categories": [
         "ai-monitoring",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697507+00:00",
       "override": false
@@ -1741,8 +1691,7 @@
       "created_at": "2026-03-14T22:10:23Z",
       "updated_at": "2026-06-28T08:02:44Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697519+00:00",
       "override": false
@@ -1849,8 +1798,7 @@
       "created_at": "2025-07-01T19:43:27Z",
       "updated_at": "2026-06-28T09:54:56Z",
       "categories": [
-        "developer-tools",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697538+00:00",
       "override": false
@@ -1887,8 +1835,7 @@
       "created_at": "2026-03-10T07:31:45Z",
       "updated_at": "2026-06-28T07:49:25Z",
       "categories": [
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697542+00:00",
       "override": false
@@ -1919,8 +1866,7 @@
       "created_at": "2023-06-20T08:58:36Z",
       "updated_at": "2026-06-27T17:10:07Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697546+00:00",
       "override": false
@@ -1972,7 +1918,7 @@
       "created_at": "2025-11-24T10:16:47Z",
       "updated_at": "2026-06-28T11:29:44Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697557+00:00",
       "override": false
@@ -1988,7 +1934,7 @@
       "created_at": "2025-10-13T12:12:29Z",
       "updated_at": "2026-06-22T21:30:40Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697562+00:00",
       "override": false
@@ -2004,7 +1950,7 @@
       "created_at": "2026-01-31T12:55:02Z",
       "updated_at": "2026-06-26T03:00:12Z",
       "categories": [
-        "finance-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697565+00:00",
       "override": false
@@ -2029,8 +1975,6 @@
       "created_at": "2026-02-06T12:38:55Z",
       "updated_at": "2026-06-28T09:02:13Z",
       "categories": [
-        "ai-agent",
-        "developer-tools",
         "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697569+00:00",
@@ -2068,8 +2012,7 @@
       "created_at": "2025-08-04T14:16:16Z",
       "updated_at": "2026-06-28T09:49:52Z",
       "categories": [
-        "developer-tools",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697574+00:00",
       "override": false
@@ -2136,8 +2079,7 @@
       "created_at": "2025-12-03T01:40:05Z",
       "updated_at": "2026-06-28T09:35:39Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697585+00:00",
       "override": false
@@ -2162,8 +2104,7 @@
       "created_at": "2025-10-09T19:45:18Z",
       "updated_at": "2026-06-25T02:35:57Z",
       "categories": [
-        "skills",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697593+00:00",
       "override": false
@@ -2195,8 +2136,7 @@
       "created_at": "2025-04-30T20:08:00Z",
       "updated_at": "2026-06-28T10:55:04Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697601+00:00",
       "override": false
@@ -2231,8 +2171,7 @@
       "created_at": "2025-01-05T22:47:49Z",
       "updated_at": "2026-06-28T02:12:36Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697606+00:00",
       "override": false
@@ -2271,7 +2210,7 @@
       "updated_at": "2026-06-28T03:41:29Z",
       "categories": [
         "ai-content-creation",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697614+00:00",
       "override": false
@@ -2373,7 +2312,7 @@
       "created_at": "2025-03-19T03:52:16Z",
       "updated_at": "2026-03-01T02:43:23Z",
       "categories": [
-        "developer-tools",
+        "skills",
         "education-resources"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697633+00:00",
@@ -2398,7 +2337,7 @@
       "created_at": "2022-06-13T08:06:19Z",
       "updated_at": "2026-06-18T09:14:38Z",
       "categories": [
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697638+00:00",
       "override": false
@@ -2436,7 +2375,7 @@
       "updated_at": "2026-05-16T03:37:49Z",
       "categories": [
         "music-entertainment",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697643+00:00",
       "override": false
@@ -2515,8 +2454,7 @@
       "created_at": "2023-06-26T19:39:32Z",
       "updated_at": "2026-06-28T00:18:48Z",
       "categories": [
-        "ai-agent",
-        "developer-tools"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697655+00:00",
       "override": false
@@ -2740,8 +2678,7 @@
       "updated_at": "2026-06-26T00:44:49Z",
       "categories": [
         "education-resources",
-        "skills",
-        "ai-agent"
+        "skills"
       ],
       "analyzed_at": "2026-06-28T11:43:32.697695+00:00",
       "override": false
