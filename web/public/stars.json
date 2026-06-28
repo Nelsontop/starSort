@@ -173,7 +173,7 @@
   "stars": [
     {
       "full_name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "description": "一个开源的长周期 SuperAgent 框架，能够研究、编码和创作。借助沙箱、记忆、工具、技能、子代理和消息网关，它可处理从几分钟到数小时不等、不同层级的任务。",
       "language": "Python",
       "topics": [
         "agent",
@@ -207,7 +207,7 @@
     },
     {
       "full_name": "kevinrgu/autoagent",
-      "description": "autonomous harness engineering",
+      "description": "自主代理框架工程",
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/kevinrgu/autoagent",
@@ -222,7 +222,7 @@
     },
     {
       "full_name": "topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description": "Cognee 是面向 AI Agent 的开源记忆平台。通过自托管的知识图谱引擎，为你的 AI Agent 提供跨会话的持久化长期记忆。",
       "language": "Python",
       "topics": [
         "agent-memory",
@@ -257,7 +257,7 @@
     },
     {
       "full_name": "jnMetaCode/agency-orchestrator",
-      "description": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。",
+      "description": "🚀 一句话 → 多 AI 角色协作 → 数分钟交付完整方案。基于 agency-agents 角色库（216+ 专家），零代码 YAML，Web Studio + 桌面应用，支持 10 个 LLM 提供商（7 个免费）。",
       "language": "TypeScript",
       "topics": [
         "agency-agents",
@@ -293,7 +293,7 @@
     },
     {
       "full_name": "colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description": "预索引的代码知识图谱，随代码变更自动同步，适用于 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent——更少 token、更少工具调用、100% 本地运行。",
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/colbymchenry/codegraph",
@@ -308,7 +308,7 @@
     },
     {
       "full_name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description": "\"CLI-Anything：让所有软件原生支持 Agent\"——CLI-Hub：https://clianything.cc/",
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/HKUDS/CLI-Anything",
@@ -323,7 +323,7 @@
     },
     {
       "full_name": "BigPizzaV3/CodexPlusPlus",
-      "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
+      "description": "CodexApp 的增强工具，致力于让 Codex 更好用、更舒适。",
       "language": "Rust",
       "topics": [],
       "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
@@ -353,7 +353,7 @@
     },
     {
       "full_name": "Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+      "description": "Taste-Skill——赋予你的 AI 良好品味。阻止 AI 生成无聊、千篇一律的平庸内容。",
       "language": "JavaScript",
       "topics": [
         "agent",
@@ -382,7 +382,7 @@
     },
     {
       "full_name": "alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description": "337 个 Claude Code 技能、Agent 技能和插件（30+ Agent、70+ 自定义命令、330+ 技能、可定制参考文档、脚本），适用于 Claude Code、Codex、Gemini CLI、Cursor 及其他 8 款编码 Agent——涵盖工程、营销、产品、合规、C 级咨询、研究、业务运营、商业与金融，以及日常生产力技能。",
       "language": "Python",
       "topics": [
         "agent-plugins",
@@ -418,7 +418,7 @@
     },
     {
       "full_name": "rpamis/comet",
-      "description": "Comet: agent skill harness phase-guarded automation from idea to archive",
+      "description": "Comet：Agent 技能框架，从创意到归档的阶段化自动管理。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -440,7 +440,7 @@
     },
     {
       "full_name": "JuneYaooo/lineage-skill",
-      "description": " Distill videos, PDFs, transcripts, and notes into source-backed Agent Skills.",
+      "description": "将视频、PDF、转录文本和笔记提炼为有据可查的 Agent 技能。",
       "language": "Python",
       "topics": [
         "course-distillation",
@@ -464,7 +464,7 @@
     },
     {
       "full_name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "赋予你的 AI Agent 洞察整个互联网的双眼。可读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用。",
       "language": "Python",
       "topics": [
         "agent-infrastructure",
@@ -497,7 +497,7 @@
     },
     {
       "full_name": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description": "PM 技能市场：100+ Agentic 技能、命令和插件——从发现到策略、执行、发布和增长。",
       "language": "",
       "topics": [
         "agent-skill-repository",
@@ -520,7 +520,7 @@
     },
     {
       "full_name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
+      "description": "一个行之有效的 Agentic 技能框架与软件开发方法论。",
       "language": "Shell",
       "topics": [
         "ai",
@@ -544,7 +544,7 @@
     },
     {
       "full_name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "description": "Agent Skills 公共仓库",
       "language": "Python",
       "topics": [
         "agent-skills"
@@ -561,7 +561,7 @@
     },
     {
       "full_name": "CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "description": "面向 Agent 与生成式 UI 的前端技术栈。支持 React、Angular、Mobile、Slack 等。AG-UI 协议的缔造者。",
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -597,7 +597,7 @@
     },
     {
       "full_name": "simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "description": "构建、部署和编排 AI Agent。Sim 是你 AI 工作团队的核心智能层。",
       "language": "TypeScript",
       "topics": [
         "agent-workflow",
@@ -631,7 +631,7 @@
     },
     {
       "full_name": "xszyou/Fay",
-      "description": "fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。",
+      "description": "Fay 是一个帮助数字人（2.5D、3D、移动端、PC、网页）或大语言模型（OpenAI 兼容、DeepSeek）连通业务系统的 Agent 框架。",
       "language": "Python",
       "topics": [
         "ai",
@@ -654,7 +654,7 @@
     },
     {
       "full_name": "opensquilla/opensquilla",
-      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "description": "OpenSquilla——Token 高效的 AI Agent，同等预算下实现更高的智能密度。",
       "language": "Python",
       "topics": [
         "agent",
@@ -681,7 +681,7 @@
     },
     {
       "full_name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "description": "与你一同成长的 Agent。",
       "language": "Python",
       "topics": [
         "ai",
@@ -713,7 +713,7 @@
     },
     {
       "full_name": "yaojingang/yao-meta-skill",
-      "description": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
+      "description": "YAO = Yielding AI Outcomes（产出 AI 成果）。一个用于可复用 Agent 技能的严格工程化、评估、治理和可移植系统。",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -737,7 +737,7 @@
     },
     {
       "full_name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "description": "你的个人 AI 助手。任意操作系统，任意平台。龙虾之道。🦞",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -760,7 +760,7 @@
     },
     {
       "full_name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description": "触手可及的完整 AI 代理机构——从前端奇才到 Reddit 社群达人，从创意注入者到现实检验者。每个 Agent 都是具有鲜明个性、流程和可验证交付成果的专家。",
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/msitarzewski/agency-agents",
@@ -775,7 +775,7 @@
     },
     {
       "full_name": "mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents",
+      "description": "面向 AI Agent 的通用记忆层",
       "language": "Python",
       "topics": [
         "agents",
@@ -805,7 +805,7 @@
     },
     {
       "full_name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
+      "description": "开源编码 Agent。",
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/anomalyco/opencode",
@@ -820,7 +820,7 @@
     },
     {
       "full_name": "code-yeongyu/oh-my-openagent",
-      "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+      "description": "omo/lazycodex：面向 token 极客的编码 Agent；针对复杂代码库的一站式 Agent 框架。为你的 Codex、为你的 OpenCode。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -851,7 +851,7 @@
     },
     {
       "full_name": "bmad-code-org/BMAD-METHOD",
-      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "description": "突破性敏捷 AI 驱动开发方法（Breakthrough Method for Agile AI Driven Development）",
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
@@ -866,7 +866,7 @@
     },
     {
       "full_name": "multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description": "开源的托管 Agent 平台。将编码 Agent 变为真正的队友——分配任务、追踪进度、积累技能。",
       "language": "Go",
       "topics": [],
       "html_url": "https://github.com/multica-ai/multica",
@@ -881,7 +881,7 @@
     },
     {
       "full_name": "mindfold-ai/Trellis",
-      "description": "The best agent harness.",
+      "description": "最好的 Agent 框架。",
       "language": "TypeScript",
       "topics": [
         "agentic-coding",
@@ -902,7 +902,7 @@
     },
     {
       "full_name": "zhu1090093659/spec_driven_develop",
-      "description": "Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.",
+      "description": "面向 AI 编码 Agent 的规范驱动开发工作流：架构优先规划、任务分解、GitHub Issue/PR 追踪、深度讨论，以及适用于 Claude Code、Codex、Cursor 等支持 Markdown 的 Agent 的自适应控制。",
       "language": "Shell",
       "topics": [
         "ai-agent",
@@ -938,7 +938,7 @@
     },
     {
       "full_name": "farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+      "description": "跨平台桌面一站式助手，支持 Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent。唯一官网：ccswitch.io",
       "language": "Rust",
       "topics": [
         "ai-tools",
@@ -974,7 +974,7 @@
     },
     {
       "full_name": "op7418/CodePilot",
-      "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
+      "description": "多模型 AI Agent 桌面客户端——连接任意 AI 提供商，通过 MCP 和技能扩展，用手机远程控制。基于 Electron + Next.js 构建。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -998,7 +998,7 @@
     },
     {
       "full_name": "QLHazyCoder/FlowPilot",
-      "description": "Chrome扩展：支持Codex(自动开通plus账号) / kiro 注册、验证码获取、CPA/sub回调验证与自动恢复",
+      "description": "Chrome 扩展：支持 Codex（自动开通 Plus 账号）/ Kiro 注册、验证码获取、CPA/Sub 回调验证与自动恢复。",
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/QLHazyCoder/FlowPilot",
@@ -1013,7 +1013,7 @@
     },
     {
       "full_name": "Chachamaru127/claude-code-harness",
-      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "description": "Claude Code 专属开发框架——通过自主的 Plan→Work→Review 循环实现高质量开发。",
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/Chachamaru127/claude-code-harness",
@@ -1028,7 +1028,7 @@
     },
     {
       "full_name": "shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "description": "从氛围编程到 Agentic 工程——实践让 Claude 臻于完美。",
       "language": "HTML",
       "topics": [
         "agentic-ai",
@@ -1064,7 +1064,7 @@
     },
     {
       "full_name": "Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "description": "面向 AI 编码助手的规范驱动开发（SDD）。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1090,7 +1090,7 @@
     },
     {
       "full_name": "manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "description": "基于 Ghostty 的开源 macOS 终端，配备垂直标签页和面向 AI 编码 Agent 的通知功能。专为多任务、组织和可编程性而打造。",
       "language": "Swift",
       "topics": [
         "amp",
@@ -1114,7 +1114,7 @@
     },
     {
       "full_name": "getpaseo/paseo",
-      "description": "Orchestrate multiple coding agents from desktop and mobile",
+      "description": "从桌面和移动端编排多个编码 Agent。",
       "language": "TypeScript",
       "topics": [
         "ade",
@@ -1141,7 +1141,7 @@
     },
     {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "description": "面向 Claude Code 的团队优先多 Agent 编排方案。",
       "language": "TypeScript",
       "topics": [
         "agentic-coding",
@@ -1167,7 +1167,7 @@
     },
     {
       "full_name": "coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "description": "首个开源的 AI 编码框架构建器。让 AI 编码变得确定且可复现。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1193,7 +1193,7 @@
     },
     {
       "full_name": "router-for-me/CLIProxyAPI",
-      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
+      "description": "将 AntiGravity、ChatGPT Codex、Claude Code、Grok Build 包装为 OpenAI/Gemini/Claude/Codex 兼容的 API 服务，让你通过 API 享受免费的 Gemini 3.1 Pro、GPT 5.5、Grok 4.3、Claude 模型。",
       "language": "Go",
       "topics": [
         "antigravity",
@@ -1215,7 +1215,7 @@
     },
     {
       "full_name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description": "AI 编码助手技能（适用于 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任意代码文件夹、SQL Schema、R 脚本、Shell 脚本、文档、论文、图片或视频转化为可查询的知识图谱。应用代码 + 数据库 Schema + 基础设施尽在一图。",
       "language": "Python",
       "topics": [
         "antigravity",
@@ -1242,7 +1242,7 @@
     },
     {
       "full_name": "Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "description": "面向 Claude Code 的学术研究技能：研究 → 写作 → 审阅 → 修订 → 定稿。",
       "language": "Python",
       "topics": [
         "academic-pipeline",
@@ -1266,7 +1266,7 @@
     },
     {
       "full_name": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "description": "基于真实世界基准评测排名第一的 AI 编码 Agent 持久化记忆方案。",
       "language": "TypeScript",
       "topics": [
         "agentmemory",
@@ -1295,7 +1295,7 @@
     },
     {
       "full_name": "ycbing/Shortify-AI",
-      "description": "AI短剧创作",
+      "description": "AI 短剧创作",
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/ycbing/Shortify-AI",
@@ -1310,7 +1310,7 @@
     },
     {
       "full_name": "hugohe3/ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "description": "AI 从任意文档生成真实、可编辑的 PowerPoint——原生形状与动画、带语音旁白的演讲者备注，并支持遵循你自己的 .pptx 模板，而非幻灯片图片。· Hugo He 出品",
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -1336,7 +1336,7 @@
     },
     {
       "full_name": "zarazhangrui/frontend-slides",
-      "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+      "description": "利用编码 Agent 的前端技能在网页上创建精美幻灯片。",
       "language": "JavaScript",
       "topics": [
         "ai-slides",
@@ -1362,7 +1362,7 @@
     },
     {
       "full_name": "alchaincyf/huashu-design",
-      "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+      "description": "画数设计 · Claude Code 中 HTML 原生的设计技能 · 高保真原型 / 幻灯片 / 动画 + 20 项设计哲学 + 5 维评审 + MP4 导出 · 不绑定特定 Agent。",
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/huashu-design",
@@ -1377,7 +1377,7 @@
     },
     {
       "full_name": "yaojingang/GEOFlow",
-      "description": "Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, analytics, GEOFlow Agent and WordPress target publishing.",
+      "description": "开源的 GEO 内容工程与多站点分发系统，支持 AI 任务、RAG/语义分块、数据分析、GEOFlow Agent 和 WordPress 目标发布。",
       "language": "PHP",
       "topics": [
         "ai",
@@ -1466,7 +1466,7 @@
     },
     {
       "full_name": "DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "description": "一款集成 AI 能力与 draw.io 图表的 Next.js Web 应用。通过自然语言指令和 AI 辅助可视化来创建、修改和增强图表。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1485,7 +1485,7 @@
     },
     {
       "full_name": "ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "description": "快速上手运行 Kimi-K2.6、GLM-5.1、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等模型。",
       "language": "Go",
       "topics": [
         "deepseek",
@@ -1516,7 +1516,7 @@
     },
     {
       "full_name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
+      "description": "仅需一张图片即可实现实时换脸和一键视频深度伪造。",
       "language": "Python",
       "topics": [
         "ai",
@@ -1550,7 +1550,7 @@
     },
     {
       "full_name": "ComposioHQ/awesome-codex-skills",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "description": "一份精选的 Codex 实用技能列表，用于在 Codex CLI 和 API 中自动化工作流。",
       "language": "Python",
       "topics": [
         "awesome",
@@ -1578,7 +1578,7 @@
     },
     {
       "full_name": "yaojingang/yao-open-prompts",
-      "description": "Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday life.",
+      "description": "Yao Open Prompts：面向工作、学习、内容创作、营销和日常生活的中文 AI 提示词库。",
       "language": "Python",
       "topics": [
         "ai",
@@ -1599,7 +1599,7 @@
     },
     {
       "full_name": "yaojingang/yao-open-skills",
-      "description": "OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation.",
+      "description": "OpenYao 公共技能合集：可复用的 AI 资产，涵盖决策分析、商业分析、教程编写、研究证据收集和文档生成。",
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/yaojingang/yao-open-skills",
@@ -1614,7 +1614,7 @@
     },
     {
       "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — 轻量级纯 Markdown 技能，用于自主机器学习研究：跨模型评审循环、创意发现和实验自动化。无框架、无锁定 — 适用于 Claude Code、Codex、OpenClaw 或任何 LLM Agent。",
       "language": "Python",
       "topics": [
         "ai-research",
@@ -1650,7 +1650,7 @@
     },
     {
       "full_name": "op7418/guizang-ppt-skill",
-      "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+      "description": "用于生成精美 HTML 幻灯片演示的 AI Agent 技能：支持编辑杂志风与瑞士风布局、图片提示词、社交封面图，以及 WebGL/低功耗演示运行时。",
       "language": "HTML",
       "topics": [
         "ai-agent",
@@ -1692,7 +1692,7 @@
     },
     {
       "full_name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description": "利用AI大模型，一键生成高清短视频。",
       "language": "Python",
       "topics": [
         "ai",
@@ -1715,7 +1715,7 @@
     },
     {
       "full_name": "labuladong/fucking-algorithm",
-      "description": "Crack LeetCode, not only how, but also why. ",
+      "description": "攻克 LeetCode，不仅讲方法，更讲原理。",
       "language": "Markdown",
       "topics": [
         "algorithms",
@@ -1739,7 +1739,7 @@
     },
     {
       "full_name": "MisterBooo/LeetCodeAnimation",
-      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+      "description": "用动画的形式呈现解 LeetCode 题目的思路。",
       "language": "Java",
       "topics": [
         "animation",
@@ -1760,7 +1760,7 @@
     },
     {
       "full_name": "jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+      "description": "将任意网站变成 CLI，并使用已登录的浏览器通过 AI Agent 操作。",
       "language": "JavaScript",
       "topics": [
         "ai-agent",
@@ -1783,7 +1783,7 @@
     },
     {
       "full_name": "lanceliao/china-holiday-calender",
-      "description": "2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API",
+      "description": "2023-2025中国节假日、调休、补班日历，ICS格式，可供iPhone、Google Calendar、Outlook等客户端订阅，包含节假日API",
       "language": "",
       "topics": [],
       "html_url": "https://github.com/lanceliao/china-holiday-calender",
@@ -1798,7 +1798,7 @@
     },
     {
       "full_name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description": "一份单独的 CLAUDE.md 文件，用于改善 Claude Code 的行为，源自 Andrej Karpathy 对 LLM 编程常见陷阱的观察。",
       "language": "",
       "topics": [],
       "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
@@ -1813,7 +1813,7 @@
     },
     {
       "full_name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "为真正的工程师打造的技能集合。直接来自我的 .claude 目录。",
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/mattpocock/skills",
@@ -1828,7 +1828,7 @@
     },
     {
       "full_name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description": "跨会话的持久化上下文，适用于每个 Agent — 捕获 Agent 在会话期间的所有操作，通过 AI 压缩，并将相关上下文注入未来的会话中。适用于 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode 等。",
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -1864,7 +1864,7 @@
     },
     {
       "full_name": "xixu-me/awesome-persona-distill-skills",
-      "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "description": "精选的 Agent 技能列表，聚焦于人、人际关系、纪念场景和方法论视角。",
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -1884,7 +1884,7 @@
     },
     {
       "full_name": "fish2018/pansou",
-      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 ",
+      "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。",
       "language": "Go",
       "topics": [],
       "html_url": "https://github.com/fish2018/pansou",
@@ -1899,7 +1899,7 @@
     },
     {
       "full_name": "Egonex-AI/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description": "能教人的图胜过令人赞叹的图。将任意代码转化为可探索、搜索和提问的交互式知识图谱。适用于 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等。",
       "language": "TypeScript",
       "topics": [
         "antigravity-skills",
@@ -1932,7 +1932,7 @@
     },
     {
       "full_name": "alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description": "开源免费 — 历经阿里巴巴规模实战检验。混合架构代码评审工具：确定性流水线 + LLM Agent，精确的行级批注，内置精调规则集（空指针、线程安全、XSS、SQL 注入），兼容 OpenAI 与 Anthropic。",
       "language": "Go",
       "topics": [
         "agent",
@@ -1954,7 +1954,7 @@
     },
     {
       "full_name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
+      "description": "自动化在线赚钱流程。",
       "language": "Python",
       "topics": [
         "automation",
@@ -1993,7 +1993,7 @@
     },
     {
       "full_name": "doocs/md",
-      "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+      "description": "✍ 微信 Markdown 编辑器 — 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "TypeScript",
       "topics": [
         "ai-bot",
@@ -2021,7 +2021,7 @@
     },
     {
       "full_name": "chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "description": "开源的在线客服、邮件支持和全渠道工单系统。Intercom、Zendesk、Salesforce Service Cloud 等的替代方案。🔥💬",
       "language": "Ruby",
       "topics": [
         "actioncable",
@@ -2071,7 +2071,7 @@
     },
     {
       "full_name": "VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "description": "一份按知名品牌设计系统整理的 DESIGN.md 文件合集。将其中一个放入你的项目，让编程 Agent 生成匹配的 UI。",
       "language": "",
       "topics": [
         "awesome-list",
@@ -2097,7 +2097,7 @@
     },
     {
       "full_name": "jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description": "一款 Claude Code 插件，展示当前运行状态 — 上下文用量、活跃工具、运行中的 Agent 和待办进度。",
       "language": "JavaScript",
       "topics": [
         "anthropic",
@@ -2120,7 +2120,7 @@
     },
     {
       "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+      "description": "从自然语言生成生产级 SVG+PNG 技术图表。支持 7 种风格、UML 和 AI/Agent 工作流模式。",
       "language": "Python",
       "topics": [
         "agent-workflows",
@@ -2202,7 +2202,7 @@
     },
     {
       "full_name": "wbh604/UZI-Skill",
-      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 ",
+      "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股",
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/wbh604/UZI-Skill",
@@ -2217,7 +2217,7 @@
     },
     {
       "full_name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "description": "实时全球情报仪表盘。AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，统一态势感知界面。",
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -2242,7 +2242,7 @@
     },
     {
       "full_name": "iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "收集来自世界各地的公开可用 IPTV 频道。",
       "language": "TypeScript",
       "topics": [
         "iptv",
@@ -2293,7 +2293,7 @@
     },
     {
       "full_name": "Guovin/iptv-api",
-      "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform",
+      "description": "⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署",
       "language": "Python",
       "topics": [
         "auto-update",
@@ -2373,7 +2373,7 @@
     },
     {
       "full_name": "iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
+      "description": "用 Java 实现的设计模式。",
       "language": "Java",
       "topics": [
         "awesome-list",
@@ -2397,7 +2397,7 @@
     },
     {
       "full_name": "doocs/advanced-java",
-      "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+      "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
       "language": "Java",
       "topics": [
         "advanced-java",
@@ -2463,7 +2463,7 @@
     },
     {
       "full_name": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "description": "你的个人 AI 超级智能。私密、简洁且极其强大。",
       "language": "Rust",
       "topics": [],
       "html_url": "https://github.com/tinyhumansai/openhuman",
@@ -2493,7 +2493,7 @@
     },
     {
       "full_name": "f/prompts.chat",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "description": "原名 Awesome ChatGPT Prompts。分享、发现和收藏社区提示词。免费且开源 — 可在组织内自托管部署，确保完全隐私。",
       "language": "HTML",
       "topics": [
         "ai",
@@ -2527,7 +2527,7 @@
     },
     {
       "full_name": "alchaincyf/nuwa-skill",
-      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。",
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/nuwa-skill",
@@ -2598,7 +2598,7 @@
     },
     {
       "full_name": "7Sageer/sublink-worker",
-      "description": "One Worker, All Subscriptions",
+      "description": "一个 Worker，聚合所有订阅",
       "language": "JavaScript",
       "topics": [
         "clash",
@@ -2652,7 +2652,7 @@
     },
     {
       "full_name": "youhunwl/TVAPP",
-      "description": " 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。",
+      "description": "收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！✅ TVBox/影视仓等影音壳接口配置源。",
       "language": "JavaScript",
       "topics": [
         "android",

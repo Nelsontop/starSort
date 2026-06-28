@@ -88,9 +88,10 @@ def classify_repos_batch(repos: list[dict], readme_excerpts: dict[str, str]) -> 
         repo_entries.append(entry)
 
     prompt = (
-        "分类以下 GitHub 项目，返回 JSON。自由创建中文分类名，相似项目归入同一类。\n\n"
+        "分类以下 GitHub 项目，并将每个项目的英文描述翻译为简体中文，保留专有名词。"
+        "使用宽泛的中文分类名（20-30 个大类足够），优先归入已有分类，相似项目务必归入同一类。\n\n"
         + "\n".join(repo_entries)
-        + '\n\n返回格式: {"classifications":[{"full_name":"...","category_id":"slug","category_name":"中文","category_description":"..."}]}'
+        + '\n\n返回格式: {"classifications":[{"full_name":"...","category_id":"slug","category_name":"中文","category_description":"...","description_cn":"中文项目描述"}]}'
     )
 
     for attempt in range(3):
@@ -117,6 +118,7 @@ def classify_repos_batch(repos: list[dict], readme_excerpts: dict[str, str]) -> 
                     "category_id": item["category_id"],
                     "category_name": item["category_name"],
                     "category_description": item["category_description"],
+                    "description_cn": item.get("description_cn", ""),
                 }
             return classifications
         except Exception as e:
@@ -336,6 +338,12 @@ def main():
             classifications.update(result)
             if i + batch_size < len(repos_to_classify):
                 time.sleep(3)  # Brief pause between batches
+
+    # Apply translated descriptions to fetched repos
+    for r in fetched:
+        fn = r["full_name"]
+        if fn in classifications and classifications[fn].get("description_cn"):
+            r["description"] = classifications[fn]["description_cn"]
 
     # For incremental, preserve existing classifications from stars.json
     if not args.full_refresh:
