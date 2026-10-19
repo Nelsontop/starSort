@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T19:00:35.364699+00:00",
+  "last_updated": "2026-10-19T19:00:10.180151+00:00",
   "categories": [
     {
       "id": "ai-tools",
@@ -134,14 +134,14 @@
         "resume"
       ],
       "html_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stargazers_count": 52450,
-      "forks_count": 17240,
+      "stargazers_count": 56561,
+      "forks_count": 18032,
       "created_at": "2026-03-18T14:33:04Z",
-      "updated_at": "2026-10-18T18:44:04Z",
+      "updated_at": "2026-10-19T18:59:01Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363896+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179367+00:00",
       "override": false
     },
     {
@@ -156,15 +156,15 @@
         "presentation"
       ],
       "html_url": "https://github.com/zhouwei713/luobo-ppt",
-      "stargazers_count": 389,
-      "forks_count": 72,
+      "stargazers_count": 394,
+      "forks_count": 74,
       "created_at": "2026-10-08T11:50:44Z",
-      "updated_at": "2026-10-18T09:48:10Z",
+      "updated_at": "2026-10-19T01:08:52Z",
       "categories": [
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363914+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179391+00:00",
       "override": false
     },
     {
@@ -180,14 +180,14 @@
         "skills"
       ],
       "html_url": "https://github.com/addyosmani/agent-skills",
-      "stargazers_count": 108132,
-      "forks_count": 11270,
+      "stargazers_count": 108550,
+      "forks_count": 11312,
       "created_at": "2026-02-15T20:20:26Z",
       "updated_at": "2026-10-13T20:24:07Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363918+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179396+00:00",
       "override": false
     },
     {
@@ -202,15 +202,15 @@
         "video-processing"
       ],
       "html_url": "https://github.com/chengyi-ai/native-subtitle-quote-image",
-      "stargazers_count": 2705,
-      "forks_count": 267,
+      "stargazers_count": 2719,
+      "forks_count": 268,
       "created_at": "2026-08-16T10:35:30Z",
       "updated_at": "2026-10-13T13:14:45Z",
       "categories": [
         "skills",
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363922+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179399+00:00",
       "override": false
     },
     {
@@ -230,15 +230,15 @@
         "questions-and-answers"
       ],
       "html_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "stargazers_count": 1760,
+      "stargazers_count": 1762,
       "forks_count": 175,
       "created_at": "2026-09-19T04:14:43Z",
-      "updated_at": "2026-10-12T02:35:50Z",
+      "updated_at": "2026-10-19T17:59:33Z",
       "categories": [
         "education-resources",
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363925+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179403+00:00",
       "override": false
     },
     {
@@ -247,15 +247,15 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/bcefghj/ai-agent-interview-guide",
-      "stargazers_count": 3316,
-      "forks_count": 315,
+      "stargazers_count": 3343,
+      "forks_count": 316,
       "created_at": "2026-04-01T12:38:36Z",
       "updated_at": "2026-04-01T12:38:52Z",
       "categories": [
         "education-resources",
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363929+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179406+00:00",
       "override": false
     },
     {
@@ -264,7 +264,7 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/bcefghj/learn-nanobot",
-      "stargazers_count": 873,
+      "stargazers_count": 875,
       "forks_count": 88,
       "created_at": "2026-04-01T20:03:03Z",
       "updated_at": "2026-04-01T20:23:34Z",
@@ -272,7 +272,7 @@
         "education-resources",
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363933+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179409+00:00",
       "override": false
     },
     {
@@ -287,15 +287,15 @@
         "llm"
       ],
       "html_url": "https://github.com/ranxi2001/zero2Agent",
-      "stargazers_count": 839,
-      "forks_count": 53,
+      "stargazers_count": 851,
+      "forks_count": 54,
       "created_at": "2026-03-27T08:25:00Z",
-      "updated_at": "2026-10-18T03:54:30Z",
+      "updated_at": "2026-10-19T04:03:14Z",
       "categories": [
         "education-resources",
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363938+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179415+00:00",
       "override": false
     },
     {
@@ -325,16 +325,16 @@
         "video-generation"
       ],
       "html_url": "https://github.com/hypit-ai/hypit",
-      "stargazers_count": 23465,
-      "forks_count": 2740,
+      "stargazers_count": 23930,
+      "forks_count": 2848,
       "created_at": "2026-07-29T18:49:19Z",
-      "updated_at": "2026-10-15T08:45:06Z",
+      "updated_at": "2026-10-19T03:45:35Z",
       "categories": [
         "video-tools",
         "ai-tools",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363942+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179418+00:00",
       "override": false
     },
     {
@@ -355,15 +355,15 @@
         "vector-database"
       ],
       "html_url": "https://github.com/volcengine/OpenViking",
-      "stargazers_count": 40246,
-      "forks_count": 3221,
+      "stargazers_count": 40343,
+      "forks_count": 3239,
       "created_at": "2026-01-05T07:11:17Z",
-      "updated_at": "2026-10-18T17:30:33Z",
+      "updated_at": "2026-10-19T17:03:43Z",
       "categories": [
         "ai-tools",
         "knowledge-management"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363945+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179422+00:00",
       "override": false
     },
     {
@@ -393,15 +393,15 @@
         "visualization"
       ],
       "html_url": "https://github.com/tt-a1i/archify",
-      "stargazers_count": 85341,
-      "forks_count": 5792,
+      "stargazers_count": 85800,
+      "forks_count": 5841,
       "created_at": "2026-04-15T05:27:37Z",
-      "updated_at": "2026-10-18T16:46:05Z",
+      "updated_at": "2026-10-19T15:15:00Z",
       "categories": [
         "skills",
         "dev-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363948+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179425+00:00",
       "override": false
     },
     {
@@ -426,7 +426,7 @@
         "retrieval-augmented-generation"
       ],
       "html_url": "https://github.com/skygazer42/MimirQ",
-      "stargazers_count": 556,
+      "stargazers_count": 557,
       "forks_count": 94,
       "created_at": "2025-11-28T03:03:05Z",
       "updated_at": "2026-10-14T21:50:57Z",
@@ -434,7 +434,7 @@
         "knowledge-management",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363951+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179428+00:00",
       "override": false
     },
     {
@@ -453,14 +453,14 @@
         "llm"
       ],
       "html_url": "https://github.com/agentscope-ai/agentscope-java",
-      "stargazers_count": 6028,
-      "forks_count": 1503,
+      "stargazers_count": 6044,
+      "forks_count": 1509,
       "created_at": "2025-09-23T04:37:43Z",
-      "updated_at": "2026-10-18T12:40:18Z",
+      "updated_at": "2026-10-19T15:29:07Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363955+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179432+00:00",
       "override": false
     },
     {
@@ -482,14 +482,14 @@
         "voice-assistant"
       ],
       "html_url": "https://github.com/agentscope-ai/agentscope",
-      "stargazers_count": 33459,
-      "forks_count": 3763,
+      "stargazers_count": 33509,
+      "forks_count": 3797,
       "created_at": "2024-01-12T03:41:59Z",
-      "updated_at": "2026-10-15T10:49:49Z",
+      "updated_at": "2026-10-19T09:29:53Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363958+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179435+00:00",
       "override": false
     },
     {
@@ -507,14 +507,14 @@
         "web-archiving"
       ],
       "html_url": "https://github.com/boyang-hu/website-rebuild-skill",
-      "stargazers_count": 1529,
-      "forks_count": 275,
+      "stargazers_count": 1533,
+      "forks_count": 280,
       "created_at": "2026-08-11T03:50:30Z",
       "updated_at": "2026-10-12T09:30:09Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363961+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179438+00:00",
       "override": false
     },
     {
@@ -529,7 +529,7 @@
         "take-home-assignment"
       ],
       "html_url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
-      "stargazers_count": 359,
+      "stargazers_count": 360,
       "forks_count": 26,
       "created_at": "2026-08-26T02:22:48Z",
       "updated_at": "2026-08-26T05:47:32Z",
@@ -537,7 +537,7 @@
         "education-resources",
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363965+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179442+00:00",
       "override": false
     },
     {
@@ -552,15 +552,15 @@
         "skills"
       ],
       "html_url": "https://github.com/alibaba/skill-up",
-      "stargazers_count": 1227,
-      "forks_count": 101,
+      "stargazers_count": 1231,
+      "forks_count": 102,
       "created_at": "2026-05-09T10:09:28Z",
-      "updated_at": "2026-10-16T03:04:59Z",
+      "updated_at": "2026-10-19T11:49:56Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363969+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179445+00:00",
       "override": false
     },
     {
@@ -578,14 +578,14 @@
         "dsh-plugin-desktop"
       ],
       "html_url": "https://github.com/anywhere-labs/dsh-desktop",
-      "stargazers_count": 31470,
-      "forks_count": 1464,
+      "stargazers_count": 31754,
+      "forks_count": 1474,
       "created_at": "2026-08-13T16:30:50Z",
-      "updated_at": "2026-10-17T20:05:05Z",
+      "updated_at": "2026-10-19T07:08:08Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363975+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179451+00:00",
       "override": false
     },
     {
@@ -594,14 +594,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/Kruk2/jasna",
-      "stargazers_count": 2332,
-      "forks_count": 181,
+      "stargazers_count": 2823,
+      "forks_count": 211,
       "created_at": "2026-01-18T21:13:39Z",
       "updated_at": "2026-10-18T11:43:28Z",
       "categories": [
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363978+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179455+00:00",
       "override": false
     },
     {
@@ -610,14 +610,14 @@
       "language": "CSS",
       "topics": [],
       "html_url": "https://github.com/Nutlope/hallmark",
-      "stargazers_count": 30317,
-      "forks_count": 1555,
+      "stargazers_count": 30390,
+      "forks_count": 1566,
       "created_at": "2026-04-27T20:47:10Z",
       "updated_at": "2026-08-06T16:19:18Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363982+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179457+00:00",
       "override": false
     },
     {
@@ -626,14 +626,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/liliMozi/openhanako",
-      "stargazers_count": 6799,
-      "forks_count": 578,
+      "stargazers_count": 6806,
+      "forks_count": 579,
       "created_at": "2026-03-15T07:01:45Z",
       "updated_at": "2026-10-18T01:52:30Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363986+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179461+00:00",
       "override": false
     },
     {
@@ -649,15 +649,15 @@
         "skills"
       ],
       "html_url": "https://github.com/Claycui828/ASu-resume-skills",
-      "stargazers_count": 386,
-      "forks_count": 29,
+      "stargazers_count": 390,
+      "forks_count": 30,
       "created_at": "2026-08-13T05:27:27Z",
       "updated_at": "2026-08-23T11:55:15Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363990+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179464+00:00",
       "override": false
     },
     {
@@ -671,14 +671,14 @@
         "dsh-plugin"
       ],
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stargazers_count": 253002,
-      "forks_count": 30445,
+      "stargazers_count": 254371,
+      "forks_count": 30740,
       "created_at": "2026-08-13T11:56:32Z",
       "updated_at": "2026-10-17T08:16:09Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.363994+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179468+00:00",
       "override": false
     },
     {
@@ -694,14 +694,14 @@
         "productivity"
       ],
       "html_url": "https://github.com/ayghri/i-have-adhd",
-      "stargazers_count": 57658,
-      "forks_count": 3332,
+      "stargazers_count": 57829,
+      "forks_count": 3347,
       "created_at": "2026-05-13T20:42:06Z",
       "updated_at": "2026-10-11T16:03:54Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364000+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179471+00:00",
       "override": false
     },
     {
@@ -723,14 +723,14 @@
         "tui"
       ],
       "html_url": "https://github.com/1jehuang/jcode",
-      "stargazers_count": 21007,
-      "forks_count": 2435,
+      "stargazers_count": 21036,
+      "forks_count": 2440,
       "created_at": "2026-01-05T09:43:36Z",
-      "updated_at": "2026-10-18T10:24:10Z",
+      "updated_at": "2026-10-19T17:14:37Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364004+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179474+00:00",
       "override": false
     },
     {
@@ -739,14 +739,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/different-ai/openwork",
-      "stargazers_count": 24167,
-      "forks_count": 2449,
+      "stargazers_count": 24183,
+      "forks_count": 2450,
       "created_at": "2026-01-14T01:39:31Z",
-      "updated_at": "2026-10-18T18:59:37Z",
+      "updated_at": "2026-10-19T18:56:35Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364008+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179477+00:00",
       "override": false
     },
     {
@@ -769,14 +769,14 @@
         "study-tools"
       ],
       "html_url": "https://github.com/virgiliojr94/book-to-skill",
-      "stargazers_count": 35246,
-      "forks_count": 3709,
+      "stargazers_count": 35357,
+      "forks_count": 3730,
       "created_at": "2026-05-01T02:09:39Z",
-      "updated_at": "2026-10-12T00:30:58Z",
+      "updated_at": "2026-10-18T21:24:32Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364011+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179480+00:00",
       "override": false
     },
     {
@@ -796,14 +796,14 @@
         "rnn"
       ],
       "html_url": "https://github.com/microsoft/AI-For-Beginners",
-      "stargazers_count": 69950,
-      "forks_count": 13566,
+      "stargazers_count": 69995,
+      "forks_count": 13575,
       "created_at": "2021-03-03T16:27:36Z",
       "updated_at": "2026-09-16T20:17:56Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364015+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179484+00:00",
       "override": false
     },
     {
@@ -822,14 +822,14 @@
         "vector-search"
       ],
       "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "stargazers_count": 29562,
-      "forks_count": 2941,
+      "stargazers_count": 29631,
+      "forks_count": 2979,
       "created_at": "2026-04-07T06:34:26Z",
-      "updated_at": "2026-10-15T12:24:35Z",
+      "updated_at": "2026-10-19T12:02:29Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364018+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179487+00:00",
       "override": false
     },
     {
@@ -853,14 +853,14 @@
         "transformers"
       ],
       "html_url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "stargazers_count": 121585,
-      "forks_count": 64071,
+      "stargazers_count": 121641,
+      "forks_count": 64110,
       "created_at": "2023-06-19T16:28:59Z",
-      "updated_at": "2026-10-17T14:57:18Z",
+      "updated_at": "2026-10-19T09:10:07Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364021+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179491+00:00",
       "override": false
     },
     {
@@ -869,14 +869,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/myfanhua/turb-gpt-free-register",
-      "stargazers_count": 1661,
-      "forks_count": 549,
+      "stargazers_count": 1668,
+      "forks_count": 551,
       "created_at": "2026-07-10T09:00:58Z",
-      "updated_at": "2026-10-18T14:35:08Z",
+      "updated_at": "2026-10-19T07:54:03Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364025+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179494+00:00",
       "override": false
     },
     {
@@ -892,7 +892,7 @@
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364028+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179497+00:00",
       "override": false
     },
     {
@@ -920,15 +920,15 @@
         "workbuddy"
       ],
       "html_url": "https://github.com/simonlin1212/Vibe-Research",
-      "stargazers_count": 2734,
-      "forks_count": 574,
+      "stargazers_count": 2745,
+      "forks_count": 581,
       "created_at": "2026-07-05T06:30:55Z",
       "updated_at": "2026-10-18T05:42:53Z",
       "categories": [
         "finance-tools",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364032+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179501+00:00",
       "override": false
     },
     {
@@ -953,7 +953,7 @@
         "skills",
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364035+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179504+00:00",
       "override": false
     },
     {
@@ -973,15 +973,15 @@
         "xiaohongshu"
       ],
       "html_url": "https://github.com/yanhua1010/self-media-content-workflow",
-      "stargazers_count": 605,
-      "forks_count": 84,
+      "stargazers_count": 610,
+      "forks_count": 85,
       "created_at": "2026-07-22T06:20:17Z",
       "updated_at": "2026-10-13T13:27:28Z",
       "categories": [
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364039+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179508+00:00",
       "override": false
     },
     {
@@ -1000,14 +1000,14 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/KKKKhazix/khazix-skills",
-      "stargazers_count": 21492,
-      "forks_count": 2337,
+      "stargazers_count": 21509,
+      "forks_count": 2357,
       "created_at": "2026-04-06T07:37:02Z",
       "updated_at": "2026-10-01T13:15:32Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364042+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179512+00:00",
       "override": false
     },
     {
@@ -1029,14 +1029,14 @@
         "tree-sitter"
       ],
       "html_url": "https://github.com/tirth8205/code-review-graph",
-      "stargazers_count": 32238,
-      "forks_count": 3033,
+      "stargazers_count": 32264,
+      "forks_count": 3065,
       "created_at": "2026-02-26T17:25:13Z",
       "updated_at": "2026-10-16T11:20:26Z",
       "categories": [
         "dev-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364045+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179516+00:00",
       "override": false
     },
     {
@@ -1059,14 +1059,14 @@
         "reinforcement-learning"
       ],
       "html_url": "https://github.com/bojieli/ai-agent-book",
-      "stargazers_count": 54785,
-      "forks_count": 6257,
+      "stargazers_count": 54957,
+      "forks_count": 6285,
       "created_at": "2025-09-09T02:41:44Z",
       "updated_at": "2026-10-08T15:06:27Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364050+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179522+00:00",
       "override": false
     },
     {
@@ -1082,7 +1082,7 @@
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364054+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179526+00:00",
       "override": false
     },
     {
@@ -1106,15 +1106,15 @@
         "video-production"
       ],
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "stargazers_count": 12376,
-      "forks_count": 1114,
+      "stargazers_count": 12514,
+      "forks_count": 1129,
       "created_at": "2026-07-19T11:44:41Z",
       "updated_at": "2026-10-17T17:50:53Z",
       "categories": [
         "skills",
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364057+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179530+00:00",
       "override": false
     },
     {
@@ -1123,14 +1123,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/earendil-works/pi",
-      "stargazers_count": 116114,
-      "forks_count": 14805,
+      "stargazers_count": 116397,
+      "forks_count": 14854,
       "created_at": "2025-08-09T14:03:50Z",
-      "updated_at": "2026-10-18T14:06:57Z",
+      "updated_at": "2026-10-19T18:17:44Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364060+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179534+00:00",
       "override": false
     },
     {
@@ -1154,14 +1154,14 @@
         "zhipin"
       ],
       "html_url": "https://github.com/eatmoreduck/boss-zhipin-scraper",
-      "stargazers_count": 1589,
-      "forks_count": 218,
+      "stargazers_count": 1602,
+      "forks_count": 225,
       "created_at": "2026-06-11T14:48:30Z",
       "updated_at": "2026-10-14T07:02:13Z",
       "categories": [
         "dev-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364063+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179539+00:00",
       "override": false
     },
     {
@@ -1184,15 +1184,15 @@
         "wav2lip"
       ],
       "html_url": "https://github.com/lipku/LiveTalking",
-      "stargazers_count": 9953,
-      "forks_count": 1594,
+      "stargazers_count": 9965,
+      "forks_count": 1597,
       "created_at": "2023-12-19T01:32:46Z",
       "updated_at": "2026-10-09T08:39:48Z",
       "categories": [
         "ai-tools",
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364067+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179542+00:00",
       "override": false
     },
     {
@@ -1209,7 +1209,7 @@
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364070+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179546+00:00",
       "override": false
     },
     {
@@ -1218,14 +1218,14 @@
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/eze-is/web-access",
-      "stargazers_count": 9197,
-      "forks_count": 652,
+      "stargazers_count": 9210,
+      "forks_count": 657,
       "created_at": "2026-03-18T05:54:57Z",
       "updated_at": "2026-10-14T11:30:02Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364073+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179549+00:00",
       "override": false
     },
     {
@@ -1252,14 +1252,14 @@
         "vps"
       ],
       "html_url": "https://github.com/Dokploy/dokploy",
-      "stargazers_count": 37850,
-      "forks_count": 3090,
+      "stargazers_count": 37870,
+      "forks_count": 3097,
       "created_at": "2024-04-19T07:49:30Z",
       "updated_at": "2026-10-16T15:40:46Z",
       "categories": [
         "dev-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364077+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179553+00:00",
       "override": false
     },
     {
@@ -1283,7 +1283,7 @@
         "skills",
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364080+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179556+00:00",
       "override": false
     },
     {
@@ -1300,7 +1300,7 @@
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364085+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179561+00:00",
       "override": false
     },
     {
@@ -1309,14 +1309,14 @@
       "language": "Markdown",
       "topics": [],
       "html_url": "https://github.com/emilkowalski/skills",
-      "stargazers_count": 47321,
-      "forks_count": 2724,
+      "stargazers_count": 47629,
+      "forks_count": 2744,
       "created_at": "2026-03-16T13:52:31Z",
       "updated_at": "2026-10-11T13:58:36Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364091+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179565+00:00",
       "override": false
     },
     {
@@ -1338,7 +1338,7 @@
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364094+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179568+00:00",
       "override": false
     },
     {
@@ -1363,15 +1363,15 @@
         "web-analytics"
       ],
       "html_url": "https://github.com/PostHog/posthog",
-      "stargazers_count": 40335,
-      "forks_count": 3523,
+      "stargazers_count": 40346,
+      "forks_count": 3529,
       "created_at": "2020-01-23T22:46:58Z",
-      "updated_at": "2026-10-18T18:59:45Z",
+      "updated_at": "2026-10-19T19:00:05Z",
       "categories": [
         "dev-tools",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364099+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179571+00:00",
       "override": false
     },
     {
@@ -1380,14 +1380,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/threerocks/hand-drawn-styles",
-      "stargazers_count": 2447,
+      "stargazers_count": 2459,
       "forks_count": 263,
       "created_at": "2026-06-28T15:35:13Z",
       "updated_at": "2026-10-16T16:03:57Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364103+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179575+00:00",
       "override": false
     },
     {
@@ -1407,7 +1407,7 @@
         "second-brain"
       ],
       "html_url": "https://github.com/helloianneo/obsidian-ai-second-brain",
-      "stargazers_count": 291,
+      "stargazers_count": 292,
       "forks_count": 29,
       "created_at": "2026-04-13T08:59:07Z",
       "updated_at": "2026-04-13T09:34:10Z",
@@ -1415,7 +1415,7 @@
         "obsidian",
         "knowledge-management"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364107+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179580+00:00",
       "override": false
     },
     {
@@ -1432,14 +1432,14 @@
         "xiaohei"
       ],
       "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-      "stargazers_count": 12662,
-      "forks_count": 1454,
+      "stargazers_count": 12683,
+      "forks_count": 1455,
       "created_at": "2026-05-27T22:47:56Z",
       "updated_at": "2026-09-24T22:14:01Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364110+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179584+00:00",
       "override": false
     },
     {
@@ -1448,14 +1448,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/injaneity/pi-computer-use",
-      "stargazers_count": 2063,
+      "stargazers_count": 2064,
       "forks_count": 144,
       "created_at": "2026-04-20T10:18:18Z",
       "updated_at": "2026-10-18T07:22:49Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364113+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179587+00:00",
       "override": false
     },
     {
@@ -1473,14 +1473,14 @@
         "workflow"
       ],
       "html_url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "stargazers_count": 3503,
-      "forks_count": 495,
+      "stargazers_count": 3527,
+      "forks_count": 498,
       "created_at": "2026-07-10T04:13:51Z",
-      "updated_at": "2026-09-18T15:22:08Z",
+      "updated_at": "2026-10-19T09:10:37Z",
       "categories": [
         "guide"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364117+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179591+00:00",
       "override": false
     },
     {
@@ -1510,7 +1510,7 @@
         "vlm"
       ],
       "html_url": "https://github.com/momozi1996/awesome-ai-persona-skills",
-      "stargazers_count": 976,
+      "stargazers_count": 984,
       "forks_count": 96,
       "created_at": "2026-04-10T10:01:59Z",
       "updated_at": "2026-09-02T14:50:23Z",
@@ -1518,7 +1518,7 @@
         "skills",
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364120+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179594+00:00",
       "override": false
     },
     {
@@ -1529,14 +1529,14 @@
         "skills"
       ],
       "html_url": "https://github.com/tmstack/awesome-persona-skills",
-      "stargazers_count": 4234,
+      "stargazers_count": 4251,
       "forks_count": 359,
       "created_at": "2026-04-06T01:49:23Z",
       "updated_at": "2026-09-30T13:18:05Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364125+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179599+00:00",
       "override": false
     },
     {
@@ -1552,7 +1552,7 @@
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364132+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179603+00:00",
       "override": false
     },
     {
@@ -1568,7 +1568,7 @@
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364136+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179606+00:00",
       "override": false
     },
     {
@@ -1584,7 +1584,7 @@
       "categories": [
         "dev-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364139+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179610+00:00",
       "override": false
     },
     {
@@ -1593,14 +1593,14 @@
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/ChatCut-Inc/agent-plugin",
-      "stargazers_count": 955,
-      "forks_count": 83,
+      "stargazers_count": 956,
+      "forks_count": 84,
       "created_at": "2026-06-25T09:45:29Z",
-      "updated_at": "2026-10-16T12:54:14Z",
+      "updated_at": "2026-10-19T14:10:40Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364142+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179613+00:00",
       "override": false
     },
     {
@@ -1618,14 +1618,14 @@
         "youtube"
       ],
       "html_url": "https://github.com/Hao0321/video-autopilot-kit",
-      "stargazers_count": 2185,
-      "forks_count": 350,
+      "stargazers_count": 2191,
+      "forks_count": 352,
       "created_at": "2026-06-01T14:38:19Z",
       "updated_at": "2026-10-15T17:36:58Z",
       "categories": [
         "video-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364146+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179616+00:00",
       "override": false
     },
     {
@@ -1638,14 +1638,14 @@
         "indie-developer"
       ],
       "html_url": "https://github.com/1c7/chinese-independent-developer",
-      "stargazers_count": 61843,
-      "forks_count": 5486,
+      "stargazers_count": 61855,
+      "forks_count": 5492,
       "created_at": "2017-09-21T11:08:23Z",
-      "updated_at": "2026-10-18T16:32:08Z",
+      "updated_at": "2026-10-19T12:20:41Z",
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364149+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179620+00:00",
       "override": false
     },
     {
@@ -1654,8 +1654,8 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/bradautomates/claude-video",
-      "stargazers_count": 18765,
-      "forks_count": 1951,
+      "stargazers_count": 18829,
+      "forks_count": 1959,
       "created_at": "2026-04-24T04:40:43Z",
       "updated_at": "2026-09-25T01:25:54Z",
       "categories": [
@@ -1663,7 +1663,7 @@
         "multimodal",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364152+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179623+00:00",
       "override": false
     },
     {
@@ -1687,14 +1687,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/apache/maka",
-      "stargazers_count": 5845,
-      "forks_count": 557,
+      "stargazers_count": 5854,
+      "forks_count": 559,
       "created_at": "2026-05-27T15:46:05Z",
-      "updated_at": "2026-10-18T18:17:58Z",
+      "updated_at": "2026-10-19T18:54:05Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364155+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179626+00:00",
       "override": false
     },
     {
@@ -1718,14 +1718,14 @@
         "vulnerability-research"
       ],
       "html_url": "https://github.com/larlarua/AutoCVE",
-      "stargazers_count": 1189,
-      "forks_count": 135,
+      "stargazers_count": 1193,
+      "forks_count": 136,
       "created_at": "2026-06-15T14:50:47Z",
       "updated_at": "2026-10-01T05:08:03Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364160+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179631+00:00",
       "override": true
     },
     {
@@ -1743,14 +1743,14 @@
         "google-cloud"
       ],
       "html_url": "https://github.com/google/agents-cli",
-      "stargazers_count": 6099,
-      "forks_count": 702,
+      "stargazers_count": 6100,
+      "forks_count": 703,
       "created_at": "2026-04-08T17:09:55Z",
       "updated_at": "2026-10-12T19:47:06Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364166+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179637+00:00",
       "override": true
     },
     {
@@ -1759,14 +1759,14 @@
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/darwin-skill",
-      "stargazers_count": 6412,
-      "forks_count": 668,
+      "stargazers_count": 6433,
+      "forks_count": 669,
       "created_at": "2026-04-13T08:57:49Z",
       "updated_at": "2026-09-18T13:16:41Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364170+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179642+00:00",
       "override": true
     },
     {
@@ -1775,14 +1775,14 @@
       "language": "",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "stargazers_count": 10527,
-      "forks_count": 2677,
+      "stargazers_count": 10533,
+      "forks_count": 2673,
       "created_at": "2026-04-05T11:37:18Z",
       "updated_at": "2026-10-13T06:56:37Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364174+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179645+00:00",
       "override": true
     },
     {
@@ -1808,14 +1808,14 @@
         "xlsx"
       ],
       "html_url": "https://github.com/opendatalab/MinerU",
-      "stargazers_count": 81979,
-      "forks_count": 6794,
+      "stargazers_count": 82058,
+      "forks_count": 6799,
       "created_at": "2024-02-29T08:52:34Z",
-      "updated_at": "2026-10-17T15:18:55Z",
+      "updated_at": "2026-10-19T08:41:22Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364178+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179649+00:00",
       "override": false
     },
     {
@@ -1828,14 +1828,14 @@
         "tutorial"
       ],
       "html_url": "https://github.com/luongnv89/claude-howto",
-      "stargazers_count": 41947,
-      "forks_count": 5154,
+      "stargazers_count": 41960,
+      "forks_count": 5161,
       "created_at": "2025-11-07T22:59:34Z",
-      "updated_at": "2026-10-15T20:23:10Z",
+      "updated_at": "2026-10-19T12:17:05Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364181+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179653+00:00",
       "override": false
     },
     {
@@ -1844,14 +1844,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/garrytan/gstack",
-      "stargazers_count": 136838,
-      "forks_count": 20308,
+      "stargazers_count": 136932,
+      "forks_count": 20317,
       "created_at": "2026-03-11T21:22:45Z",
-      "updated_at": "2026-10-18T18:50:19Z",
+      "updated_at": "2026-10-19T18:58:48Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364184+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179656+00:00",
       "override": false
     },
     {
@@ -1860,14 +1860,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/wbh604/UZI-Skill",
-      "stargazers_count": 7274,
-      "forks_count": 1014,
+      "stargazers_count": 7287,
+      "forks_count": 1018,
       "created_at": "2026-04-16T07:36:06Z",
       "updated_at": "2026-10-18T02:56:06Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364188+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179659+00:00",
       "override": false
     },
     {
@@ -1887,15 +1887,15 @@
         "teacher"
       ],
       "html_url": "https://github.com/JuneYaooo/lineage-skill",
-      "stargazers_count": 458,
-      "forks_count": 68,
+      "stargazers_count": 459,
+      "forks_count": 69,
       "created_at": "2026-06-01T15:19:46Z",
       "updated_at": "2026-07-23T13:04:06Z",
       "categories": [
         "skills",
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364190+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179662+00:00",
       "override": false
     },
     {
@@ -1925,14 +1925,14 @@
         "prompt-engineering"
       ],
       "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "stargazers_count": 28360,
-      "forks_count": 4053,
+      "stargazers_count": 28403,
+      "forks_count": 4075,
       "created_at": "2025-10-19T04:04:05Z",
       "updated_at": "2026-08-30T09:46:16Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364194+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179665+00:00",
       "override": false
     },
     {
@@ -1951,15 +1951,15 @@
         "spec"
       ],
       "html_url": "https://github.com/rpamis/comet",
-      "stargazers_count": 3205,
+      "stargazers_count": 3206,
       "forks_count": 304,
       "created_at": "2026-05-14T09:22:35Z",
-      "updated_at": "2026-10-18T15:42:05Z",
+      "updated_at": "2026-10-19T14:51:32Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364197+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179669+00:00",
       "override": false
     },
     {
@@ -1981,14 +1981,14 @@
         "situation"
       ],
       "html_url": "https://github.com/koala73/worldmonitor",
-      "stargazers_count": 88715,
-      "forks_count": 13603,
+      "stargazers_count": 88836,
+      "forks_count": 13628,
       "created_at": "2026-01-08T17:26:06Z",
-      "updated_at": "2026-10-18T18:48:20Z",
+      "updated_at": "2026-10-19T18:58:46Z",
       "categories": [
         "ai-monitoring"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364202+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179675+00:00",
       "override": false
     },
     {
@@ -2004,7 +2004,7 @@
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364206+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179678+00:00",
       "override": false
     },
     {
@@ -2025,14 +2025,14 @@
         "web-design"
       ],
       "html_url": "https://github.com/Leonxlnx/taste-skill",
-      "stargazers_count": 98789,
-      "forks_count": 6711,
+      "stargazers_count": 99271,
+      "forks_count": 6754,
       "created_at": "2026-02-19T21:44:05Z",
-      "updated_at": "2026-10-18T08:23:56Z",
+      "updated_at": "2026-10-19T05:47:12Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364209+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179681+00:00",
       "override": false
     },
     {
@@ -2061,14 +2061,14 @@
         "zendesk"
       ],
       "html_url": "https://github.com/chatwoot/chatwoot",
-      "stargazers_count": 37925,
-      "forks_count": 9246,
+      "stargazers_count": 37962,
+      "forks_count": 9259,
       "created_at": "2019-08-14T06:50:51Z",
-      "updated_at": "2026-10-18T18:57:40Z",
+      "updated_at": "2026-10-19T18:13:55Z",
       "categories": [
         "customer-support"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364212+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179685+00:00",
       "override": false
     },
     {
@@ -2077,14 +2077,14 @@
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/QLHazyCoder/FlowPilot",
-      "stargazers_count": 5189,
+      "stargazers_count": 5187,
       "forks_count": 1027,
       "created_at": "2026-04-09T03:23:02Z",
-      "updated_at": "2026-10-09T07:49:05Z",
+      "updated_at": "2026-10-19T03:08:53Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364215+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179688+00:00",
       "override": false
     },
     {
@@ -2101,14 +2101,14 @@
         "product-management"
       ],
       "html_url": "https://github.com/phuryn/pm-skills",
-      "stargazers_count": 27170,
-      "forks_count": 2869,
+      "stargazers_count": 27215,
+      "forks_count": 2868,
       "created_at": "2026-03-01T23:33:44Z",
       "updated_at": "2026-10-16T12:28:37Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364219+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179692+00:00",
       "override": false
     },
     {
@@ -2135,14 +2135,14 @@
         "youtube-transcript"
       ],
       "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "stargazers_count": 99001,
-      "forks_count": 8721,
+      "stargazers_count": 99563,
+      "forks_count": 8793,
       "created_at": "2026-02-24T02:10:24Z",
       "updated_at": "2026-10-15T11:34:42Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364222+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179695+00:00",
       "override": false
     },
     {
@@ -2172,14 +2172,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "stargazers_count": 38092,
-      "forks_count": 4744,
+      "stargazers_count": 38118,
+      "forks_count": 4750,
       "created_at": "2023-06-19T04:08:31Z",
-      "updated_at": "2026-10-18T16:57:30Z",
+      "updated_at": "2026-10-19T18:27:05Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364225+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179698+00:00",
       "override": false
     },
     {
@@ -2195,15 +2195,15 @@
         "repository-level-context"
       ],
       "html_url": "https://github.com/alibaba/open-code-review",
-      "stargazers_count": 47583,
-      "forks_count": 3472,
+      "stargazers_count": 47651,
+      "forks_count": 3479,
       "created_at": "2026-05-18T02:16:36Z",
-      "updated_at": "2026-10-17T01:23:16Z",
+      "updated_at": "2026-10-19T12:57:26Z",
       "categories": [
         "ai-tools",
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364228+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179702+00:00",
       "override": false
     },
     {
@@ -2212,14 +2212,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/zhinianboke/xianyu-auto-reply",
-      "stargazers_count": 7760,
-      "forks_count": 1979,
+      "stargazers_count": 7791,
+      "forks_count": 1990,
       "created_at": "2025-07-24T04:04:11Z",
       "updated_at": "2026-10-18T15:04:38Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364231+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179705+00:00",
       "override": false
     },
     {
@@ -2228,14 +2228,14 @@
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/Chachamaru127/claude-code-harness",
-      "stargazers_count": 3173,
+      "stargazers_count": 3176,
       "forks_count": 302,
       "created_at": "2025-12-12T03:57:21Z",
-      "updated_at": "2026-10-15T04:47:21Z",
+      "updated_at": "2026-10-19T01:26:19Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364236+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179710+00:00",
       "override": false
     },
     {
@@ -2262,14 +2262,14 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "stargazers_count": 86880,
-      "forks_count": 7324,
+      "stargazers_count": 86993,
+      "forks_count": 7340,
       "created_at": "2026-03-15T02:30:51Z",
       "updated_at": "2026-10-12T10:24:59Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364241+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179714+00:00",
       "override": true
     },
     {
@@ -2278,14 +2278,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "stargazers_count": 54483,
-      "forks_count": 4936,
+      "stargazers_count": 55110,
+      "forks_count": 4974,
       "created_at": "2026-03-08T13:52:57Z",
       "updated_at": "2026-09-22T02:01:29Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364244+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179717+00:00",
       "override": false
     },
     {
@@ -2303,15 +2303,15 @@
         "prompt-engineering"
       ],
       "html_url": "https://github.com/Imbad0202/academic-research-skills",
-      "stargazers_count": 52738,
-      "forks_count": 4042,
+      "stargazers_count": 52967,
+      "forks_count": 4060,
       "created_at": "2026-02-26T06:31:01Z",
       "updated_at": "2026-10-18T01:25:37Z",
       "categories": [
         "skills",
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364247+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179721+00:00",
       "override": false
     },
     {
@@ -2333,14 +2333,14 @@
         "tauri"
       ],
       "html_url": "https://github.com/tinyhumansai/openhuman",
-      "stargazers_count": 42145,
-      "forks_count": 4157,
+      "stargazers_count": 42159,
+      "forks_count": 4164,
       "created_at": "2026-02-18T20:01:27Z",
-      "updated_at": "2026-10-18T18:34:15Z",
+      "updated_at": "2026-10-19T18:40:10Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364250+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179724+00:00",
       "override": false
     },
     {
@@ -2349,14 +2349,14 @@
       "language": "C",
       "topics": [],
       "html_url": "https://github.com/colbymchenry/codegraph",
-      "stargazers_count": 74380,
-      "forks_count": 4808,
+      "stargazers_count": 74452,
+      "forks_count": 4819,
       "created_at": "2026-01-18T21:45:37Z",
-      "updated_at": "2026-10-18T18:53:19Z",
+      "updated_at": "2026-10-19T18:43:18Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364256+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179728+00:00",
       "override": true
     },
     {
@@ -2379,14 +2379,14 @@
         "openclaw"
       ],
       "html_url": "https://github.com/rohitg00/agentmemory",
-      "stargazers_count": 29647,
-      "forks_count": 2613,
+      "stargazers_count": 29684,
+      "forks_count": 2621,
       "created_at": "2026-02-25T07:32:52Z",
-      "updated_at": "2026-10-18T05:32:16Z",
+      "updated_at": "2026-10-19T06:10:16Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364259+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179732+00:00",
       "override": false
     },
     {
@@ -2403,7 +2403,7 @@
         "skills",
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364263+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179737+00:00",
       "override": false
     },
     {
@@ -2412,14 +2412,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
-      "stargazers_count": 5963,
-      "forks_count": 831,
+      "stargazers_count": 5977,
+      "forks_count": 833,
       "created_at": "2026-04-29T10:07:08Z",
       "updated_at": "2026-10-17T01:03:09Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364266+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179740+00:00",
       "override": false
     },
     {
@@ -2449,15 +2449,15 @@
         "tree-sitter"
       ],
       "html_url": "https://github.com/Graphify-Labs/graphify",
-      "stargazers_count": 128288,
-      "forks_count": 12368,
+      "stargazers_count": 129016,
+      "forks_count": 12442,
       "created_at": "2026-04-03T15:49:07Z",
       "updated_at": "2026-10-16T17:57:21Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364273+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179744+00:00",
       "override": false
     },
     {
@@ -2466,14 +2466,14 @@
       "language": "Rust",
       "topics": [],
       "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
-      "stargazers_count": 32331,
-      "forks_count": 2078,
+      "stargazers_count": 32370,
+      "forks_count": 2081,
       "created_at": "2026-05-06T09:32:49Z",
-      "updated_at": "2026-10-18T17:39:54Z",
+      "updated_at": "2026-10-19T17:55:07Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364278+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179755+00:00",
       "override": false
     },
     {
@@ -2495,14 +2495,14 @@
         "weixin"
       ],
       "html_url": "https://github.com/doocs/md",
-      "stargazers_count": 13440,
-      "forks_count": 2328,
+      "stargazers_count": 13443,
+      "forks_count": 2361,
       "created_at": "2019-11-01T09:14:36Z",
       "updated_at": "2026-10-17T02:14:38Z",
       "categories": [
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364282+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179759+00:00",
       "override": false
     },
     {
@@ -2517,7 +2517,7 @@
         "prompts"
       ],
       "html_url": "https://github.com/yaojingang/yao-open-prompts",
-      "stargazers_count": 2939,
+      "stargazers_count": 2942,
       "forks_count": 477,
       "created_at": "2026-05-06T13:04:20Z",
       "updated_at": "2026-10-08T07:40:15Z",
@@ -2525,7 +2525,7 @@
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364285+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179762+00:00",
       "override": false
     },
     {
@@ -2534,7 +2534,7 @@
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/yaojingang/yao-open-skills",
-      "stargazers_count": 1323,
+      "stargazers_count": 1322,
       "forks_count": 145,
       "created_at": "2026-04-06T02:19:10Z",
       "updated_at": "2026-10-14T10:44:53Z",
@@ -2542,7 +2542,7 @@
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364288+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179766+00:00",
       "override": false
     },
     {
@@ -2564,15 +2564,15 @@
         "skills"
       ],
       "html_url": "https://github.com/composio-community/awesome-codex-skills",
-      "stargazers_count": 16955,
-      "forks_count": 1734,
+      "stargazers_count": 16960,
+      "forks_count": 1758,
       "created_at": "2026-01-12T11:58:21Z",
       "updated_at": "2026-07-26T01:14:54Z",
       "categories": [
         "resource-collections",
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364292+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179769+00:00",
       "override": false
     },
     {
@@ -2593,7 +2593,7 @@
         "web-ppt"
       ],
       "html_url": "https://github.com/op7418/guizang-ppt-skill",
-      "stargazers_count": 28184,
+      "stargazers_count": 28243,
       "forks_count": 1950,
       "created_at": "2026-04-23T13:23:07Z",
       "updated_at": "2026-08-07T03:58:08Z",
@@ -2601,7 +2601,7 @@
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364295+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179772+00:00",
       "override": false
     },
     {
@@ -2610,14 +2610,14 @@
       "language": "Go",
       "topics": [],
       "html_url": "https://github.com/fish2018/pansou",
-      "stargazers_count": 14950,
-      "forks_count": 3626,
+      "stargazers_count": 14961,
+      "forks_count": 3628,
       "created_at": "2025-07-10T07:17:46Z",
       "updated_at": "2026-10-12T06:00:52Z",
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364299+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179777+00:00",
       "override": true
     },
     {
@@ -2647,15 +2647,15 @@
         "visual-ai"
       ],
       "html_url": "https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts",
-      "stargazers_count": 17322,
-      "forks_count": 1743,
+      "stargazers_count": 17326,
+      "forks_count": 1742,
       "created_at": "2026-04-18T11:22:14Z",
       "updated_at": "2026-07-18T06:23:28Z",
       "categories": [
         "resource-collections",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364302+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179780+00:00",
       "override": false
     },
     {
@@ -2670,14 +2670,14 @@
         "spec-driven-development"
       ],
       "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
-      "stargazers_count": 54300,
+      "stargazers_count": 54329,
       "forks_count": 6097,
       "created_at": "2025-04-13T14:54:25Z",
-      "updated_at": "2026-10-18T18:53:00Z",
+      "updated_at": "2026-10-19T04:37:50Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364305+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179784+00:00",
       "override": true
     },
     {
@@ -2692,15 +2692,15 @@
         "harness"
       ],
       "html_url": "https://github.com/mindfold-ai/Trellis",
-      "stargazers_count": 14969,
-      "forks_count": 861,
+      "stargazers_count": 14981,
+      "forks_count": 864,
       "created_at": "2026-01-26T11:49:10Z",
       "updated_at": "2026-09-29T12:35:32Z",
       "categories": [
         "ai-tools",
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364309+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179787+00:00",
       "override": false
     },
     {
@@ -2717,7 +2717,7 @@
         "dev-tools",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364314+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179792+00:00",
       "override": false
     },
     {
@@ -2726,14 +2726,14 @@
       "language": "Go",
       "topics": [],
       "html_url": "https://github.com/multica-ai/multica",
-      "stargazers_count": 53115,
-      "forks_count": 6959,
+      "stargazers_count": 53221,
+      "forks_count": 6977,
       "created_at": "2026-01-13T17:59:46Z",
-      "updated_at": "2026-10-18T15:14:24Z",
+      "updated_at": "2026-10-19T10:07:18Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364317+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179796+00:00",
       "override": false
     },
     {
@@ -2751,15 +2751,15 @@
         "workflow-automation"
       ],
       "html_url": "https://github.com/yaojingang/yao-meta-skill",
-      "stargazers_count": 2706,
-      "forks_count": 258,
+      "stargazers_count": 2705,
+      "forks_count": 263,
       "created_at": "2026-03-31T11:59:35Z",
       "updated_at": "2026-08-17T09:19:43Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364321+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179799+00:00",
       "override": false
     },
     {
@@ -2768,15 +2768,15 @@
       "language": "HTML",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/huashu-design",
-      "stargazers_count": 25323,
-      "forks_count": 2843,
+      "stargazers_count": 25415,
+      "forks_count": 2850,
       "created_at": "2026-04-19T14:42:06Z",
       "updated_at": "2026-10-17T11:40:40Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364324+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179803+00:00",
       "override": false
     },
     {
@@ -2796,15 +2796,15 @@
         "specification"
       ],
       "html_url": "https://github.com/Fission-AI/OpenSpec",
-      "stargazers_count": 72327,
-      "forks_count": 4944,
+      "stargazers_count": 72417,
+      "forks_count": 4948,
       "created_at": "2025-08-05T10:37:45Z",
-      "updated_at": "2026-10-17T01:54:57Z",
+      "updated_at": "2026-10-19T17:17:37Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364327+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179806+00:00",
       "override": false
     },
     {
@@ -2824,15 +2824,15 @@
         "slides"
       ],
       "html_url": "https://github.com/hugohe3/ppt-master",
-      "stargazers_count": 63446,
-      "forks_count": 5016,
+      "stargazers_count": 63844,
+      "forks_count": 5048,
       "created_at": "2025-12-10T06:54:33Z",
-      "updated_at": "2026-10-17T12:21:54Z",
+      "updated_at": "2026-10-19T03:30:11Z",
       "categories": [
         "ai-content-creation",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364330+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179809+00:00",
       "override": false
     },
     {
@@ -2855,14 +2855,14 @@
         "openai"
       ],
       "html_url": "https://github.com/NousResearch/hermes-agent",
-      "stargazers_count": 254900,
-      "forks_count": 55438,
+      "stargazers_count": 255225,
+      "forks_count": 55549,
       "created_at": "2025-07-22T22:22:28Z",
-      "updated_at": "2026-10-18T18:40:24Z",
+      "updated_at": "2026-10-19T18:59:17Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364334+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179813+00:00",
       "override": false
     },
     {
@@ -2886,15 +2886,15 @@
         "seo"
       ],
       "html_url": "https://github.com/yaojingang/GEOFlow",
-      "stargazers_count": 3846,
-      "forks_count": 865,
+      "stargazers_count": 3856,
+      "forks_count": 866,
       "created_at": "2026-04-13T11:42:03Z",
       "updated_at": "2026-10-11T05:05:03Z",
       "categories": [
         "ai-content-creation",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364337+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179816+00:00",
       "override": false
     },
     {
@@ -2924,14 +2924,14 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "stargazers_count": 67695,
-      "forks_count": 6746,
+      "stargazers_count": 67758,
+      "forks_count": 6747,
       "created_at": "2025-10-31T14:15:28Z",
-      "updated_at": "2026-10-18T06:34:02Z",
+      "updated_at": "2026-10-19T06:34:20Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364341+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179820+00:00",
       "override": true
     },
     {
@@ -2956,14 +2956,14 @@
         "windows"
       ],
       "html_url": "https://github.com/getpaseo/paseo",
-      "stargazers_count": 21292,
-      "forks_count": 2539,
+      "stargazers_count": 21427,
+      "forks_count": 2559,
       "created_at": "2025-10-13T12:27:02Z",
-      "updated_at": "2026-10-18T18:57:24Z",
+      "updated_at": "2026-10-19T18:44:47Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364345+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179823+00:00",
       "override": true
     },
     {
@@ -2993,15 +2993,15 @@
         "supermemory"
       ],
       "html_url": "https://github.com/thedotmack/claude-mem",
-      "stargazers_count": 101590,
-      "forks_count": 8920,
+      "stargazers_count": 101782,
+      "forks_count": 8954,
       "created_at": "2025-08-31T20:50:03Z",
-      "updated_at": "2026-10-18T10:21:21Z",
+      "updated_at": "2026-10-19T17:55:29Z",
       "categories": [
         "ai-tools",
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364359+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179829+00:00",
       "override": false
     },
     {
@@ -3010,14 +3010,14 @@
       "language": "",
       "topics": [],
       "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stargazers_count": 220916,
-      "forks_count": 22187,
+      "stargazers_count": 221180,
+      "forks_count": 22218,
       "created_at": "2026-01-27T03:53:13Z",
       "updated_at": "2026-04-20T10:05:04Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364363+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179832+00:00",
       "override": false
     },
     {
@@ -3026,14 +3026,14 @@
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/mattpocock/skills",
-      "stargazers_count": 296008,
-      "forks_count": 24850,
+      "stargazers_count": 297284,
+      "forks_count": 24962,
       "created_at": "2026-02-03T11:15:53Z",
-      "updated_at": "2026-10-13T08:46:40Z",
+      "updated_at": "2026-10-19T15:52:15Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364366+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179836+00:00",
       "override": false
     },
     {
@@ -3053,15 +3053,15 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "stargazers_count": 40040,
-      "forks_count": 3589,
+      "stargazers_count": 40076,
+      "forks_count": 3593,
       "created_at": "2026-01-09T03:36:29Z",
-      "updated_at": "2026-10-18T18:37:06Z",
+      "updated_at": "2026-10-19T06:30:27Z",
       "categories": [
         "ai-tools",
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364373+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179839+00:00",
       "override": false
     },
     {
@@ -3081,14 +3081,14 @@
         "yaml"
       ],
       "html_url": "https://github.com/coleam00/Archon",
-      "stargazers_count": 23710,
-      "forks_count": 3564,
+      "stargazers_count": 23727,
+      "forks_count": 3585,
       "created_at": "2025-02-07T21:04:12Z",
-      "updated_at": "2026-10-18T18:56:24Z",
+      "updated_at": "2026-10-19T18:53:11Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364377+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179842+00:00",
       "override": true
     },
     {
@@ -3107,14 +3107,14 @@
         "vibecoding"
       ],
       "html_url": "https://github.com/VoltAgent/awesome-design-md",
-      "stargazers_count": 122061,
-      "forks_count": 13570,
+      "stargazers_count": 122293,
+      "forks_count": 13588,
       "created_at": "2026-03-31T16:37:01Z",
       "updated_at": "2026-10-14T05:46:48Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364380+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179846+00:00",
       "override": false
     },
     {
@@ -3128,15 +3128,15 @@
         "persona-distill"
       ],
       "html_url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-      "stargazers_count": 4703,
-      "forks_count": 514,
+      "stargazers_count": 4702,
+      "forks_count": 516,
       "created_at": "2026-04-06T20:02:21Z",
-      "updated_at": "2026-10-17T10:34:43Z",
+      "updated_at": "2026-10-18T19:09:21Z",
       "categories": [
         "skills",
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364384+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179849+00:00",
       "override": false
     },
     {
@@ -3145,14 +3145,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/alchaincyf/nuwa-skill",
-      "stargazers_count": 34934,
-      "forks_count": 4604,
+      "stargazers_count": 35061,
+      "forks_count": 4614,
       "created_at": "2026-04-05T04:33:04Z",
       "updated_at": "2026-10-17T09:04:27Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364387+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179853+00:00",
       "override": false
     },
     {
@@ -3161,14 +3161,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "stargazers_count": 5830,
+      "stargazers_count": 5831,
       "forks_count": 1623,
       "created_at": "2026-03-31T11:27:01Z",
       "updated_at": "2026-09-16T16:57:40Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364392+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179856+00:00",
       "override": true
     },
     {
@@ -3196,15 +3196,15 @@
         "typescript"
       ],
       "html_url": "https://github.com/f/prompts.chat",
-      "stargazers_count": 173348,
-      "forks_count": 22172,
+      "stargazers_count": 173561,
+      "forks_count": 22203,
       "created_at": "2022-12-05T13:54:13Z",
-      "updated_at": "2026-10-18T03:17:54Z",
+      "updated_at": "2026-10-19T03:19:47Z",
       "categories": [
         "ai-content-creation",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364396+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179860+00:00",
       "override": true
     },
     {
@@ -3232,14 +3232,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/bytedance/deer-flow",
-      "stargazers_count": 84075,
-      "forks_count": 11726,
+      "stargazers_count": 84150,
+      "forks_count": 11750,
       "created_at": "2025-05-07T02:50:19Z",
-      "updated_at": "2026-10-18T14:03:27Z",
+      "updated_at": "2026-10-19T15:27:04Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364401+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179866+00:00",
       "override": false
     },
     {
@@ -3256,14 +3256,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/jarrodwatts/claude-hud",
-      "stargazers_count": 28624,
-      "forks_count": 1383,
+      "stargazers_count": 28654,
+      "forks_count": 1410,
       "created_at": "2026-01-02T01:35:07Z",
-      "updated_at": "2026-10-18T00:02:47Z",
+      "updated_at": "2026-10-19T11:33:49Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364405+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179869+00:00",
       "override": true
     },
     {
@@ -3272,14 +3272,14 @@
       "language": "Python",
       "topics": [],
       "html_url": "https://github.com/imraywang/wewrite",
-      "stargazers_count": 3483,
+      "stargazers_count": 3488,
       "forks_count": 549,
       "created_at": "2026-03-26T14:18:54Z",
-      "updated_at": "2026-10-12T09:19:21Z",
+      "updated_at": "2026-10-19T07:52:01Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364412+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179873+00:00",
       "override": false
     },
     {
@@ -3293,14 +3293,14 @@
         "openclaw-skills"
       ],
       "html_url": "https://github.com/JimLiu/baoyu-skills",
-      "stargazers_count": 26756,
-      "forks_count": 2935,
+      "stargazers_count": 26772,
+      "forks_count": 2940,
       "created_at": "2026-01-13T03:04:56Z",
       "updated_at": "2026-09-10T15:13:43Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364415+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179876+00:00",
       "override": false
     },
     {
@@ -3317,14 +3317,14 @@
         "playwright"
       ],
       "html_url": "https://github.com/jackwener/OpenCLI",
-      "stargazers_count": 30406,
-      "forks_count": 3036,
+      "stargazers_count": 30439,
+      "forks_count": 3055,
       "created_at": "2026-03-14T22:10:23Z",
-      "updated_at": "2026-10-17T12:17:48Z",
+      "updated_at": "2026-10-19T17:56:06Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364418+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179879+00:00",
       "override": false
     },
     {
@@ -3333,14 +3333,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/lijigang/ljg-skills",
-      "stargazers_count": 7520,
-      "forks_count": 848,
+      "stargazers_count": 7525,
+      "forks_count": 850,
       "created_at": "2026-03-08T03:08:33Z",
-      "updated_at": "2026-10-12T05:06:34Z",
+      "updated_at": "2026-10-19T09:42:57Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364422+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179883+00:00",
       "override": false
     },
     {
@@ -3363,14 +3363,14 @@
         "xianyu-bot"
       ],
       "html_url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "stargazers_count": 15001,
-      "forks_count": 2648,
+      "stargazers_count": 15022,
+      "forks_count": 2650,
       "created_at": "2025-07-16T08:13:41Z",
       "updated_at": "2026-10-10T07:39:16Z",
       "categories": [
         "ai-monitoring"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364426+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179887+00:00",
       "override": true
     },
     {
@@ -3400,15 +3400,15 @@
         "xiaohongshu"
       ],
       "html_url": "https://github.com/iniwap/AIWriteX",
-      "stargazers_count": 2109,
-      "forks_count": 433,
+      "stargazers_count": 2115,
+      "forks_count": 440,
       "created_at": "2025-04-02T07:28:12Z",
       "updated_at": "2026-10-14T10:35:51Z",
       "categories": [
         "ai-content-creation",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364432+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179890+00:00",
       "override": false
     },
     {
@@ -3426,14 +3426,14 @@
         "openai"
       ],
       "html_url": "https://github.com/router-for-me/CLIProxyAPI",
-      "stargazers_count": 55604,
-      "forks_count": 8500,
+      "stargazers_count": 55694,
+      "forks_count": 8513,
       "created_at": "2025-07-01T19:43:27Z",
-      "updated_at": "2026-10-18T18:35:32Z",
+      "updated_at": "2026-10-19T16:55:28Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364435+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179894+00:00",
       "override": false
     },
     {
@@ -3463,15 +3463,15 @@
         "research-automation"
       ],
       "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "stargazers_count": 17661,
-      "forks_count": 1606,
+      "stargazers_count": 17726,
+      "forks_count": 1659,
       "created_at": "2026-03-10T07:31:45Z",
-      "updated_at": "2026-10-17T09:13:22Z",
+      "updated_at": "2026-10-19T06:20:47Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364438+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179899+00:00",
       "override": false
     },
     {
@@ -3495,14 +3495,14 @@
         "state-management"
       ],
       "html_url": "https://github.com/mem0ai/mem0",
-      "stargazers_count": 67393,
-      "forks_count": 7950,
+      "stargazers_count": 67459,
+      "forks_count": 7960,
       "created_at": "2023-06-20T08:58:36Z",
       "updated_at": "2026-10-17T21:06:52Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364444+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179904+00:00",
       "override": false
     },
     {
@@ -3522,15 +3522,15 @@
         "vibe-coding"
       ],
       "html_url": "https://github.com/zarazhangrui/frontend-slides",
-      "stargazers_count": 30853,
-      "forks_count": 2388,
+      "stargazers_count": 30913,
+      "forks_count": 2390,
       "created_at": "2026-01-28T00:42:34Z",
       "updated_at": "2026-06-23T20:08:19Z",
       "categories": [
         "skills",
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364447+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179907+00:00",
       "override": false
     },
     {
@@ -3539,14 +3539,14 @@
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/msitarzewski/agency-agents",
-      "stargazers_count": 161125,
-      "forks_count": 26074,
+      "stargazers_count": 161648,
+      "forks_count": 26156,
       "created_at": "2025-10-13T12:12:29Z",
-      "updated_at": "2026-10-15T05:33:33Z",
+      "updated_at": "2026-10-19T16:48:24Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364450+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179911+00:00",
       "override": false
     },
     {
@@ -3555,15 +3555,15 @@
       "language": "JavaScript",
       "topics": [],
       "html_url": "https://github.com/hzm0321/real-time-fund",
-      "stargazers_count": 1746,
+      "stargazers_count": 1747,
       "forks_count": 520,
       "created_at": "2026-01-31T12:55:02Z",
-      "updated_at": "2026-10-15T12:41:46Z",
+      "updated_at": "2026-10-19T07:55:42Z",
       "categories": [
         "ai-monitoring",
         "finance-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364455+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179916+00:00",
       "override": true
     },
     {
@@ -3593,14 +3593,14 @@
         "wsl-support"
       ],
       "html_url": "https://github.com/farion1231/cc-switch",
-      "stargazers_count": 145826,
-      "forks_count": 9645,
+      "stargazers_count": 146319,
+      "forks_count": 9665,
       "created_at": "2025-08-04T14:16:16Z",
-      "updated_at": "2026-10-18T03:01:30Z",
+      "updated_at": "2026-10-19T10:26:56Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364458+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179919+00:00",
       "override": false
     },
     {
@@ -3628,14 +3628,14 @@
         "webcamera"
       ],
       "html_url": "https://github.com/hacksider/Deep-Live-Cam",
-      "stargazers_count": 97114,
-      "forks_count": 14145,
+      "stargazers_count": 97130,
+      "forks_count": 14150,
       "created_at": "2023-09-24T13:19:31Z",
       "updated_at": "2026-10-10T04:19:17Z",
       "categories": [
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364462+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179923+00:00",
       "override": false
     },
     {
@@ -3660,14 +3660,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "stargazers_count": 70163,
+      "stargazers_count": 70198,
       "forks_count": 5772,
       "created_at": "2025-12-03T01:40:05Z",
-      "updated_at": "2026-10-18T18:53:51Z",
+      "updated_at": "2026-10-19T18:56:29Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364465+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179926+00:00",
       "override": false
     },
     {
@@ -3685,15 +3685,15 @@
         "superpowers"
       ],
       "html_url": "https://github.com/obra/superpowers",
-      "stargazers_count": 301573,
-      "forks_count": 26925,
+      "stargazers_count": 302046,
+      "forks_count": 26968,
       "created_at": "2025-10-09T19:45:18Z",
       "updated_at": "2026-10-10T03:03:30Z",
       "categories": [
         "skills",
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364468+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179930+00:00",
       "override": false
     },
     {
@@ -3703,13 +3703,13 @@
       "topics": [],
       "html_url": "https://github.com/EdNovas/dongguaTV",
       "stargazers_count": 590,
-      "forks_count": 669,
+      "forks_count": 668,
       "created_at": "2025-12-17T01:37:53Z",
       "updated_at": "2026-10-15T22:26:22Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364471+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179933+00:00",
       "override": false
     },
     {
@@ -3718,14 +3718,14 @@
       "language": "TypeScript",
       "topics": [],
       "html_url": "https://github.com/anomalyco/opencode",
-      "stargazers_count": 216342,
-      "forks_count": 28964,
+      "stargazers_count": 217577,
+      "forks_count": 29086,
       "created_at": "2025-04-30T20:08:00Z",
-      "updated_at": "2026-10-18T18:10:43Z",
+      "updated_at": "2026-10-19T18:58:47Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364474+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179936+00:00",
       "override": false
     },
     {
@@ -3753,14 +3753,14 @@
         "typescript"
       ],
       "html_url": "https://github.com/simstudioai/sim",
-      "stargazers_count": 29835,
+      "stargazers_count": 29843,
       "forks_count": 3862,
       "created_at": "2025-01-05T22:47:49Z",
-      "updated_at": "2026-10-18T16:25:45Z",
+      "updated_at": "2026-10-19T18:21:40Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364480+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179941+00:00",
       "override": false
     },
     {
@@ -3771,14 +3771,14 @@
         "agent-skills"
       ],
       "html_url": "https://github.com/anthropics/skills",
-      "stargazers_count": 181960,
-      "forks_count": 21556,
+      "stargazers_count": 182198,
+      "forks_count": 21590,
       "created_at": "2025-09-22T15:53:31Z",
       "updated_at": "2026-10-09T18:45:52Z",
       "categories": [
         "skills"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364483+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179944+00:00",
       "override": false
     },
     {
@@ -3796,14 +3796,14 @@
         "xray-core"
       ],
       "html_url": "https://github.com/7Sageer/sublink-worker",
-      "stargazers_count": 5500,
-      "forks_count": 9691,
+      "stargazers_count": 5504,
+      "forks_count": 9687,
       "created_at": "2024-07-27T08:09:07Z",
       "updated_at": "2026-10-16T04:04:05Z",
       "categories": [
         "network-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364487+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179948+00:00",
       "override": false
     },
     {
@@ -3831,14 +3831,14 @@
         "xray"
       ],
       "html_url": "https://github.com/yonggekkk/argosbx",
-      "stargazers_count": 5902,
-      "forks_count": 2307,
+      "stargazers_count": 5903,
+      "forks_count": 2304,
       "created_at": "2025-04-22T01:46:41Z",
       "updated_at": "2026-10-15T06:23:41Z",
       "categories": [
         "network-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364490+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179951+00:00",
       "override": false
     },
     {
@@ -3854,14 +3854,14 @@
         "tv-box"
       ],
       "html_url": "https://github.com/youhunwl/TVAPP",
-      "stargazers_count": 25341,
-      "forks_count": 3416,
+      "stargazers_count": 25414,
+      "forks_count": 3427,
       "created_at": "2025-03-11T01:59:36Z",
-      "updated_at": "2026-10-16T00:18:22Z",
+      "updated_at": "2026-10-19T00:11:39Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364493+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179955+00:00",
       "override": false
     },
     {
@@ -3870,14 +3870,14 @@
       "language": "",
       "topics": [],
       "html_url": "https://github.com/TWO-ICE/Awesome-NAS-Docker",
-      "stargazers_count": 4380,
+      "stargazers_count": 4382,
       "forks_count": 607,
       "created_at": "2025-03-19T03:52:16Z",
       "updated_at": "2026-07-22T05:54:45Z",
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364497+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179959+00:00",
       "override": true
     },
     {
@@ -3894,14 +3894,14 @@
         "wav2lip"
       ],
       "html_url": "https://github.com/xszyou/Fay",
-      "stargazers_count": 13580,
+      "stargazers_count": 13582,
       "forks_count": 2366,
       "created_at": "2022-06-13T08:06:19Z",
       "updated_at": "2026-09-21T08:56:33Z",
       "categories": [
         "ai-tools"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364500+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179962+00:00",
       "override": false
     },
     {
@@ -3931,14 +3931,14 @@
         "tvbox"
       ],
       "html_url": "https://github.com/Guovin/iptv-api",
-      "stargazers_count": 25632,
-      "forks_count": 7568,
+      "stargazers_count": 25651,
+      "forks_count": 7576,
       "created_at": "2024-02-04T11:22:59Z",
       "updated_at": "2026-10-14T01:21:43Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364504+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179967+00:00",
       "override": true
     },
     {
@@ -3947,14 +3947,14 @@
       "language": "",
       "topics": [],
       "html_url": "https://github.com/ruanyf/weekly",
-      "stargazers_count": 106412,
-      "forks_count": 4514,
+      "stargazers_count": 106498,
+      "forks_count": 4519,
       "created_at": "2018-10-13T12:36:07Z",
       "updated_at": "2026-10-16T01:00:58Z",
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364508+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179970+00:00",
       "override": false
     },
     {
@@ -3978,14 +3978,14 @@
         "workers"
       ],
       "html_url": "https://github.com/fanmingming/live",
-      "stargazers_count": 28622,
-      "forks_count": 4222,
+      "stargazers_count": 28641,
+      "forks_count": 4223,
       "created_at": "2022-11-16T18:03:31Z",
-      "updated_at": "2026-10-18T18:28:59Z",
+      "updated_at": "2026-10-19T18:34:06Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364511+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179973+00:00",
       "override": false
     },
     {
@@ -4009,14 +4009,14 @@
         "youtube-shorts"
       ],
       "html_url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "stargazers_count": 132697,
-      "forks_count": 20952,
+      "stargazers_count": 133115,
+      "forks_count": 21034,
       "created_at": "2024-03-11T02:57:34Z",
-      "updated_at": "2026-10-17T01:04:30Z",
+      "updated_at": "2026-10-19T09:57:53Z",
       "categories": [
         "ai-content-creation"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364516+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179978+00:00",
       "override": false
     },
     {
@@ -4031,14 +4031,14 @@
         "tv"
       ],
       "html_url": "https://github.com/iptv-org/iptv",
-      "stargazers_count": 141303,
-      "forks_count": 8306,
+      "stargazers_count": 141490,
+      "forks_count": 8328,
       "created_at": "2018-11-14T22:00:57Z",
-      "updated_at": "2026-10-18T18:52:24Z",
+      "updated_at": "2026-10-19T17:55:46Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364519+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179982+00:00",
       "override": false
     },
     {
@@ -4047,14 +4047,14 @@
       "language": "Shell",
       "topics": [],
       "html_url": "https://github.com/YanG-1989/m3u",
-      "stargazers_count": 11468,
-      "forks_count": 1608,
+      "stargazers_count": 11472,
+      "forks_count": 1607,
       "created_at": "2022-10-03T22:33:40Z",
       "updated_at": "2026-09-18T10:28:52Z",
       "categories": [
         "music-entertainment"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364523+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179985+00:00",
       "override": false
     },
     {
@@ -4063,14 +4063,14 @@
       "language": "",
       "topics": [],
       "html_url": "https://github.com/lanceliao/china-holiday-calender",
-      "stargazers_count": 6556,
+      "stargazers_count": 6555,
       "forks_count": 248,
       "created_at": "2021-05-08T07:37:54Z",
       "updated_at": "2025-11-04T16:00:22Z",
       "categories": [
         "resource-collections"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364526+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179989+00:00",
       "override": true
     },
     {
@@ -4088,14 +4088,14 @@
         "leetcode"
       ],
       "html_url": "https://github.com/labuladong/fucking-algorithm",
-      "stargazers_count": 135925,
-      "forks_count": 23531,
+      "stargazers_count": 135932,
+      "forks_count": 23532,
       "created_at": "2020-02-19T09:01:23Z",
       "updated_at": "2026-10-18T11:43:51Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364530+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179993+00:00",
       "override": true
     },
     {
@@ -4113,14 +4113,14 @@
         "snippets-library"
       ],
       "html_url": "https://github.com/iluwatar/java-design-patterns",
-      "stargazers_count": 94792,
-      "forks_count": 27347,
+      "stargazers_count": 94795,
+      "forks_count": 27348,
       "created_at": "2014-08-09T16:45:18Z",
       "updated_at": "2026-10-08T12:44:21Z",
       "categories": [
         "education-resources"
       ],
-      "analyzed_at": "2026-10-18T19:00:35.364534+00:00",
+      "analyzed_at": "2026-10-19T19:00:10.179997+00:00",
       "override": true
     }
   ]
